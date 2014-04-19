@@ -2258,9 +2258,8 @@
     <e><p><l>ปล้น<s n="vblex"/></l><r>rob<s n="vblex"/></r></p></e>
     <e><p><l>ป้องกัน<s n="vblex"/></l><r>prevent<s n="vblex"/></r></p></e>
     <e><p><l>อย่างเดียว<s n="adj"/></l><r>only<s n="adj"/></r></p></e>
-    <e><p><l>สั่ง<s n="adj"/></l><r>order<s n="adj"/></r></p></e>
-    <e><p><l>สั่ง<s n="n"/></l><r>order<s n="n"/></r></p></e>
-    <e><p><l>ของพวกเรา<s n="n"/></l><r>our<s n="n"/></r></p></e>
+    <e><p><l>สั่ง<s n="vblex"/></l><r>order<s n="vblex"/></r></p></e>
+    <e><p><l>ของพวกเรา<s n="det"/></l><r>our<s n="det"/></r></p></e>
     <e><p><l>โรตี<s n="n"/></l><r>roti<s n="n"/></r></p></e>
     <e><p><l>ขนมปัง<s n="n"/></l><r>roti<s n="n"/></r></p></e>
     <e><p><l>โลหะ<s n="n"/></l><r>metal<s n="n"/></r></p></e>
@@ -2269,277 +2268,199 @@
     <e><p><l>กุ้ง<s n="n"/></l><r>shrimp<s n="n"/></r></p></e>
     <e><p><l>ไม้กวาด<s n="n"/></l><r>broom<s n="n"/></r></p></e>
     <e><p><l>ปัสสาวะ<s n="n"/></l><r>urine<s n="n"/></r></p></e>
-    <e><p><l>มัีน<s n="n"/></l><r>es<s n="n"/></r></p></e>
-    <e><p><l>กัวเตมาลา<s n="n"/></l><r>Guatemala<s n="n"/></r></p></e>
+    <e><p><l>กัวเตมาลา<s n="np"/></l><r>Guatemala<s n="np"/></r></p></e>
     <e><p><l>กาบอง<s n="np"/></l><r>Gabon<s n="np"/></r></p></e>
     <e><p><l>กินี<s n="np"/></l><r>Guinea<s n="np"/></r></p></e>
     <e><p><l>เกรเนดา<s n="np"/></l><r>Grenada<s n="np"/></r></p></e>
-    <e><p><l>เกาหลีเหนือ<s n="np"/></l><r>North Korea<s n="np"/></r></p></e>
-    <e><p><l>โกตดิวัวร์<s n="np"/></l><r>Cote d'Ivoire<s n="np"/></r></p></e>
+    <e><p><l>เกาหลีเหนือ<s n="np"/></l><r>North<b/>Korea<s n="np"/></r></p></e>
+    <e><p><l>โกตดิวัวร์<s n="np"/></l><r>Cote<b/>d'Ivoire<s n="np"/></r></p></e>
     <e><p><l>ฟิลิปปินส์<s n="np"/></l><r>Philippines<s n="np"/></r></p></e>
-    <e><p><l>ติมอร์ตะวันออก<s n="np"/></l><r>East Timor<s n="np"/></r></p></e>
-    <e><p><l>เลขโรมัน<s n="np"/></l><r>XL<s n="np"/></r></p></e>
-    <e><p><l>สี่สิบ<s n="np"/></l><r>XL<s n="np"/></r></p></e>
-    <e><p><l>ขนาดใหญ่พิเศษ<s n="np"/></l><r>XL<s n="np"/></r></p></e>
-    <e><p><l>สัมพันธการก<s n="np"/></l><r>genitive<s n="np"/></r></p></e>
-    <e><p><l>กรรมการก<s n="np"/></l><r>accusative<s n="np"/></r></p></e>
-    <e><p><l>คอนเสิร์ต<s n="np"/></l><r>concert<s n="np"/></r></p></e>
-    <e><p><l>ประสาน<s n="np"/></l><r>concert<s n="np"/></r></p></e>
-    <e><p><l>ร่วมมือ<s n="np"/></l><r>concert<s n="np"/></r></p></e>
-    <e><p><l>กระดานหก<s n="np"/></l><r>seesaw<s n="np"/></r></p></e>
-    <e><p><l>หมีเท็ดดี้<s n="np"/></l><r>teddy bear<s n="np"/></r></p></e>
-    <e><p><l>ว่าว<s n="np"/></l><r>kite<s n="np"/></r></p></e>
+    <e><p><l>ติมอร์ตะวันออก<s n="np"/></l><r>East<b/>Timor<s n="np"/></r></p></e>
+    <e><p><l>14<s n="adj"/></l><r>XL<s n="adj"/></r></p></e>
+    <e><p><l>ขนาดใหญ่พิเศษ<s n="adj"/></l><r>XL<s n="adj"/></r></p></e>
+    <e><p><l>สัมพันธการก<s n="n"/></l><r>genitive<s n="adj"/></r></p></e>
+    <e><p><l>กรรมการก<s n="n"/></l><r>accusative<s n="adj"/></r></p></e>
+    <e><p><l>คอนเสิร์ต<s n="n"/></l><r>concert<s n="n"/></r></p></e>
+    <e><p><l>ประสาน<s n="vblex"/></l><r>concert<s n="vblex"/></r></p></e>
+    <e><p><l>ร่วมมือ<s n="vblex"/></l><r>concert<s n="vblex"/></r></p></e>
+    <e><p><l>กระดานหก<s n="n"/></l><r>seesaw<s n="n"/></r></p></e>
+    <e><p><l>หมีเท็ดดี้<s n="np"/></l><r>teddy<b/>bear<s n="np"/></r></p></e>
+    <e><p><l>ว่าว<s n="n"/></l><r>kite<s n="n"/></r></p></e>
     <e><p><l>กล็อค<s n="np"/></l><r>glock<s n="np"/></r></p></e>
-    <e><p><l>ปืน<s n="np"/></l><r>firearm<s n="np"/></r></p></e>
-    <e><p><l>ปืนกลหนัก<s n="np"/></l><r>heavy machine gun<s n="np"/></r></p></e>
-    <e><p><l>ปืนลม<s n="np"/></l><r>air gun<s n="np"/></r></p></e>
-    <e><p><l>ปืนสั้น<s n="np"/></l><r>handgun<s n="np"/></r></p></e>
-    <e><p><l>ปืนเล็กยาวจู่โจม<s n="np"/></l><r>assault rifle<s n="np"/></r></p></e>
-    <e><p><l>ยิง<s n="n"/></l><r>archery<s n="n"/></r></p></e>
-    <e><p><l>ธนู<s n="n"/></l><r>archery<s n="n"/></r></p></e>
-    <e><p><l>กีฬา<s n="n"/></l><r>archery<s n="n"/></r></p></e>
-    <e><p><l>ยิง<s n="np"/></l><r>archery<s n="np"/></r></p></e>
-    <e><p><l>ธนู<s n="np"/></l><r>archery<s n="np"/></r></p></e>
-    <e><p><l>กีฬา<s n="np"/></l><r>archery<s n="np"/></r></p></e>
-    <e><p><l>ทุ่นระเบิด<s n="np"/></l><r>land mine<s n="np"/></r></p></e>
-    <e><p><l>ลูกศร<s n="np"/></l><r>arrow<s n="np"/></r></p></e>
-    <e><p><l>อาวุธ<s n="np"/></l><r>weapon<s n="np"/></r></p></e>
-    <e><p><l>เกรปฟรุต<s n="np"/></l><r>grapefruit<s n="np"/></r></p></e>
-    <e><p><l>เงาะ<s n="adj"/></l><r>rambutan<s n="adj"/></r></p></e>
-    <e><p><l>เงาะ<s n="np"/></l><r>rambutan<s n="np"/></r></p></e>
-    <e><p><l>น้อยหน่า<s n="np"/></l><r>sugar apple<s n="np"/></r></p></e>
-    <e><p><l>มะเขือเทศราชินี<s n="np"/></l><r>cherry tomato<s n="np"/></r></p></e>
-    <e><p><l>มะไฟ<s n="np"/></l><r>Burmese grape<s n="np"/></r></p></e>
-    <e><p><l>มันแกว<s n="n"/></l><r>jícama<s n="n"/></r></p></e>
+    <e><p><l>ปืน<s n="n"/></l><r>firearm<s n="n"/></r></p></e>
+    <e><p><l>ปืนกลหนัก<s n="n"/></l><r>heavy machine gun<s n="n"/></r></p></e>
+    <e><p><l>ปืนลม<s n="n"/></l><r>air gun<s n="n"/></r></p></e>
+    <e><p><l>ปืนสั้น<s n="n"/></l><r>handgun<s n="n"/></r></p></e>
+    <e><p><l>ปืนเล็กยาวจู่โจม<s n="n"/></l><r>assault rifle<s n="n"/></r></p></e>
+    <e><p><l>ยิงธนู<s n="vblex"/></l><r>archery<s n="vblex"/></r></p></e>
+    <e><p><l>กีฬายิงธนู<s n="n"/></l><r>archery<s n="n"/></r></p></e>
+    <e><p><l>ทุ่นระเบิด<s n="n"/></l><r>land<b/>mine<s n="n"/></r></p></e>
+    <e><p><l>ลูกศร<s n="n"/></l><r>arrow<s n="n"/></r></p></e>
+    <e><p><l>อาวุธ<s n="n"/></l><r>weapon<s n="n"/></r></p></e>
+    <e><p><l>เกรปฟรุต<s n="n"/></l><r>grapefruit<s n="n"/></r></p></e>
+    <e><p><l>เงาะ<s n="n"/></l><r>rambutan<s n="n"/></r></p></e>
+    <e><p><l>น้อยหน่า<s n="n"/></l><r>sugar<b/>apple<s n="n"/></r></p></e>
+    <e><p><l>มะเขือเทศราชินี<s n="np"/></l><r>cherry<b/>tomato<s n="np"/></r></p></e>
+    <e><p><l>มะไฟ<s n="np"/></l><r>Burmese<b/>grape<s n="np"/></r></p></e>
     <e><p><l>สับปะรด<s n="n"/></l><r>pineapple<s n="n"/></r></p></e>
-    <e><p><l>ส้มจี๊ด<s n="n"/></l><r>kumquat<s n="n"/></r></p></e>
-    <e><p><l>ส้มจี๊ด<s n="vblex"/></l><r>kumquat<s n="vblex"/></r></p></e>
     <e><p><l>หว้า<s n="n"/></l><r>jambul<s n="n"/></r></p></e>
-    <e><p><l>หว้า<s n="vblex"/></l><r>jambul<s n="vblex"/></r></p></e>
-    <e><p><l>เชอร์รี่<s n="adj"/></l><r>cherry<s n="adj"/></r></p></e>
     <e><p><l>เชอร์รี่<s n="n"/></l><r>cherry<s n="n"/></r></p></e>
     <e><p><l>ฝ้าย<s n="n"/></l><r>cotton<s n="n"/></r></p></e>
     <e><p><l>กระบองเพชร<s n="n"/></l><r>cactus<s n="n"/></r></p></e>
-    <e><p><l>กระเทียมโทน<s n="n"/></l><r>elephant garlic<s n="n"/></r></p></e>
-    <e><p><l>กุหลาบมอญ<s n="n"/></l><r>Damask rose<s n="n"/></r></p></e>
-    <e><p><l>พืชดอก<s n="n"/></l><r>flowering plant<s n="n"/></r></p></e>
+    <e><p><l>กระเทียมโทน<s n="n"/></l><r>elephant<b/>garlic<s n="n"/></r></p></e>
+    <e><p><l>กุหลาบมอญ<s n="n"/></l><r>Damask<b/>rose<s n="n"/></r></p></e>
+    <e><p><l>พืชดอก<s n="n"/></l><r>flowering<b/>plant<s n="n"/></r></p></e>
     <e><p><l>เบอรี่<s n="n"/></l><r>berry<s n="n"/></r></p></e>
     <e><p><l>พืชอวบน้ำ<s n="n"/></l><r>succulent plant<s n="n"/></r></p></e>
-    <e><p><l>แมนเดรก<s n="adj"/></l><r>mandrake<s n="adj"/></r></p></e>
-    <e><p><l>สะระแหน่<s n="n"/></l><r>lemon balm<s n="n"/></r></p></e>
+    <e><p><l>แมนเดรก<s n="n"/></l><r>mandrake<s n="n"/></r></p></e>
+    <e><p><l>สะระแหน่<s n="n"/></l><r>lemon<b/>balm<s n="n"/></r></p></e>
     <e><p><l>ไอพอด<s n="n"/></l><r>iPod<s n="n"/></r></p></e>
-    <e><p><l>เครื่องปรับอากาศ<s n="n"/></l><r>air conditioner<s n="n"/></r></p></e>
-    <e><p><l>เตาอบไมโครเวฟ<s n="n"/></l><r>microwave oven<s n="n"/></r></p></e>
+    <e><p><l>เครื่องปรับอากาศ<s n="n"/></l><r>air<b/>conditioner<s n="n"/></r></p></e>
+    <e><p><l>เตาอบไมโครเวฟ<s n="n"/></l><r>microwave<b/>oven<s n="n"/></r></p></e>
     <e><p><l>วิดีโอ<s n="n"/></l><r>video<s n="n"/></r></p></e>
-    <e><p><l>เคเบิลทีวี<s n="n"/></l><r>cable television<s n="n"/></r></p></e>
-    <e><p><l>ภาพทดสอบ<s n="n"/></l><r>test card<s n="n"/></r></p></e>
+    <e><p><l>เคเบิลทีวี<s n="n"/></l><r>cable<b/>television<s n="n"/></r></p></e>
+    <e><p><l>ภาพทดสอบ<s n="n"/></l><r>test<b/>card<s n="n"/></r></p></e>
     <e><p><l>โอโบ<s n="adj"/></l><r>oboe<s n="adj"/></r></p></e>
-    <e><p><l>บาสซูน<s n="adj"/></l><r>bassoon<s n="adj"/></r></p></e>
     <e><p><l>บาสซูน<s n="n"/></l><r>bassoon<s n="n"/></r></p></e>
-    <e><p><l>คอนเน็ท<s n="adj"/></l><r>cornet<s n="adj"/></r></p></e>
-    <e><p><l>ทรอมโบน<s n="adj"/></l><r>trombone<s n="adj"/></r></p></e>
+    <e><p><l>คอนเน็ท<s n="n"/></l><r>cornet<s n="n"/></r></p></e>
     <e><p><l>ทรอมโบน<s n="n"/></l><r>trombone<s n="n"/></r></p></e>
     <e><p><l>ซูซาโฟน<s n="n"/></l><r>sousaphone<s n="n"/></r></p></e>
     <e><p><l>ยูโฟเนียม<s n="n"/></l><r>euphonium<s n="n"/></r></p></e>
     <e><p><l>กีตาร์<s n="n"/></l><r>guitar<s n="n"/></r></p></e>
     <e><p><l>ไซโลโฟน<s n="n"/></l><r>xylophone<s n="n"/></r></p></e>
     <e><p><l>การท่องเที่ยว<s n="n"/></l><r>tourism<s n="n"/></r></p></e>
-    <e><p><l>ล่องแก่ง<s n="prn"/></l><r>rafting<s n="prn"/></r></p></e>
-    <e><p><l>สวนสนุก<s n="prn"/></l><r>amusement park<s n="prn"/></r></p></e>
-    <e><p><l>กาสิโน<s n="prn"/></l><r>casino<s n="prn"/></r></p></e>
-    <e><p><l>โป๊กเกอร์<s n="prn"/></l><r>poker<s n="prn"/></r></p></e>
-    <e><p><l>ฮ๊อกคิ<s n="prn"/></l><r>hockey<s n="prn"/></r></p></e>
-    <e><p><l>ฮอกกี้<s n="prn"/></l><r>hockey<s n="prn"/></r></p></e>
-    <e><p><l>กีฬาฮอกกี้<s n="prn"/></l><r>hockey<s n="prn"/></r></p></e>
-    <e><p><l>กีฬา<s n="prn"/></l><r>hockey<s n="prn"/></r></p></e>
-    <e><p><l>ซูโม่<s n="prn"/></l><r>sumo<s n="prn"/></r></p></e>
-    <e><p><l>การบริหารรัฐกิจ<s n="n"/></l><r>public administration<s n="n"/></r></p></e>
-    <e><p><l>รัฐบาล<s n="prn"/></l><r>government<s n="prn"/></r></p></e>
-    <e><p><l>ซอสมะเขือเทศ<s n="np"/></l><r>ketchup<s n="np"/></r></p></e>
+    <e><p><l>ล่องแก่ง<s n="n"/></l><r>rafting<s n="n"/></r></p></e>
+    <e><p><l>สวนสนุก<s n="n"/></l><r>amusement<b/>park<s n="n"/></r></p></e>
+    <e><p><l>กาสิโน<s n="n"/></l><r>casino<s n="n"/></r></p></e>
+    <e><p><l>โป๊กเกอร์<s n="n"/></l><r>poker<s n="n"/></r></p></e>
+    <e><p><l>ฮอกกี้<s n="n"/></l><r>hockey<s n="n"/></r></p></e>
+    <e><p><l>กีฬาฮอกกี้<s n="n"/></l><r>hockey<s n="n"/></r></p></e>
+    <e><p><l>กีฬา<s n="n"/></l><r>hockey<s n="n"/></r></p></e>
+    <e><p><l>ซูโม่<s n="n"/></l><r>sumo<s n="n"/></r></p></e>
+    <e><p><l>การบริหารรัฐกิจ<s n="n"/></l><r>public<b/>administration<s n="n"/></r></p></e>
+    <e><p><l>รัฐบาล<s n="n"/></l><r>government<s n="n"/></r></p></e>
+    <e><p><l>ซอสมะเขือเทศ<s n="n"/></l><r>ketchup<s n="n"/></r></p></e>
     <e><p><l>กลูโคส<s n="n"/></l><r>glucose<s n="n"/></r></p></e>
-    <e><p><l>น้ำตาลเคลือบ<s n="n"/></l><r>coating sugar<s n="n"/></r></p></e>
-    <e><p><l>น้ำตาลไอซิ่ง<s n="adj"/></l><r>powdered sugar<s n="adj"/></r></p></e>
+    <e><p><l>น้ำตาลเคลือบ<s n="n"/></l><r>coating<b/>sugar<s n="n"/></r></p></e>
+    <e><p><l>น้ำตาลไอซิ่ง<s n="n"/></l><r>powdered<b/>sugar<s n="n"/></r></p></e>
     <e><p><l>ผักชีล้อม<s n="n"/></l><r>fennel<s n="n"/></r></p></e>
-    <e><p><l>ผักชีล้อม<s n="adj"/></l><r>fennel<s n="adj"/></r></p></e>
-    <e><p><l>เครื่องเทศ<s n="adv"/></l><r>spice<s n="adv"/></r></p></e>
     <e><p><l>เครื่องเทศ<s n="n"/></l><r>spice<s n="n"/></r></p></e>
-    <e><p><l>เครื่องเทศ<s n="adj"/></l><r>spice<s n="adj"/></r></p></e>
-    <e><p><l>พริกไทย<s n="adj"/></l><r>black pepper<s n="adj"/></r></p></e>
-    <e><p><l>มะนาว<s n="adj"/></l><r>key lime<s n="adj"/></r></p></e>
-    <e><p><l>มะนาว<s n="n"/></l><r>key lime<s n="n"/></r></p></e>
+    <e><p><l>พริกไทย<s n="n"/></l><r>black<b/>pepper<s n="n"/></r></p></e>
+    <e><p><l>มะนาว<s n="n"/></l><r>key<b/>lime<s n="n"/></r></p></e>
     <e><p><l>ธัญพืช<s n="adj"/></l><r>cereal<s n="adj"/></r></p></e>
     <e><p><l>ข้าวบาร์เลย์<s n="n"/></l><r>barley<s n="n"/></r></p></e>
-    <e><p><l>ข้าวบาร์เลย์<s n="adj"/></l><r>barley<s n="adj"/></r></p></e>
-    <e><p><l>ข้าวสาลี<s n="adv"/></l><r>wheat<s n="adv"/></r></p></e>
-    <e><p><l>ข้าวสาลี<s n="adj"/></l><r>wheat<s n="adj"/></r></p></e>
-    <e><p><l>ข้าวโอ๊ต<s n="adj"/></l><r>oat<s n="adj"/></r></p></e>
-    <e><p><l>ข้าวโอ๊ต<s n="adv"/></l><r>oat<s n="adv"/></r></p></e>
-    <e><p><l>ข้าวโอ๊ต<s n="det"/></l><r>oat<s n="det"/></r></p></e>
-    <e><p><l>ลูกเดือย<s n="adj"/></l><r>Job's tears<s n="adj"/></r></p></e>
-    <e><p><l>มีดพกสปริง<s n="adj"/></l><r>switchblade<s n="adj"/></r></p></e>
-    <e><p><l>มีดปาดเนย<s n="adj"/></l><r>butter knife<s n="adj"/></r></p></e>
-    <e><p><l>ขวาน<s n="adj"/></l><r>axe<s n="adj"/></r></p></e>
-    <e><p><l>มีดพับสวิส<s n="adv"/></l><r>Swiss Army knife<s n="adv"/></r></p></e>
-    <e><p><l>มีดพับสวิส<s n="adj"/></l><r>Swiss Army knife<s n="adj"/></r></p></e>
-    <e><p><l>เวลโคร<s n="adj"/></l><r>Velcro<s n="adj"/></r></p></e>
+    <e><p><l>ข้าวสาลี<s n="n"/></l><r>wheat<s n="n"/></r></p></e>
+    <e><p><l>ข้าวโอ๊ต<s n="n"/></l><r>oat<s n="n"/></r></p></e>
+    <e><p><l>ลูกเดือย<s n="n"/></l><r>Job's<b/>tears<s n="n"/></r></p></e>
+    <e><p><l>มีดพกสปริง<s n="n"/></l><r>switchblade<s n="n"/></r></p></e>
+    <e><p><l>มีดปาดเนย<s n="n"/></l><r>butter<b/>knife<s n="n"/></r></p></e>
+    <e><p><l>ขวาน<s n="n"/></l><r>axe<s n="n"/></r></p></e>
+    <e><p><l>มีดพับสวิส<s n="n"/></l><r>Swiss<b/>Army<b/>knife<s n="n"/></r></p></e>
     <e><p><l>กระทะ<s n="adj"/></l><r>frying pan<s n="adj"/></r></p></e>
     <e><p><l>ทัพพี<s n="n"/></l><r>ladle<s n="n"/></r></p></e>
-    <e><p><l>ทัพพี<s n="adj"/></l><r>ladle<s n="adj"/></r></p></e>
-    <e><p><l>หลอด<s n="adj"/></l><r>drinking straw<s n="adj"/></r></p></e>
-    <e><p><l>เครื่องผสมอาหาร<s n="preadv"/></l><r>mixer<s n="preadv"/></r></p></e>
-    <e><p><l>เครื่องผสมอาหาร<s n="adj"/></l><r>mixer<s n="adj"/></r></p></e>
-    <e><p><l>ข้าวต้ม<s n="adj"/></l><r>porridge<s n="adj"/></r></p></e>
-    <e><p><l>แยม<s n="adj"/></l><r>jam<s n="adj"/></r></p></e>
-    <e><p><l>ร่วม<s n="adj"/></l><r>jam<s n="adj"/></r></p></e>
-    <e><p><l>ด้วย<s n="adj"/></l><r>jam<s n="adj"/></r></p></e>
-    <e><p><l>ทอฟฟี<s n="adj"/></l><r>toffee<s n="adj"/></r></p></e>
-    <e><p><l>พิซซ่า<s n="adv"/></l><r>pizza<s n="adv"/></r></p></e>
-    <e><p><l>พิซซ่า<s n="adj"/></l><r>pizza<s n="adj"/></r></p></e>
-    <e><p><l>พิซซ่า<s n="vblex"/></l><r>pizza<s n="vblex"/></r></p></e>
+    <e><p><l>หลอด<s n="n"/></l><r>drinking<b/>straw<s n="n"/></r></p></e>
+    <e><p><l>เครื่องผสมอาหาร<s n="n"/></l><r>mixer<s n="n"/></r></p></e>
+    <e><p><l>ข้าวต้ม<s n="n"/></l><r>porridge<s n="n"/></r></p></e>
+    <e><p><l>แยม<s n="n"/></l><r>jam<s n="n"/></r></p></e>
+    <e><p><l>ร่วม<s n="vblex"/></l><r>jam<s n="vblex"/></r></p></e>
+    <e><p><l>ทอฟฟี<s n="n"/></l><r>toffee<s n="n"/></r></p></e>
+    <e><p><l>พิซซ่า<s n="n"/></l><r>pizza<s n="n"/></r></p></e>
     <e><p><l>สเต๊ก<s n="n"/></l><r>steak<s n="n"/></r></p></e>
-    <e><p><l>สเต๊ก<s n="adj"/></l><r>steak<s n="adj"/></r></p></e>
-    <e><p><l>แพนเค้ก<s n="adv"/></l><r>pancake<s n="adv"/></r></p></e>
-    <e><p><l>แพนเค้ก<s n="adj"/></l><r>pancake<s n="adj"/></r></p></e>
-    <e><p><l>ไอศกรีม<s n="adv"/></l><r>ice cream<s n="adv"/></r></p></e>
+    <e><p><l>แพนเค้ก<s n="n"/></l><r>pancake<s n="n"/></r></p></e>
     <e><p><l>ไอศกรีม<s n="n"/></l><r>ice cream<s n="n"/></r></p></e>
-    <e><p><l>ไอศกรีม<s n="adj"/></l><r>ice cream<s n="adj"/></r></p></e>
-    <e><p><l>ไอศกรีม<s n="vblex"/></l><r>ice cream<s n="vblex"/></r></p></e>
-    <e><p><l>สปาเกตตี<s n="adj"/></l><r>spaghetti<s n="adj"/></r></p></e>
+    <e><p><l>สปาเกตตี<s n="n"/></l><r>spaghetti<s n="n"/></r></p></e>
     <e><p><l>แมวไทย<s n="n"/></l><r>Thai cat<s n="n"/></r></p></e>
-    <e><p><l>แมวไทย<s n="adj"/></l><r>Thai cat<s n="adj"/></r></p></e>
-    <e><p><l>แมวไทย<s n="vblex"/></l><r>Thai cat<s n="vblex"/></r></p></e>
     <e><p><l>กระต่าย<s n="n"/></l><r>rabbit<s n="n"/></r></p></e>
-    <e><p><l>กระต่าย<s n="adj"/></l><r>rabbit<s n="adj"/></r></p></e>
-    <e><p><l>นกแก้ว<s n="adv"/></l><r>parrot<s n="adv"/></r></p></e>
     <e><p><l>นกแก้ว<s n="n"/></l><r>parrot<s n="n"/></r></p></e>
-    <e><p><l>นกแก้ว<s n="adj"/></l><r>parrot<s n="adj"/></r></p></e>
-    <e><p><l>ดัชนีมวลกาย<s n="adj"/></l><r>body mass index<s n="adj"/></r></p></e>
-    <e><p><l>การออกกำลังกาย<s n="adj"/></l><r>physical exercise<s n="adj"/></r></p></e>
-    <e><p><l>เพศศึกษา<s n="adj"/></l><r>sex education<s n="adj"/></r></p></e>
-    <e><p><l>วารีบำบัด<s n="adj"/></l><r>hydrotherapy<s n="adj"/></r></p></e>
-    <e><p><l>สาธารณสุข<s n="adj"/></l><r>public health<s n="adj"/></r></p></e>
-    <e><p><l>วาทกรรม<s n="adj"/></l><r>discourse<s n="adj"/></r></p></e>
-    <e><p><l>การผันคำ<s n="adj"/></l><r>inflection<s n="adj"/></r></p></e>
-    <e><p><l>การลงวิภัตติปัจจัย<s n="adj"/></l><r>inflection<s n="adj"/></r></p></e>
-    <e><p><l>ภาษาถิ่น<s n="adv"/></l><r>dialect<s n="adv"/></r></p></e>
-    <e><p><l>ภาษาถิ่น<s n="adj"/></l><r>dialect<s n="adj"/></r></p></e>
-    <e><p><l>ภาษาถิ่น<s n="vblex"/></l><r>dialect<s n="vblex"/></r></p></e>
-    <e><p><l>สัทอักษรสากล<s n="adv"/></l><r>International Phonetic Alphabet<s n="adv"/></r></p></e>
-    <e><p><l>สัทอักษรสากล<s n="n"/></l><r>International Phonetic Alphabet<s n="n"/></r></p></e>
-    <e><p><l>สัทอักษรสากล<s n="adj"/></l><r>International Phonetic Alphabet<s n="adj"/></r></p></e>
-    <e><p><l>วจนปฏิบัติศาสตร์<s n="adj"/></l><r>pragmatics<s n="adj"/></r></p></e>
+    <e><p><l>ดัชนีมวลกาย<s n="n"/></l><r>body mass index<s n="n"/></r></p></e>
+    <e><p><l>การออกกำลังกาย<s n="n"/></l><r>physical exercise<s n="n"/></r></p></e>
+    <e><p><l>เพศศึกษา<s n="n"/></l><r>sex<b/>education<s n="n"/></r></p></e>
+    <e><p><l>วารีบำบัด<s n="n"/></l><r>hydrotherapy<s n="n"/></r></p></e>
+    <e><p><l>สาธารณสุข<s n="n"/></l><r>public<b/>health<s n="n"/></r></p></e>
+    <e><p><l>วาทกรรม<s n="n"/></l><r>discourse<s n="n"/></r></p></e>
+    <e><p><l>การผันคำ<s n="n"/></l><r>inflection<s n="n"/></r></p></e>
+    <e><p><l>การลงวิภัตติปัจจัย<s n="n"/></l><r>inflection<s n="n"/></r></p></e>
+    <e><p><l>ภาษาถิ่น<s n="n"/></l><r>dialect<s n="n"/></r></p></e>
+    <e><p><l>สัทอักษรสากล<s n="n"/></l><r>International<b/>Phonetic<b/>Alphabet<s n="n"/></r></p></e>
+    <e><p><l>วจนปฏิบัติศาสตร์<s n="n"/></l><r>pragmatics<s n="n"/></r></p></e>
     <e><p><l>วากยสัมพันธ์<s n="n"/></l><r>syntax<s n="n"/></r></p></e>
-    <e><p><l>วากยสัมพันธ์<s n="adj"/></l><r>syntax<s n="adj"/></r></p></e>
-    <e><p><l>การเขียนคำทับศัพท์<s n="adj"/></l><r>transliteration<s n="adj"/></r></p></e>
-    <e><p><l>เฮโมโกลบิน<s n="adv"/></l><r>hemoglobin<s n="adv"/></r></p></e>
-    <e><p><l>เฮโมโกลบิน<s n="adj"/></l><r>hemoglobin<s n="adj"/></r></p></e>
-    <e><p><l>การกำซาบ<s n="adj"/></l><r>perfusion<s n="adj"/></r></p></e>
-    <e><p><l>บรอดชีต<s n="adj"/></l><r>broadsheet<s n="adj"/></r></p></e>
-    <e><p><l>การหมุน<s n="adj"/></l><r>rotation<s n="adj"/></r></p></e>
-    <e><p><l>ขอบฟ้า<s n="adj"/></l><r>horizon<s n="adj"/></r></p></e>
-    <e><p><l>ควาร์ก<s n="adj"/></l><r>quark<s n="adj"/></r></p></e>
-    <e><p><l>พลังงาน<s n="adj"/></l><r>energy<s n="adj"/></r></p></e>
-    <e><p><l>โฟตอนิกส์<s n="adj"/></l><r>photonics<s n="adj"/></r></p></e>
-    <e><p><l>ไฟฟ้าสถิต<s n="adj"/></l><r>electrostatics<s n="adj"/></r></p></e>
-    <e><p><l>ไฟฟ้าสถิต<s n="vblex"/></l><r>electrostatics<s n="vblex"/></r></p></e>
-    <e><p><l>โมเมนตัม<s n="adj"/></l><r>momentum<s n="adj"/></r></p></e>
-    <e><p><l>รังสีเอกซ์<s n="adj"/></l><r>X-ray<s n="adj"/></r></p></e>
-    <e><p><l>เลขมัค<s n="adj"/></l><r>Mach number<s n="adj"/></r></p></e>
-    <e><p><l>คอมพิวเตอร์คูลลิง<s n="adj"/></l><r>computer cooling<s n="adj"/></r></p></e>
-    <e><p><l>ฮีตซิงก์<s n="adj"/></l><r>heat sink<s n="adj"/></r></p></e>
-    <e><p><l>โทรสาร<s n="adj"/></l><r>fax<s n="adj"/></r></p></e>
-    <e><p><l>โทรภาพ<s n="adj"/></l><r>fax<s n="adj"/></r></p></e>
-    <e><p><l>เว็บแคม<s n="adj"/></l><r>webcam<s n="adj"/></r></p></e>
-    <e><p><l>เว็บแคเมรา<s n="adj"/></l><r>webcam<s n="adj"/></r></p></e>
-    <e><p><l>เมนบอร์ด<s n="adv"/></l><r>mainboard<s n="adv"/></r></p></e>
-    <e><p><l>เมนบอร์ด<s n="adj"/></l><r>mainboard<s n="adj"/></r></p></e>
+    <e><p><l>การเขียนคำทับศัพท์<s n="n"/></l><r>transliteration<s n="n"/></r></p></e>
+    <e><p><l>เฮโมโกลบิน<s n="n"/></l><r>hemoglobin<s n="n"/></r></p></e>
+    <e><p><l>การกำซาบ<s n="n"/></l><r>perfusion<s n="n"/></r></p></e>
+    <e><p><l>บรอดชีต<s n="n"/></l><r>broadsheet<s n="n"/></r></p></e>
+    <e><p><l>การหมุน<s n="n"/></l><r>rotation<s n="n"/></r></p></e>
+    <e><p><l>ขอบฟ้า<s n="n"/></l><r>horizon<s n="n"/></r></p></e>
+    <e><p><l>ควาร์ก<s n="n"/></l><r>quark<s n="n"/></r></p></e>
+    <e><p><l>พลังงาน<s n="n"/></l><r>energy<s n="n"/></r></p></e>
+    <e><p><l>โฟตอนิกส์<s n="n"/></l><r>photonics<s n="n"/></r></p></e>
+    <e><p><l>ไฟฟ้าสถิต<s n="n"/></l><r>electrostatics<s n="n"/></r></p></e>
+    <e><p><l>โมเมนตัม<s n="n"/></l><r>momentum<s n="n"/></r></p></e>
+    <e><p><l>รังสีเอกซ์<s n="n"/></l><r>X-ray<s n="n"/></r></p></e>
+    <e><p><l>เลขมัค<s n="n"/></l><r>Mach<b/>number<s n="n"/></r></p></e>
+    <e><p><l>คอมพิวเตอร์คูลลิง<s n="n"/></l><r>computer<b/>cooling<s n="n"/></r></p></e>
+    <e><p><l>ฮีตซิงก์<s n="n"/></l><r>heat<b/>sink<s n="n"/></r></p></e>
+    <e><p><l>โทรสาร<s n="n"/></l><r>fax<s n="n"/></r></p></e>
+    <e><p><l>เว็บแคม<s n="n"/></l><r>webcam<s n="n"/></r></p></e>
+    <e><p><l>เว็บแคเมรา<s n="n"/></l><r>webcam<s n="n"/></r></p></e>
+    <e><p><l>เมนบอร์ด<s n="n"/></l><r>mainboard<s n="n"/></r></p></e>
     <e><p><l>เอาต์พุต<s n="n"/></l><r>output<s n="n"/></r></p></e>
-    <e><p><l>เอาต์พุต<s n="adj"/></l><r>output<s n="adj"/></r></p></e>
-    <e><p><l>การสัก<s n="adj"/></l><r>tattoo<s n="adj"/></r></p></e>
-    <e><p><l>นางแบบ<s n="adj"/></l><r>fashion model<s n="adj"/></r></p></e>
+    <e><p><l>การสัก<s n="n"/></l><r>tattoo<s n="n"/></r></p></e>
+    <e><p><l>นางแบบ<s n="n"/></l><r>fashion model<s n="n"/></r></p></e>
     <e><p><l>ฮิปปี้<s n="n"/></l><r>hippie<s n="n"/></r></p></e>
-    <e><p><l>ฮิปปี้<s n="adj"/></l><r>hippie<s n="adj"/></r></p></e>
-    <e><p><l>การเต้นแท็ป<s n="adj"/></l><r>tap dance<s n="adj"/></r></p></e>
-    <e><p><l>แท็ปแดนซ์<s n="adj"/></l><r>tap dance<s n="adj"/></r></p></e>
-    <e><p><l>บัลเลต์<s n="adj"/></l><r>ballet<s n="adj"/></r></p></e>
+    <e><p><l>การเต้นแท็ป<s n="n"/></l><r>tap<b/>dance<s n="n"/></r></p></e>
+    <e><p><l>บัลเลต์<s n="n"/></l><r>ballet<s n="n"/></r></p></e>
     <e><p><l>แมมโบ<s n="n"/></l><r>mambo<s n="n"/></r></p></e>
-    <e><p><l>นกเจ้าฟ้าหญิงสิรินธร<s n="n"/></l><r>river martin<s n="n"/></r></p></e>
-    <e><p><l>นกเจ้าฟ้าหญิงสิรินธร<s n="vblex"/></l><r>river martin<s n="vblex"/></r></p></e>
-    <e><p><l>นกกา<s n="adj"/></l><r>crow<s n="adj"/></r></p></e>
-    <e><p><l>นกเรเวน<s n="adv"/></l><r>raven<s n="adv"/></r></p></e>
-    <e><p><l>นกเรเวน<s n="adj"/></l><r>raven<s n="adj"/></r></p></e>
-    <e><p><l>นกเรเวน<s n="vblex"/></l><r>raven<s n="vblex"/></r></p></e>
-    <e><p><l>การทำเหมืองเว็บ<s n="adj"/></l><r>web mining<s n="adj"/></r></p></e>
-    <e><p><l>การแบ่งกลุ่มข้อมูล<s n="adj"/></l><r>cluster analysis<s n="adj"/></r></p></e>
-    <e><p><l>การแบ่งกลุ่มข้อมูล<s n="adv"/></l><r>cluster analysis<s n="adv"/></r></p></e>
-    <e><p><l>จีพีเอส<s n="adj"/></l><r>GPS<s n="adj"/></r></p></e>
+    <e><p><l>นกเจ้าฟ้าหญิงสิรินธร<s n="n"/></l><r>river<b/>martin<s n="n"/></r></p></e>
+    <e><p><l>นกกา<s n="n"/></l><r>crow<s n="n"/></r></p></e>
+    <e><p><l>นกเรเวน<s n="n"/></l><r>raven<s n="n"/></r></p></e>
+    <e><p><l>การทำเหมืองเว็บ<s n="n"/></l><r>web mining<s n="n"/></r></p></e>
+    <e><p><l>การแบ่งกลุ่มข้อมูล<s n="n"/></l><r>cluster analysis<s n="n"/></r></p></e>
     <e><p><l>จีพีเอส<s n="n"/></l><r>GPS<s n="n"/></r></p></e>
-    <e><p><l>เครื่องยนต์<s n="adj"/></l><r>motor<s n="adj"/></r></p></e>
-    <e><p><l>มอเตอร์<s n="adj"/></l><r>motor<s n="adj"/></r></p></e>
-    <e><p><l>เครื่องยนต์<s n="vblex"/></l><r>motor<s n="vblex"/></r></p></e>
-    <e><p><l>มอเตอร์<s n="vblex"/></l><r>motor<s n="vblex"/></r></p></e>
-    <e><p><l>สิ่งประดิษฐ์<s n="adv"/></l><r>invention<s n="adv"/></r></p></e>
-    <e><p><l>สิ่งประดิษฐ์<s n="adj"/></l><r>invention<s n="adj"/></r></p></e>
-    <e><p><l>อัตราเฟรม<s n="adj"/></l><r>frame rate<s n="adj"/></r></p></e>
-    <e><p><l>การก่ออิฐ<s n="adj"/></l><r>brickwork<s n="adj"/></r></p></e>
-    <e><p><l>คอนกรีตเสริมแรง<s n="adj"/></l><r>reinforced concrete<s n="adj"/></r></p></e>
-    <e><p><l>ถนนลาดยาง<s n="adj"/></l><r>pavement<s n="adj"/></r></p></e>
-    <e><p><l>การขนส่ง<s n="adj"/></l><r>transport<s n="adj"/></r></p></e>
-    <e><p><l>ทางหลวง<s n="adj"/></l><r>highway<s n="adj"/></r></p></e>
-    <e><p><l>ยานลอยตัว<s n="adj"/></l><r>hovercraft<s n="adj"/></r></p></e>
-    <e><p><l>ลิฟต์<s n="adv"/></l><r>elevator<s n="adv"/></r></p></e>
-    <e><p><l>ลิฟต์<s n="adj"/></l><r>elevator<s n="adj"/></r></p></e>
-    <e><p><l>อธิกวินาที<s n="adj"/></l><r>leap second<s n="adj"/></r></p></e>
+    <e><p><l>เครื่องยนต์<s n="n"/></l><r>motor<s n="n"/></r></p></e>
+    <e><p><l>มอเตอร์<s n="n"/></l><r>motor<s n="n"/></r></p></e>
+    <e><p><l>สิ่งประดิษฐ์<s n="n"/></l><r>invention<s n="n"/></r></p></e>
+    <e><p><l>อัตราเฟรม<s n="n"/></l><r>frame rate<s n="n"/></r></p></e>
+    <e><p><l>การก่ออิฐ<s n="n"/></l><r>brickwork<s n="n"/></r></p></e>
+    <e><p><l>คอนกรีตเสริมแรง<s n="n"/></l><r>reinforced concrete<s n="n"/></r></p></e>
+    <e><p><l>ถนนลาดยาง<s n="n"/></l><r>pavement<s n="n"/></r></p></e>
+    <e><p><l>การขนส่ง<s n="n"/></l><r>transport<s n="n"/></r></p></e>
+    <e><p><l>ทางหลวง<s n="n"/></l><r>highway<s n="n"/></r></p></e>
+    <e><p><l>ยานลอยตัว<s n="n"/></l><r>hovercraft<s n="n"/></r></p></e>
+    <e><p><l>ลิฟต์<s n="n"/></l><r>elevator<s n="n"/></r></p></e>
     <e><p><l>อธิกวินาที<s n="n"/></l><r>leap second<s n="n"/></r></p></e>
-    <e><p><l>นาฬิกาดาราศาสตร์ปราก<s n="adj"/></l><r>Prague astronomical clock<s n="adj"/></r></p></e>
+    <e><p><l>นาฬิกาดาราศาสตร์ปราก<s n="n"/></l><r>Prague astronomical clock<s n="n"/></r></p></e>
     <e><p><l>นาฬิกาน้ำ<s n="n"/></l><r>water clock<s n="n"/></r></p></e>
-    <e><p><l>นาฬิกาน้ำ<s n="adj"/></l><r>water clock<s n="adj"/></r></p></e>
-    <e><p><l>นาฬิกาแดด<s n="adj"/></l><r>sundial<s n="adj"/></r></p></e>
     <e><p><l>นาฬิกาแดด<s n="n"/></l><r>sundial<s n="n"/></r></p></e>
-    <e><p><l>การไถนา<s n="adj"/></l><r>plough<s n="adj"/></r></p></e>
     <e><p><l>การไถนา<s n="n"/></l><r>plough<s n="n"/></r></p></e>
-    <e><p><l>ดินเหนียว<s n="adj"/></l><r>clay<s n="adj"/></r></p></e>
-    <e><p><l>นารวม<s n="vblex"/></l><r>collective farming<s n="vblex"/></r></p></e>
+    <e><p><l>ดินเหนียว<s n="n"/></l><r>clay<s n="n"/></r></p></e>
+    <e><p><l>นารวม<s n="n"/></l><r>collective farming<s n="n"/></r></p></e>
     <e><p><l>เงื่อน<s n="n"/></l><r>knot<s n="n"/></r></p></e>
-    <e><p><l>เงื่อน<s n="vblex"/></l><r>knot<s n="vblex"/></r></p></e>
     <e><p><l>การเรียน<s n="n"/></l><r>learning<s n="n"/></r></p></e>
-    <e><p><l>เดจาวู<s n="n"/></l><r>déjà vu<s n="n"/></r></p></e>
-    <e><p><l>เดจาวู<s n="vblex"/></l><r>déjà vu<s n="vblex"/></r></p></e>
+    <e><p><l>เดจาวู<s n="n"/></l><r>déjà<b/>vu<s n="n"/></r></p></e>
     <e><p><l>แรงจูงใจ<s n="n"/></l><r>motif<s n="n"/></r></p></e>
-    <e><p><l>แรงจูงใจ<s n="vblex"/></l><r>motif<s n="vblex"/></r></p></e>
-    <e><p><l>ประชากร<s n="adj"/></l><r>population<s n="adj"/></r></p></e>
     <e><p><l>ประชากร<s n="n"/></l><r>population<s n="n"/></r></p></e>
-    <e><p><l>ประชากร<s n="vblex"/></l><r>population<s n="vblex"/></r></p></e>
     <e><p><l>โรคป่วย<s n="n"/></l><r>illness<s n="n"/></r></p></e>
-    <e><p><l>โรคป่วย<s n="vblex"/></l><r>illness<s n="vblex"/></r></p></e>
     <e><p><l>การให้อภัย<s n="n"/></l><r>forgiveness<s n="n"/></r></p></e>
-    <e><p><l>การให้อภัย<s n="vblex"/></l><r>forgiveness<s n="vblex"/></r></p></e>
-    <e><p><l>ญาติ<s n="vblex"/></l><r>cousin<s n="vblex"/></r></p></e>
-    <e><p><l>ลูกพี่ลูกน้อง<s n="vblex"/></l><r>cousin<s n="vblex"/></r></p></e>
-    <e><p><l>ทรัพยากร<s n="vblex"/></l><r>resource<s n="vblex"/></r></p></e>
-    <e><p><l>มลภาวะทางแสง<s n="vblex"/></l><r>light pollution<s n="vblex"/></r></p></e>
-    <e><p><l>ไอน้ำ<s n="vblex"/></l><r>vapor<s n="vblex"/></r></p></e>
-    <e><p><l>คลื่นวิทยุ<s n="adj"/></l><r>radio waves<s n="adj"/></r></p></e>
-    <e><p><l>โซลิตอน<s n="adj"/></l><r>soliton<s n="adj"/></r></p></e>
+    <e><p><l>ญาติ<s n="n"/></l><r>cousin<s n="n"/></r></p></e>
+    <e><p><l>ลูกพี่ลูกน้อง<s n="n"/></l><r>cousin<s n="n"/></r></p></e>
+    <e><p><l>ทรัพยากร<s n="n"/></l><r>resource<s n="n"/></r></p></e>
+    <e><p><l>มลภาวะทางแสง<s n="n"/></l><r>light pollution<s n="n"/></r></p></e>
+    <e><p><l>ไอน้ำ<s n="n"/></l><r>vapor<s n="n"/></r></p></e>
+    <e><p><l>คลื่นวิทยุ<s n="n"/></l><r>radio waves<s n="n"/></r></p></e>
+    <e><p><l>โซลิตอน<s n="n"/></l><r>soliton<s n="n"/></r></p></e>
     <e><p><l>อคูสติกส์<s n="adj"/></l><r>acoustics<s n="adj"/></r></p></e>
-    <e><p><l>สวนศาสตร์<s n="adj"/></l><r>acoustics<s n="adj"/></r></p></e>
-    <e><p><l>อคูสติกส์<s n="vblex"/></l><r>acoustics<s n="vblex"/></r></p></e>
-    <e><p><l>สวนศาสตร์<s n="vblex"/></l><r>acoustics<s n="vblex"/></r></p></e>
-    <e><p><l>รังสีคอสมิก<s n="adj"/></l><r>cosmic ray<s n="adj"/></r></p></e>
-    <e><p><l>รังสีคอสมิก<s n="vblex"/></l><r>cosmic ray<s n="vblex"/></r></p></e>
-    <e><p><l>คลื่นพายุหมุนยกซัดฝั่ง<s n="adj"/></l><r>storm surge<s n="adj"/></r></p></e>
-    <e><p><l>เดซิเบล<s n="adj"/></l><r>decibel<s n="adj"/></r></p></e>
-    <e><p><l>มลพิษทางเสียง<s n="adj"/></l><r>noise pollution<s n="adj"/></r></p></e>
-    <e><p><l>กำมะถัน<s n="adj"/></l><r>sulphur<s n="adj"/></r></p></e>
-    <e><p><l>แกโดลิเนียม<s n="adj"/></l><r>gadolinium<s n="adj"/></r></p></e>
-    <e><p><l>คูเรียม<s n="adj"/></l><r>curium<s n="adj"/></r></p></e>
-    <e><p><l>แคลิฟอร์เนียม<s n="adj"/></l><r>californium<s n="adj"/></r></p></e>
+    <e><p><l>สวนศาสตร์<s n="n"/></l><r>acoustics<s n="n"/></r></p></e>
+    <e><p><l>รังสีคอสมิก<s n="n"/></l><r>cosmic ray<s n="n"/></r></p></e>
+    <e><p><l>คลื่นพายุหมุนยกซัดฝั่ง<s n="n"/></l><r>storm surge<s n="n"/></r></p></e>
+    <e><p><l>เดซิเบล<s n="n"/></l><r>decibel<s n="n"/></r></p></e>
+    <e><p><l>มลพิษทางเสียง<s n="n"/></l><r>noise<b/>pollution<s n="n"/></r></p></e>
+    <e><p><l>กำมะถัน<s n="n"/></l><r>sulphur<s n="n"/></r></p></e>
+    <e><p><l>แกโดลิเนียม<s n="n"/></l><r>gadolinium<s n="n"/></r></p></e>
+    <e><p><l>คูเรียม<s n="n"/></l><r>curium<s n="n"/></r></p></e>
+    <e><p><l>แคลิฟอร์เนียม<s n="n"/></l><r>californium<s n="n"/></r></p></e>
     <e><p><l>โคบอลต์<s n="n"/></l><r>cobalt<s n="n"/></r></p></e>
-    <e><p><l>โคบอลต์<s n="vblex"/></l><r>cobalt<s n="vblex"/></r></p></e>
-    <e><p><l>เจอร์เมเนียม<s n="adj"/></l><r>germanium<s n="adj"/></r></p></e>
     <e><p><l>เจอร์เมเนียม<s n="n"/></l><r>germanium<s n="n"/></r></p></e>
     <e><p><l>ซีบอร์เกียม<s n="n"/></l><r>seaborgium<s n="n"/></r></p></e>
-    <e><p><l>ซีบอร์เกียม<s n="vblex"/></l><r>seaborgium<s n="vblex"/></r></p></e>
     <e><p><l>ซีเรียม<s n="n"/></l><r>cerium<s n="n"/></r></p></e>
     <e><p><l>เซอร์โคเนียม<s n="n"/></l><r>zirconium<s n="n"/></r></p></e>
     <e><p><l>ดิสโพรเซียม<s n="n"/></l><r>dysprosium<s n="n"/></r></p></e>
@@ -2551,143 +2472,78 @@
     <e><p><l>นักโต้วาที<s n="n"/></l><r>orator<s n="n"/></r></p></e>
     <e><p><l>ออสเตรเลีย<s n="n"/></l><r>Australia<s n="n"/></r></p></e>
     <e><p><l>ทวีปออสเตรเลีย<s n="n"/></l><r>Australia<s n="n"/></r></p></e>
-    <e><p><l>ทวีปเอเชีย<s n="adj"/></l><r>Asia<s n="adj"/></r></p></e>
+    <e><p><l>ทวีปเอเชีย<s n="n"/></l><r>Asia<s n="n"/></r></p></e>
     <e><p><l>ทวีปอเมริกาเหนือ<s n="n"/></l><r>North America<s n="n"/></r></p></e>
-    <e><p><l>มหาสมุทรอาร์กติก<s n="adj"/></l><r>Arctic Ocean<s n="adj"/></r></p></e>
     <e><p><l>มหาสมุทรอาร์กติก<s n="n"/></l><r>Arctic Ocean<s n="n"/></r></p></e>
     <e><p><l>มหาสมุทรอินเดีย<s n="n"/></l><r>Indian Ocean<s n="n"/></r></p></e>
-    <e><p><l>มหาสมุทรอินเดีย<s n="vblex"/></l><r>Indian Ocean<s n="vblex"/></r></p></e>
-    <e><p><l>ยึดมั่น<s n="n"/></l><r>abide by<s n="n"/></r></p></e>
-    <e><p><l>ปฏิบัติ<s n="n"/></l><r>abide by<s n="n"/></r></p></e>
-    <e><p><l>ยึดมั่น<s n="vblex"/></l><r>abide by<s n="vblex"/></r></p></e>
-    <e><p><l>ปฏิบัติ<s n="vblex"/></l><r>abide by<s n="vblex"/></r></p></e>
-    <e><p><l>กลับหลัง<s n="n"/></l><r>about face<s n="n"/></r></p></e>
-    <e><p><l>ใจ<s n="n"/></l><r>about face<s n="n"/></r></p></e>
-    <e><p><l>กลับใจ<s n="n"/></l><r>about face<s n="n"/></r></p></e>
-    <e><p><l>กลับหลัง<s n="vblex"/></l><r>about face<s n="vblex"/></r></p></e>
-    <e><p><l>ใจ<s n="vblex"/></l><r>about face<s n="vblex"/></r></p></e>
-    <e><p><l>กลับใจ<s n="vblex"/></l><r>about face<s n="vblex"/></r></p></e>
-    <e><p><l>เพลิน<s n="adj"/></l><r>absorb in<s n="adj"/></r></p></e>
-    <e><p><l>หมกมุ่น<s n="adj"/></l><r>absorb in<s n="adj"/></r></p></e>
-    <e><p><l>เพลิน<s n="n"/></l><r>absorb in<s n="n"/></r></p></e>
-    <e><p><l>หมกมุ่น<s n="n"/></l><r>absorb in<s n="n"/></r></p></e>
-    <e><p><l>รับผิดชอบ<s n="n"/></l><r>account for<s n="n"/></r></p></e>
-    <e><p><l>เหตุผล<s n="n"/></l><r>account for<s n="n"/></r></p></e>
-    <e><p><l>โชคร้าย<s n="n"/></l><r>acid test<s n="n"/></r></p></e>
-    <e><p><l>มิตรภาพ<s n="n"/></l><r>acid test<s n="n"/></r></p></e>
-    <e><p><l>บริษัท<s n="adv"/></l><r>act of God<s n="adv"/></r></p></e>
-    <e><p><l>คุ้มครอง<s n="adv"/></l><r>act of God<s n="adv"/></r></p></e>
-    <e><p><l>บริษัท<s n="pr"/></l><r>act of God<s n="pr"/></r></p></e>
-    <e><p><l>คุ้มครอง<s n="pr"/></l><r>act of God<s n="pr"/></r></p></e>
-    <e><p><l>ภูมิแพ้<s n="adv"/></l><r>allergies<s n="adv"/></r></p></e>
-    <e><p><l>ปรับปรุง<s n="adv"/></l><r>adapt for<s n="adv"/></r></p></e>
-    <e><p><l>ปรับ<s n="adv"/></l><r>adapt for<s n="adv"/></r></p></e>
-    <e><p><l>ปรับปรุง<s n="det"/></l><r>adapt for<s n="det"/></r></p></e>
-    <e><p><l>ปรับ<s n="det"/></l><r>adapt for<s n="det"/></r></p></e>
-    <e><p><l>ปรับปรุง<s n="prn"/></l><r>adapt for<s n="prn"/></r></p></e>
-    <e><p><l>ปรับ<s n="prn"/></l><r>adapt for<s n="prn"/></r></p></e>
-    <e><p><l>บวก<s n="pr"/></l><r>add up<s n="pr"/></r></p></e>
-    <e><p><l>รวม<s n="pr"/></l><r>add up<s n="pr"/></r></p></e>
-    <e><p><l>เลข<s n="pr"/></l><r>add up<s n="pr"/></r></p></e>
-    <e><p><l>สารภาพ<s n="adv"/></l><r>admit to<s n="adv"/></r></p></e>
-    <e><p><l>ขโมย<s n="adv"/></l><r>admit to<s n="adv"/></r></p></e>
-    <e><p><l>ความผิด<s n="adv"/></l><r>admit to<s n="adv"/></r></p></e>
-    <e><p><l>เล็กน้อย<s n="adv"/></l><r>after a fashion<s n="adv"/></r></p></e>
-    <e><p><l>รสนิยม<s n="vbser"/></l><r>after one's own heart<s n="vbser"/></r></p></e>
-    <e><p><l>ความคิด<s n="vbser"/></l><r>after one's own heart<s n="vbser"/></r></p></e>
-    <e><p><l>ฝืน<s n="n"/></l><r>against the grain<s n="n"/></r></p></e>
-    <e><p><l>สังคม<s n="n"/></l><r>against the grain<s n="n"/></r></p></e>
-    <e><p><l>วิสัย<s n="n"/></l><r>against the grain<s n="n"/></r></p></e>
-    <e><p><l>กระทำ<s n="n"/></l><r>against the grain<s n="n"/></r></p></e>
-    <e><p><l>ไม่เต็มใจ<s n="n"/></l><r>against the grain<s n="n"/></r></p></e>
-    <e><p><l>ฝืน<s n="vblex"/></l><r>against the grain<s n="vblex"/></r></p></e>
-    <e><p><l>สังคม<s n="vblex"/></l><r>against the grain<s n="vblex"/></r></p></e>
-    <e><p><l>วิสัย<s n="vblex"/></l><r>against the grain<s n="vblex"/></r></p></e>
-    <e><p><l>กระทำ<s n="vblex"/></l><r>against the grain<s n="vblex"/></r></p></e>
-    <e><p><l>ไม่เต็มใจ<s n="vblex"/></l><r>against the grain<s n="vblex"/></r></p></e>
-    <e><p><l>ตกลง<s n="det"/></l><r>agree to<s n="det"/></r></p></e>
-    <e><p><l>เหมาะ<s n="adj"/></l><r>agree with<s n="adj"/></r></p></e>
-    <e><p><l>สอดคล้อง<s n="adj"/></l><r>agree with<s n="adj"/></r></p></e>
-    <e><p><l>กระทำ<s n="adj"/></l><r>agree with<s n="adj"/></r></p></e>
-    <e><p><l>มุ่ง<s n="det"/></l><r>aim at<s n="det"/></r></p></e>
-    <e><p><l>มุ่ง<s n="prn"/></l><r>aim at<s n="prn"/></r></p></e>
-    <e><p><l>ตระหนัก<s n="preadv"/></l><r>alive to<s n="preadv"/></r></p></e>
-    <e><p><l>รับรู้<s n="preadv"/></l><r>alive to<s n="preadv"/></r></p></e>
-    <e><p><l>สงคราม<s n="preadv"/></l><r>alive to<s n="preadv"/></r></p></e>
-    <e><p><l>ตระหนัก<s n="det"/></l><r>alive to<s n="det"/></r></p></e>
-    <e><p><l>รับรู้<s n="det"/></l><r>alive to<s n="det"/></r></p></e>
-    <e><p><l>สงคราม<s n="det"/></l><r>alive to<s n="det"/></r></p></e>
-    <e><p><l>ตระหนัก<s n="prn"/></l><r>alive to<s n="prn"/></r></p></e>
-    <e><p><l>รับรู้<s n="prn"/></l><r>alive to<s n="prn"/></r></p></e>
-    <e><p><l>สงคราม<s n="prn"/></l><r>alive to<s n="prn"/></r></p></e>
-    <e><p><l>ตลอด<s n="prn"/></l><r>all along<s n="prn"/></r></p></e>
-    <e><p><l>หลอกลวง<s n="prn"/></l><r>all along<s n="prn"/></r></p></e>
-    <e><p><l>โรงฆ่าสัตว์<s n="prn"/></l><r>abattoir<s n="prn"/></r></p></e>
-    <e><p><l>ผิดปกติ<s n="vbser"/></l><r>aberration<s n="vbser"/></r></p></e>
-    <e><p><l>วิปลาส<s n="vbser"/></l><r>aberration<s n="vbser"/></r></p></e>
-    <e><p><l>สังเวช<s n="n"/></l><r>abject<s n="n"/></r></p></e>
-    <e><p><l>นับถือ<s n="n"/></l><r>abject<s n="n"/></r></p></e>
-    <e><p><l>แข็งแรง<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>สมบูรณ์<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>อำนาจ<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>สามารถ<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>ฉลาด<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>ทักษะ<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>เก่ง<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>คุณสมบัติ<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>กฏหมาย<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>มอบ<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>รับรอง<s n="adv"/></l><r>able<s n="adv"/></r></p></e>
-    <e><p><l>แข็งแรง<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>สมบูรณ์<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>อำนาจ<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>สามารถ<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>ฉลาด<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>ทักษะ<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>เก่ง<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>คุณสมบัติ<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>กฏหมาย<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>มอบ<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>รับรอง<s n="pr"/></l><r>able<s n="pr"/></r></p></e>
-    <e><p><l>ภาษาฝรั่งเศสโบราณ<s n="vblex"/></l><r>aboard<s n="vblex"/></r></p></e>
-    <e><p><l>เรือ<s n="vblex"/></l><r>aboard<s n="vblex"/></r></p></e>
-    <e><p><l>เครื่องบิน<s n="vblex"/></l><r>aboard<s n="vblex"/></r></p></e>
-    <e><p><l>รถโดยสาร<s n="vblex"/></l><r>aboard<s n="vblex"/></r></p></e>
-    <e><p><l>ยกเลิก<s n="adj"/></l><r>abolish<s n="adj"/></r></p></e>
-    <e><p><l>เลิกล้ม<s n="adj"/></l><r>abolish<s n="adj"/></r></p></e>
-    <e><p><l>สิ้นสุด<s n="adj"/></l><r>abolish<s n="adj"/></r></p></e>
-    <e><p><l>ยกเลิก<s n="n"/></l><r>abolish<s n="n"/></r></p></e>
-    <e><p><l>เลิกล้ม<s n="n"/></l><r>abolish<s n="n"/></r></p></e>
-    <e><p><l>สิ้นสุด<s n="n"/></l><r>abolish<s n="n"/></r></p></e>
-    <e><p><l>โบราณ<s n="preadv"/></l><r>aboriginal<s n="preadv"/></r></p></e>
-    <e><p><l>โบราณ<s n="cnjadv"/></l><r>aboriginal<s n="cnjadv"/></r></p></e>
-    <e><p><l>โบราณ<s n="cnjsub"/></l><r>aboriginal<s n="cnjsub"/></r></p></e>
-    <e><p><l>โบราณ<s n="pr"/></l><r>aboriginal<s n="pr"/></r></p></e>
-    <e><p><l>ไหลทะลัก<s n="pr"/></l><r>abound<s n="pr"/></r></p></e>
-    <e><p><l>ดก<s n="pr"/></l><r>abound<s n="pr"/></r></p></e>
-    <e><p><l>ชุม<s n="pr"/></l><r>abound<s n="pr"/></r></p></e>
-    <e><p><l>อุดมสมบูรณ์<s n="pr"/></l><r>abound<s n="pr"/></r></p></e>
-    <e><p><l>ถมถืด<s n="pr"/></l><r>abound<s n="pr"/></r></p></e>
-    <e><p><l>ขูด<s n="adv"/></l><r>abrasive<s n="adv"/></r></p></e>
-    <e><p><l>ลอก<s n="adv"/></l><r>abrasive<s n="adv"/></r></p></e>
-    <e><p><l>หยาบคาย<s n="adv"/></l><r>abrasive<s n="adv"/></r></p></e>
-    <e><p><l>กักขฬะ<s n="adv"/></l><r>abrasive<s n="adv"/></r></p></e>
-    <e><p><l>ต่างประเทศ<s n="n"/></l><r>abroad<s n="n"/></r></p></e>
-    <e><p><l>ใหญ่<s n="n"/></l><r>abroad<s n="n"/></r></p></e>
-    <e><p><l>กว้างขวาง<s n="n"/></l><r>abroad<s n="n"/></r></p></e>
-    <e><p><l>กว้าง<s n="n"/></l><r>abroad<s n="n"/></r></p></e>
-    <e><p><l>ต่างประเทศ<s n="vblex"/></l><r>abroad<s n="vblex"/></r></p></e>
-    <e><p><l>ใหญ่<s n="vblex"/></l><r>abroad<s n="vblex"/></r></p></e>
-    <e><p><l>กว้างขวาง<s n="vblex"/></l><r>abroad<s n="vblex"/></r></p></e>
-    <e><p><l>กว้าง<s n="vblex"/></l><r>abroad<s n="vblex"/></r></p></e>
+    <e><p><l>ยึดมั่น<s n="vblex"/></l><r>abide<b/>by<s n="vblex"/></r></p></e>
+    <e><p><l>ปฏิบัติ<s n="vblex"/></l><r>abide<b/>by<s n="vblex"/></r></p></e>
+    <e><p><l>กลับหลัง<s n="vblex"/></l><r>about<b/>face<s n="vblex"/></r></p></e>
+    <e><p><l>กลับใจ<s n="vblex"/></l><r>about<b/>face<s n="vblex"/></r></p></e>
+    <e><p><l>เพลิน<s n="vblex"/></l><r>absorb<b/>in<s n="vblex"/></r></p></e>
+    <e><p><l>หมกมุ่น<s n="vblex"/></l><r>absorb<b/>in<s n="vblex"/></r></p></e>
+    <e><p><l>รับผิดชอบ<s n="vblex"/></l><r>account<b/>for<s n="vblex"/></r></p></e>
+    <e><p><l>ให้เหตุผล<s n="vblex"/></l><r>account<b/>for<s n="vblex"/></r></p></e>
+    <e><p><l>การทดลองอันรุนแรง<s n="n"/></l><r>acid<b/>test<s n="n"/></r></p></e>
+    <e><p><l>เหตุสุดวิสัย<s n="n"/></l><r>act<b/>of<b/>God<s n="n"/></r></p></e>
+    <e><p><l>ภูมิแพ้<s n="n"/></l><r>allergies<s n="n"/></r></p></e>
+    <e><p><l>ปรับปรุง<s n="vblex"/></l><r>adapt<b/>for<s n="vblex"/></r></p></e>
+    <e><p><l>ปรับ<s n="vblex"/></l><r>adapt<b/>for<s n="vblex"/></r></p></e>
+    <e><p><l>บวก<s n="vblex"/></l><r>add<b/>up<s n="vblex"/></r></p></e>
+    <e><p><l>รวม<s n="vblex"/></l><r>add<b/>up<s n="vblex"/></r></p></e>
+    <e><p><l>สารภาพ<s n="vblex"/></l><r>admit<b/>to<s n="vblex"/></r></p></e>
+    <e><p><l>เล็กน้อย<s n="adj"/></l><r>after<b/>a<b/>fashion<s n="adj"/></r></p></e>
+    <e><p><l>ตามแบบที่ชอบ<s n="adj"/></l><r>after<b/>one's<b/>own<b/>heart<s n="adj"/></r></p></e>
+    <e><p><l>ฝืนโลก<s n="n"/></l><r>against<b/>the<b/>grain<s n="n"/></r></p></e>
+    <e><p><l>ตกลง<s n="vblex"/></l><r>agree<b/>to<s n="vblex"/></r></p></e>
+    <e><p><l>เหมาะ<s n="vblex"/></l><r>agree<b/>with<s n="vblex"/></r></p></e>
+    <e><p><l>สอดคล้อง<s n="vblex"/></l><r>agree with<s n="vblex"/></r></p></e>
+    <e><p><l>มุ่ง<s n="vblex"/></l><r>aim<b/>at<s n="vblex"/></r></p></e>
+    <e><p><l>ตระหนัก<s n="vblex"/></l><r>alive<b/>to<s n="vblex"/></r></p></e>
+    <e><p><l>ตลอด<s n="adj"/></l><r>all<b/>along<s n="adj"/></r></p></e>
+    <e><p><l>โรงฆ่าสัตว์<s n="n"/></l><r>abattoir<s n="n"/></r></p></e>
+    <e><p><l>การกระทำที่ผิดปกติวิสัย<s n="n"/></l><r>aberration<s n="n"/></r></p></e>
+    <e><p><l>วิปลาส<s n="adj"/></l><r>aberration<s n="adj"/></r></p></e>
+    <e><p><l>น่าสังเวช<s n="adj"/></l><r>abject<s n="adj"/></r></p></e>
+    <e><p><l>แย่<s n="adj"/></l><r>abject<s n="adj"/></r></p></e>
+    <e><p><l>ไม่นับถือตัวเอง<s n="adj"/></l><r>abject<s n="adj"/></r></p></e>
+    <e><p><l>แข็งแรง<s n="adj"/></l><r>able<s n="adj"/></r></p></e>
+    <e><p><l>สมบูรณ์<s n="adj"/></l><r>able<s n="adj"/></r></p></e>
+    <e><p><l>มีอำนาจ<s n="adj"/></l><r>able<s n="adj"/></r></p></e>
+    <e><p><l>สามารถ<s n="vblex"/></l><r>able<s n="adj"/></r></p></e>
+    <e><p><l>ฉลาด<s n="adj"/></l><r>able<s n="adj"/></r></p></e>
+    <e><p><l>มีทักษะ<s n="adj"/></l><r>able<s n="adj"/></r></p></e>
+    <e><p><l>เก่ง<s n="adj"/></l><r>able<s n="adj"/></r></p></e>
+    <e><p><l>มีคุณสมบัติตามกฎหมาย<s n="adj"/></l><r>able<s n="adj"/></r></p></e>
+    <e><p><l>มีอำนาจตามกฏหมาย<s n="adj"/></l><r>able<s n="adj"/></r></p></e>
+    <e><p><l>มอบอำนาจ<s n="vblex"/></l><r>able<s n="vblex"/></r></p></e>
+    <e><p><l>รับรอง<s n="vblex"/></l><r>able<s n="vblex"/></r></p></e>
+    <e><p><l>แข็งแรงขึ้น<s n="vblex"/></l><r>able<s n="vblex"/></r></p></e>
+    <e><p><l>ลงเรือ<s n="vblex"/></l><r>aboard<s n="adj"/></r></p></e>
+    <e><p><l>ขึ้นเครื่องบิน<s n="vblex"/></l><r>aboard<s n="adj"/></r></p></e>
+    <e><p><l>รถโดยสาร<s n="vblex"/></l><r>aboard<s n="adj"/></r></p></e>
+    <e><p><l>ยกเลิก<s n="vblex"/></l><r>abolish<s n="vblex"/></r></p></e>
+    <e><p><l>เลิกล้ม<s n="vblex"/></l><r>abolish<s n="vblex"/></r></p></e>
+    <e><p><l>ทำให้สิ้นสุด<s n="vblex"/></l><r>abolish<s n="vblex"/></r></p></e>
+    <e><p><l>ต้นกำเนิด<s n="adj"/></l><r>aboriginal<s n="adj"/></r></p></e>
+    <e><p><l>ดก<s n="vblex"/></l><r>abound<s n="vblex"/></r></p></e>
+    <e><p><l>ชุม<s n="vblex"/></l><r>abound<s n="vblex"/></r></p></e>
+    <e><p><l>มีจำนวนมาก<s n="vblex"/></l><r>abound<s n="vblex"/></r></p></e>
+    <e><p><l>อุดมสมบูรณ์ไปด้วย<s n="vblex"/></l><r>abound<s n="vblex"/></r></p></e>
+    <e><p><l>มีถมถืด<s n="vblex"/></l><r>abound<s n="vblex"/></r></p></e>
+    <e><p><l>ที่ใช้สำหรับขูด<s n="adj"/></l><r>abrasive<s n="adj"/></r></p></e>
+    <e><p><l>ที่ใช้สำหรับลอก<s n="adj"/></l><r>abrasive<s n="adj"/></r></p></e>
+    <e><p><l>หยาบคาย<s n="adj"/></l><r>abrasive<s n="adj"/></r></p></e>
+    <e><p><l>กักขฬะ<s n="adj"/></l><r>abrasive<s n="adj"/></r></p></e>
+    <e><p><l>อาการปวดบวมตามร่างกาย<s n="n"/></l><r>abscess<s n="n"/></r></p></e>
     <e><p><l>ปวด<s n="n"/></l><r>abscess<s n="n"/></r></p></e>
     <e><p><l>หนอง<s n="n"/></l><r>abscess<s n="n"/></r></p></e>
     <e><p><l>ฝี<s n="n"/></l><r>abscess<s n="n"/></r></p></e>
-    <e><p><l>ขาดแคลน<s n="n"/></l><r>absent<s n="n"/></r></p></e>
-    <e><p><l>ใจลอย<s n="n"/></l><r>absent<s n="n"/></r></p></e>
-    <e><p><l>สูญหาย<s n="n"/></l><r>absent<s n="n"/></r></p></e>
-    <e><p><l>ดื่ม<s n="n"/></l><r>abstemious<s n="n"/></r></p></e>
-    <e><p><l>สายกลาง<s n="n"/></l><r>abstemious<s n="n"/></r></p></e>
+    <e><p><l>ขาดแคลน<s n="adj"/></l><r>absent<s n="adj"/></r></p></e>
+    <e><p><l>ใจลอย<s n="adj"/></l><r>absent<s n="adj"/></r></p></e>
+    <e><p><l>สูญหาย<s n="adj"/></l><r>absent<s n="adj"/></r></p></e>
+    <e><p><l>ไม่กินไม่ดื่มมาก<s n="adj"/></l><r>abstemious<s n="adj"/></r></p></e>
+    <e><p><l>เดินสายกลาง<s n="adj"/></l><r>abstemious<s n="adj"/></r></p></e>
     <e><p><l>ดื่ม<s n="vbser"/></l><r>abstinence<s n="vbser"/></r></p></e>
     <e><p><l>แอลกอฮอล์<s n="vbser"/></l><r>abstinence<s n="vbser"/></r></p></e>
     <e><p><l>อุดมสมบูรณ์<s n="n"/></l><r>abundance<s n="n"/></r></p></e>
