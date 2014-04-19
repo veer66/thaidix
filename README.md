@@ -1,5 +1,4 @@
-Thai dictionary for machine translation
-=======================================
+# Free Thai-X dictionary for machine translation
 
 ## Format
 * (Partial) Apertium dix
