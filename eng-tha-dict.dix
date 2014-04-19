@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
   <section id="main" type="standard">
     <e><p><l>แคลคูลัส<s n="n"/></l><r>calculus<s n="n"/></r></p></e>
@@ -1693,57 +1694,45 @@
     <e><p><l>เพิ่มขึ้น<s n="adv"/></l><r>further<s n="adv"/></r></p></e>
     <e><p><l>สนับสนุน<s n="vblex"/></l><r>further<s n="vblex"/></r></p></e>
     <e><p><l>ส่งเสริม<s n="vblex"/></l><r>further<s n="vblex"/></r></p></e>
-    <e><p><l>สวน<s n="adj"/></l><r>garden<s n="adj"/></r></p></e>
-    <e><p><l>ไร่<s n="adj"/></l><r>garden<s n="adj"/></r></p></e>
-    <e><p><l>อุทยาน<s n="m"/></l><r>garden<s n="m"/></r></p></e>
-    <e><p><l>ทำสวน<s n="m"/></l><r>garden<s n="m"/></r></p></e>
+    <e><p><l>สวน<s n="n"/></l><r>garden<s n="adj"/></r></p></e>
+    <e><p><l>ไร่<s n="n"/></l><r>garden<s n="adj"/></r></p></e>
+    <e><p><l>อุทยาน<s n="n"/></l><r>garden<s n="n"/></r></p></e>
+    <e><p><l>ทำสวน<s n="n"/></l><r>garden<s n="n"/></r></p></e>
     <e><p><l>ทำไร่<s n="vblex"/></l><r>garden<s n="vblex"/></r></p></e>
-    <e><p><l>เจน<s n="n"/></l><r>gentleman<s n="n"/></r></p></e>
-    <e><p><l>เทิลเมิน<s n="n"/></l><r>gentleman<s n="n"/></r></p></e>
     <e><p><l>สุภาพบุรุษ<s n="n"/></l><r>gentleman<s n="n"/></r></p></e>
     <e><p><l>ชายชาติตระกูลดี<s n="n"/></l><r>gentleman<s n="n"/></r></p></e>
     <e><p><l>ผู้มีกิริยาสุภาพ<s n="n"/></l><r>gentleman<s n="n"/></r></p></e>
-    <e><p><l>เจน<s n="vblex"/></l><r>gentleman<s n="vblex"/></r></p></e>
-    <e><p><l>เทิลเมิน<s n="vblex"/></l><r>gentleman<s n="vblex"/></r></p></e>
-    <e><p><l>สุภาพบุรุษ<s n="vblex"/></l><r>gentleman<s n="vblex"/></r></p></e>
-    <e><p><l>ชายชาติตระกูลดี<s n="vblex"/></l><r>gentleman<s n="vblex"/></r></p></e>
-    <e><p><l>ผู้มีกิริยาสุภาพ<s n="vblex"/></l><r>gentleman<s n="vblex"/></r></p></e>
-    <e><p><l>แกลด<s n="n"/></l><r>glad<s n="n"/></r></p></e>
-    <e><p><l>ดีใจ<s n="n"/></l><r>glad<s n="n"/></r></p></e>
-    <e><p><l>พอใจ<s n="n"/></l><r>glad<s n="n"/></r></p></e>
-    <e><p><l>ปิติยินดี<s n="n"/></l><r>glad<s n="n"/></r></p></e>
-    <e><p><l>สุขใจ<s n="n"/></l><r>glad<s n="n"/></r></p></e>
-    <e><p><l>ลาก่อน<s n="n"/></l><r>goodbye<s n="n"/></r></p></e>
+    <e><p><l>ดีใจ<s n="adj"/></l><r>glad<s n="n"/></r></p></e>
+    <e><p><l>พอใจ<s n="adj"/></l><r>glad<s n="n"/></r></p></e>
+    <e><p><l>ปิติยินดี<s n="adj"/></l><r>glad<s n="n"/></r></p></e>
+    <e><p><l>สุขใจ<s n="adj"/></l><r>glad<s n="n"/></r></p></e>
+    <e><p><l>ลาก่อน<s n="vblex"/></l><r>goodbye<s n="n"/></r></p></e>
     <e><p><l>ย่า<s n="n"/></l><r>grandmother<s n="n"/></r></p></e>
     <e><p><l>ยาย<s n="n"/></l><r>grandmother<s n="n"/></r></p></e>
     <e><p><l>บรรพบุรุษที่เป็นหญิง<s n="n"/></l><r>grandmother<s n="n"/></r></p></e>
-    <e><p><l>เกรฟว<s n="n"/></l><r>grave<s n="n"/></r></p></e>
     <e><p><l>หลุมศพ<s n="n"/></l><r>grave<s n="n"/></r></p></e>
     <e><p><l>หลุมฝังศพ<s n="n"/></l><r>grave<s n="n"/></r></p></e>
     <e><p><l>สุสาน<s n="n"/></l><r>grave<s n="n"/></r></p></e>
     <e><p><l>ป่าช้า<s n="n"/></l><r>grave<s n="n"/></r></p></e>
     <e><p><l>เสียงต่ำ<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>ร้ายแรง<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>รุนแรง<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>อันตราย<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>เคร่งเครียด<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>เอาจริงเอาจัง<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>สำคัญ<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>เศร้าซึม<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>ถมึงทึง<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>ขรึม<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>เสียงเค<s n="n"/></l><r>grave<s n="n"/></r></p></e>
-    <e><p><l>กรีน<s n="n"/></l><r>green<s n="n"/></r></p></e>
+    <e><p><l>ร้ายแรง<s n="adj"/></l><r>grave<s n="n"/></r></p></e>
+    <e><p><l>รุนแรง<s n="adj"/></l><r>grave<s n="n"/></r></p></e>
+    <e><p><l>อันตราย<s n="adj"/></l><r>grave<s n="n"/></r></p></e>
+    <e><p><l>เคร่งเครียด<s n="adj"/></l><r>grave<s n="n"/></r></p></e>
+    <e><p><l>เอาจริงเอาจัง<s n="adj"/></l><r>grave<s n="n"/></r></p></e>
+    <e><p><l>สำคัญ<s n="adj"/></l><r>grave<s n="n"/></r></p></e>
+    <e><p><l>เศร้าซึม<s n="adj"/></l><r>grave<s n="n"/></r></p></e>
+    <e><p><l>ถมึงทึง<s n="adj"/></l><r>grave<s n="n"/></r></p></e>
+    <e><p><l>ขรึม<s n="adj"/></l><r>grave<s n="n"/></r></p></e>
     <e><p><l>สีเขียว<s n="n"/></l><r>green<s n="n"/></r></p></e>
     <e><p><l>พื้นที่ที่มีหญ้าปกคลุม<s n="n"/></l><r>green<s n="n"/></r></p></e>
     <e><p><l>พื้นที่สีเขียว<s n="n"/></l><r>green<s n="n"/></r></p></e>
-    <e><p><l>มีสีเขียว<s n="n"/></l><r>green<s n="n"/></r></p></e>
-    <e><p><l>ซึ่งเขียวชอุ่ม<s n="n"/></l><r>green<s n="n"/></r></p></e>
-    <e><p><l>ยังไม่สุก<s n="n"/></l><r>green<s n="n"/></r></p></e>
+    <e><p><l>มีสีเขียว<s n="vblex"/></l><r>green<s n="adj"/></r></p></e>
+    <e><p><l>ซึ่งเขียวชอุ่ม<s n="adj"/></l><r>green<s n="adj"/></r></p></e>
+    <e><p><l>ยังไม่สุก<s n="adj"/></l><r>green<s n="adj"/></r></p></e>
     <e><p><l>ผลไม้<s n="n"/></l><r>green<s n="n"/></r></p></e>
-    <e><p><l>ดิบ<s n="n"/></l><r>green<s n="n"/></r></p></e>
-    <e><p><l>กลายเป็นสีเขียว<s n="n"/></l><r>green<s n="n"/></r></p></e>
-    <e><p><l>กรูพ<s n="n"/></l><r>group<s n="n"/></r></p></e>
+    <e><p><l>ดิบ<s n="adj"/></l><r>green<s n="n"/></r></p></e>
+    <e><p><l>กลายเป็นสีเขียว<s n="adj"/></l><r>green<s n="n"/></r></p></e>
     <e><p><l>กลุ่ม<s n="n"/></l><r>group<s n="n"/></r></p></e>
     <e><p><l>คณะ<s n="n"/></l><r>group<s n="n"/></r></p></e>
     <e><p><l>พวก<s n="n"/></l><r>group<s n="n"/></r></p></e>
@@ -1761,79 +1750,44 @@
     <e><p><l>ทางเข้าออก<s n="n"/></l><r>gate<s n="n"/></r></p></e>
     <e><p><l>ประตูเข้าออก<s n="n"/></l><r>gate<s n="n"/></r></p></e>
     <e><p><l>ประตู<s n="n"/></l><r>gate<s n="n"/></r></p></e>
-    <e><p><l>ฮอล<s n="vblex"/></l><r>hall<s n="vblex"/></r></p></e>
-    <e><p><l>บ้านหลังใหญ่ที่ตั้งอยู่ในที่ดินที่กว้างขวางมาก<s n="vblex"/></l><r>hall<s n="vblex"/></r></p></e>
-    <e><p><l>ระเบียงหรือทางเดินในตึก<s n="vblex"/></l><r>hall<s n="vblex"/></r></p></e>
-    <e><p><l>ห้องซึ่งมีขนาดใหญ่ที่อยู่ด้านหน้าบ้านหรือตึก<s n="vblex"/></l><r>hall<s n="vblex"/></r></p></e>
-    <e><p><l>หอประชุม<s n="vblex"/></l><r>hall<s n="vblex"/></r></p></e>
-    <e><p><l>ห้องโถง<s n="vblex"/></l><r>hall<s n="vblex"/></r></p></e>
-    <e><p><l>หอพักสำหรับนักศึกษา<s n="vblex"/></l><r>hall<s n="vblex"/></r></p></e>
-    <e><p><l>หอ<s n="vblex"/></l><r>hall<s n="vblex"/></r></p></e>
-    <e><p><l>ฮอล<s n="n"/></l><r>hall<s n="n"/></r></p></e>
-    <e><p><l>บ้านหลังใหญ่ที่ตั้งอยู่ในที่ดินที่กว้างขวางมาก<s n="n"/></l><r>hall<s n="n"/></r></p></e>
-    <e><p><l>ระเบียงหรือทางเดินในตึก<s n="n"/></l><r>hall<s n="n"/></r></p></e>
-    <e><p><l>ห้องซึ่งมีขนาดใหญ่ที่อยู่ด้านหน้าบ้านหรือตึก<s n="n"/></l><r>hall<s n="n"/></r></p></e>
-    <e><p><l>หอประชุม<s n="n"/></l><r>hall<s n="n"/></r></p></e>
-    <e><p><l>ห้องโถง<s n="n"/></l><r>hall<s n="n"/></r></p></e>
-    <e><p><l>หอพักสำหรับนักศึกษา<s n="n"/></l><r>hall<s n="n"/></r></p></e>
-    <e><p><l>หอ<s n="n"/></l><r>hall<s n="n"/></r></p></e>
-    <e><p><l>แฮพ<s n="n"/></l><r>happen<s n="n"/></r></p></e>
-    <e><p><l>เพิน<s n="n"/></l><r>happen<s n="n"/></r></p></e>
-    <e><p><l>ปรากฏ<s n="n"/></l><r>happen<s n="n"/></r></p></e>
-    <e><p><l>เกิดขึ้น<s n="n"/></l><r>happen<s n="n"/></r></p></e>
-    <e><p><l>อุบัติ<s n="n"/></l><r>happen<s n="n"/></r></p></e>
-    <e><p><l>อุบัติขึ้น<s n="n"/></l><r>happen<s n="n"/></r></p></e>
-    <e><p><l>พบโดยบังเอิญ<s n="n"/></l><r>happen<s n="n"/></r></p></e>
-    <e><p><l>เกิดขึ้นโดยบังเอิญ<s n="n"/></l><r>happen<s n="n"/></r></p></e>
-    <e><p><l>บังเอิญเกิดขึ้น<s n="n"/></l><r>happen<s n="n"/></r></p></e>
-    <e><p><l>เฮล<s n="n"/></l><r>healthy<s n="n"/></r></p></e>
-    <e><p><l>ธี<s n="n"/></l><r>healthy<s n="n"/></r></p></e>
-    <e><p><l>ซึ่งดีต่อสุขภาพ<s n="n"/></l><r>healthy<s n="n"/></r></p></e>
-    <e><p><l>ซึ่งมีประโยชน์ต่อสุขภาพ<s n="n"/></l><r>healthy<s n="n"/></r></p></e>
-    <e><p><l>ที่เป็นประโยชน์ต่อร่างกาย<s n="n"/></l><r>healthy<s n="n"/></r></p></e>
-    <e><p><l>ที่มีสุขภาพสมบูรณ์<s n="n"/></l><r>healthy<s n="n"/></r></p></e>
-    <e><p><l>ซึ่งสมบูรณ์<s n="n"/></l><r>healthy<s n="n"/></r></p></e>
-    <e><p><l>ซึ่งแข็งแรง<s n="n"/></l><r>healthy<s n="n"/></r></p></e>
-    <e><p><l>ซึ่งมีพลานามัยดี<s n="n"/></l><r>healthy<s n="n"/></r></p></e>
-    <e><p><l>ซึ่งมีสุขภาพดี<s n="n"/></l><r>healthy<s n="n"/></r></p></e>
-    <e><p><l>เฮล<s n="adj"/></l><r>hello<s n="adj"/></r></p></e>
-    <e><p><l>โล<s n="adj"/></l><r>hello<s n="adj"/></r></p></e>
-    <e><p><l>ฮีโล<s n="adj"/></l><r>hello<s n="adj"/></r></p></e>
+    <e><p><l>บ้านหลังใหญ่ที่ตั้งอยู่ในที่ดินที่กว้างขวางมาก<s n="n"/></l><r>hall<s n="vblex"/></r></p></e>
+    <e><p><l>ระเบียงหรือทางเดินในตึก<s n="n"/></l><r>hall<s n="vblex"/></r></p></e>
+    <e><p><l>ห้องซึ่งมีขนาดใหญ่ที่อยู่ด้านหน้าบ้านหรือตึก<s n="n"/></l><r>hall<s n="vblex"/></r></p></e>
+    <e><p><l>ปรากฏ<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
+    <e><p><l>เกิดขึ้น<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
+    <e><p><l>อุบัติ<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
+    <e><p><l>อุบัติขึ้น<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
+    <e><p><l>พบโดยบังเอิญ<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
+    <e><p><l>เกิดขึ้นโดยบังเอิญ<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
+    <e><p><l>บังเอิญเกิดขึ้น<s n="vblex"/></l><r>happen<s n="vblex"/></r></p></e>
+    <e><p><l>ซึ่งดีต่อสุขภาพ<s n="adj"/></l><r>healthy<s n="adj"/></r></p></e>
+    <e><p><l>ซึ่งมีประโยชน์ต่อสุขภาพ<s n="adj"/></l><r>healthy<s n="adj"/></r></p></e>
+    <e><p><l>ที่เป็นประโยชน์ต่อร่างกาย<s n="adj"/></l><r>healthy<s n="adj"/></r></p></e>
+    <e><p><l>ที่มีสุขภาพสมบูรณ์<s n="adj"/></l><r>healthy<s n="adj"/></r></p></e>
+    <e><p><l>ซึ่งสมบูรณ์<s n="adj"/></l><r>healthy<s n="adj"/></r></p></e>
+    <e><p><l>ซึ่งแข็งแรง<s n="adj"/></l><r>healthy<s n="adj"/></r></p></e>
+    <e><p><l>ซึ่งมีพลานามัยดี<s n="adj"/></l><r>healthy<s n="adj"/></r></p></e>
+    <e><p><l>ซึ่งมีสุขภาพดี<s n="adj"/></l><r>healthy<s n="adj"/></r></p></e>
     <e><p><l>สวัสดี<s n="adj"/></l><r>hello<s n="adj"/></r></p></e>
     <e><p><l>เป็นไงบ้าง<s n="adj"/></l><r>hello<s n="adj"/></r></p></e>
-    <e><p><l>สวัสดี<s n="n"/></l><r>hello<s n="n"/></r></p></e>
-    <e><p><l>เป็นไงบ้าง<s n="n"/></l><r>hello<s n="n"/></r></p></e>
-    <e><p><l>เฮฟ<s n="n"/></l><r>heaven<s n="n"/></r></p></e>
-    <e><p><l>เวิน<s n="n"/></l><r>heaven<s n="n"/></r></p></e>
     <e><p><l>สวรรค์<s n="n"/></l><r>heaven<s n="n"/></r></p></e>
     <e><p><l>สรวงสวรรค์<s n="n"/></l><r>heaven<s n="n"/></r></p></e>
-    <e><p><l>เฮน<s n="n"/></l><r>hen<s n="n"/></r></p></e>
     <e><p><l>แม่ไก่<s n="n"/></l><r>hen<s n="n"/></r></p></e>
     <e><p><l>นกตัวเมีย<s n="n"/></l><r>hen<s n="n"/></r></p></e>
-    <e><p><l>แสลง<s n="n"/></l><r>hen<s n="n"/></r></p></e>
     <e><p><l>ผู้หญิง<s n="n"/></l><r>hen<s n="n"/></r></p></e>
-    <e><p><l>เฮียร์<s n="n"/></l><r>here<s n="n"/></r></p></e>
     <e><p><l>ที่นี้<s n="n"/></l><r>here<s n="n"/></r></p></e>
-    <e><p><l>โลกนี้<s n="n"/></l><r>here<s n="n"/></r></p></e>
-    <e><p><l>ชีวิตนี้<s n="n"/></l><r>here<s n="n"/></r></p></e>
-    <e><p><l>ปัจจุบันนี้<s n="n"/></l><r>here<s n="n"/></r></p></e>
-    <e><p><l>ที่นี่<s n="n"/></l><r>here<s n="n"/></r></p></e>
-    <e><p><l>ตรงนี้<s n="n"/></l><r>here<s n="n"/></r></p></e>
-    <e><p><l>ในที่นี้<s n="n"/></l><r>here<s n="n"/></r></p></e>
-    <e><p><l>ณ<s n="n"/></l><r>here<s n="n"/></r></p></e>
-    <e><p><l>ที่ตรงนี้<s n="n"/></l><r>here<s n="n"/></r></p></e>
-    <e><p><l>ซึ่งกำลังพิจารณาอยู่<s n="n"/></l><r>here<s n="n"/></r></p></e>
-    <e><p><l>ฮิล<s n="n"/></l><r>hill<s n="n"/></r></p></e>
+    <e><p><l>โลกนี้<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>ชีวิตนี้<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>ปัจจุบันนี้<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>ที่นี่<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>ตรงนี้<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>ในที่นี้<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>ณ<b/>ที่ตรงนี้<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
     <e><p><l>กอง<s n="n"/></l><r>hill<s n="n"/></r></p></e>
     <e><p><l>เนิน<s n="n"/></l><r>hill<s n="n"/></r></p></e>
-    <e><p><l>เขาเตี้ย<s n="n"/></l><r>hill<s n="n"/></r></p></e>
-    <e><p><l>ๆ<s n="n"/></l><r>hill<s n="n"/></r></p></e>
+    <e><p><l>เขาเตี้ยๆ<s n="n"/></l><r>hill<s n="n"/></r></p></e>
     <e><p><l>ดอน<s n="n"/></l><r>hill<s n="n"/></r></p></e>
-    <e><p><l>ฮิส<s n="n"/></l><r>his<s n="n"/></r></p></e>
     <e><p><l>ของเขา<s n="n"/></l><r>his<s n="n"/></r></p></e>
-    <e><p><l>ผู้ชาย<s n="n"/></l><r>his<s n="n"/></r></p></e>
-    <e><p><l>หนังสือนี่ของเขา<s n="n"/></l><r>his<s n="n"/></r></p></e>
-    <e><p><l>โฮล<s n="n"/></l><r>hole<s n="n"/></r></p></e>
     <e><p><l>สถานการณ์ที่น่าอึดอัดใจ<s n="n"/></l><r>hole<s n="n"/></r></p></e>
     <e><p><l>สถานการณ์ที่เคอะเขิน<s n="n"/></l><r>hole<s n="n"/></r></p></e>
     <e><p><l>รู<s n="n"/></l><r>hole<s n="n"/></r></p></e>
@@ -1843,51 +1797,24 @@
     <e><p><l>ช่องว่าง<s n="n"/></l><r>hole<s n="n"/></r></p></e>
     <e><p><l>รอยโหว่<s n="n"/></l><r>hole<s n="n"/></r></p></e>
     <e><p><l>โพรง<s n="n"/></l><r>hole<s n="n"/></r></p></e>
-    <e><p><l>เจาะรู<s n="n"/></l><r>hole<s n="n"/></r></p></e>
-    <e><p><l>ขุดหลุม<s n="n"/></l><r>hole<s n="n"/></r></p></e>
-    <e><p><l>เจาะผ่าน<s n="n"/></l><r>hole<s n="n"/></r></p></e>
-    <e><p><l>ลงหลุม<s n="n"/></l><r>hole<s n="n"/></r></p></e>
-    <e><p><l>โฮล<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
-    <e><p><l>สถานการณ์ที่น่าอึดอัดใจ<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
-    <e><p><l>สถานการณ์ที่เคอะเขิน<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
-    <e><p><l>รู<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
-    <e><p><l>ปรุ<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
-    <e><p><l>ช่อง<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
-    <e><p><l>ร่อง<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
-    <e><p><l>ช่องว่าง<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
-    <e><p><l>รอยโหว่<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
-    <e><p><l>โพรง<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
     <e><p><l>เจาะรู<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
     <e><p><l>ขุดหลุม<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
     <e><p><l>เจาะผ่าน<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
     <e><p><l>ลงหลุม<s n="vblex"/></l><r>hole<s n="vblex"/></r></p></e>
-    <e><p><l>โฮพ<s n="n"/></l><r>hope<s n="n"/></r></p></e>
     <e><p><l>ความหวัง<s n="n"/></l><r>hope<s n="n"/></r></p></e>
     <e><p><l>ความปรารถนา<s n="n"/></l><r>hope<s n="n"/></r></p></e>
     <e><p><l>สิ่งที่หวังไว้<s n="n"/></l><r>hope<s n="n"/></r></p></e>
     <e><p><l>ตัวเก็ง<s n="n"/></l><r>hope<s n="n"/></r></p></e>
-    <e><p><l>หวัง<s n="n"/></l><r>hope<s n="n"/></r></p></e>
-    <e><p><l>คาดหวัง<s n="n"/></l><r>hope<s n="n"/></r></p></e>
-    <e><p><l>มีความหวัง<s n="n"/></l><r>hope<s n="n"/></r></p></e>
-    <e><p><l>ปรารถนา<s n="n"/></l><r>hope<s n="n"/></r></p></e>
-    <e><p><l>คาด<s n="n"/></l><r>hope<s n="n"/></r></p></e>
-    <e><p><l>โฮเทล<s n="n"/></l><r>hotel<s n="n"/></r></p></e>
+    <e><p><l>หวัง<s n="vblex"/></l><r>hope<s n="vblex"/></r></p></e>
+    <e><p><l>คาดหวัง<s n="vblex"/></l><r>hope<s n="vblex"/></r></p></e>
+    <e><p><l>มีความหวัง<s n="vblex"/></l><r>hope<s n="vblex"/></r></p></e>
     <e><p><l>โรงแรม<s n="n"/></l><r>hotel<s n="n"/></r></p></e>
-    <e><p><l>เลขโรมัน<s n="n"/></l><r>hundred<s n="n"/></r></p></e>
-    <e><p><l>เลขอาราบิค<s n="n"/></l><r>hundred<s n="n"/></r></p></e>
-    <e><p><l>สัญลักษณ์แบบเลขยกกำลัง<s n="n"/></l><r>hundred<s n="n"/></r></p></e>
-    <e><p><l>ฮัน<s n="n"/></l><r>hundred<s n="n"/></r></p></e>
-    <e><p><l>ดริด<s n="n"/></l><r>hundred<s n="n"/></r></p></e>
     <e><p><l>หนึ่งร้อย<s n="n"/></l><r>hundred<s n="n"/></r></p></e>
-    <e><p><l>เอา<s n="n"/></l><r>hour<s n="n"/></r></p></e>
-    <e><p><l>เออะ<s n="n"/></l><r>hour<s n="n"/></r></p></e>
     <e><p><l>ชั่วโมง<s n="n"/></l><r>hour<s n="n"/></r></p></e>
-    <e><p><l>นาที<s n="n"/></l><r>hour<s n="n"/></r></p></e>
     <e><p><l>เวลาหนึ่งเวลาใด<s n="n"/></l><r>hour<s n="n"/></r></p></e>
     <e><p><l>ปัจจุบัน<s n="n"/></l><r>hour<s n="n"/></r></p></e>
     <e><p><l>เวลาทำงาน<s n="n"/></l><r>hour<s n="n"/></r></p></e>
     <e><p><l>ระยะทางเดินหนึ่งชั่วโมง<s n="n"/></l><r>hour<s n="n"/></r></p></e>
-    <e><p><l>เฮิร์ท<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
     <e><p><l>การทำร้าย<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
     <e><p><l>การทำอันตราย<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
     <e><p><l>การทำลาย<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
@@ -1896,13 +1823,13 @@
     <e><p><l>ความเจ็บปวด<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
     <e><p><l>ความเสียหาย<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
     <e><p><l>อาการเจ็บปวด<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
-    <e><p><l>ทำให้เจ็บปวด<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
-    <e><p><l>เจ็บ<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
-    <e><p><l>ปวด<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
-    <e><p><l>บอบช้ำ<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
-    <e><p><l>ซึ่งเจ็บปวด<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
-    <e><p><l>ที่บาดเจ็บ<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
-    <e><p><l>ที่เป็นทุกข์<s n="n"/></l><r>hurt<s n="n"/></r></p></e>
+    <e><p><l>ทำให้เจ็บปวด<s n="vblex"/></l><r>hurt<s n="vblex"/></r></p></e>
+    <e><p><l>เจ็บ<s n="vblex"/></l><r>hurt<s n="vblex"/></r></p></e>
+    <e><p><l>ปวด<s n="vblex"/></l><r>hurt<s n="vblex"/></r></p></e>
+    <e><p><l>บอบช้ำ<s n="adj"/></l><r>hurt<s n="adj"/></r></p></e>
+    <e><p><l>ซึ่งเจ็บปวด<s n="adj"/></l><r>hurt<s n="adj"/></r></p></e>
+    <e><p><l>ที่บาดเจ็บ<s n="adj"/></l><r>hurt<s n="adj"/></r></p></e>
+    <e><p><l>ที่เป็นทุกข์<s n="adj"/></l><r>hurt<s n="adj"/></r></p></e>
     <e><p><l>พื้นดิน<s n="n"/></l><r>land<s n="n"/></r></p></e>
     <e><p><l>แผ่นดิน<s n="n"/></l><r>land<s n="n"/></r></p></e>
     <e><p><l>ผืนดิน<s n="n"/></l><r>land<s n="n"/></r></p></e>
