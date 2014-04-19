@@ -1,13 +1,13 @@
 Thai dictionary for machine translation
 =======================================
 
-# Format
+## Format
 * (Partial) Apertium dix
 
-# Source
+## Source
 * http://th.wiktionary.org
 
-# License
+## License
 
-## Data 
+### Data 
 CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
