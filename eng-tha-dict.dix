@@ -2158,48 +2158,42 @@
     <e><p><l>ป่า<s n="n"/></l><r>wild<s n="n"/></r></p></e>
     <e><p><l>ฤดูหนาว<s n="n"/></l><r>winter<s n="n"/></r></p></e>
     <e><p><l>กับ<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
-    <e><p><l>ประหลาดใจ<s n="n"/></l><r>wonder<s n="n"/></r></p></e>
+    <e><p><l>ประหลาดใจ<s n="vblex"/></l><r>wonder<s n="vblex"/></r></p></e>
     <e><p><l>เทนนิส<s n="n"/></l><r>tennis<s n="n"/></r></p></e>
-    <e><p><l>เหล่านี้<s n="n"/></l><r>these<s n="n"/></r></p></e>
-    <e><p><l>เหล่านี้<s n="vblex"/></l><r>these<s n="vblex"/></r></p></e>
+    <e><p><l>เหล่านี้<s n="prn"/></l><r>these<s n="prn"/></r></p></e>
     <e><p><l>ที่สาม<s n="adj"/></l><r>third<s n="adj"/></r></p></e>
-    <e><p><l>ที่สาม<s n="n"/></l><r>third<s n="n"/></r></p></e>
     <e><p><l>ประเภท<s n="n"/></l><r>type<s n="n"/></r></p></e>
     <e><p><l>เครื่องมือ<s n="n"/></l><r>tool<s n="n"/></r></p></e>
     <e><p><l>ชื่อ<s n="n"/></l><r>title<s n="n"/></r></p></e>
-    <e><p><l>ทำความสะอาด<s n="n"/></l><r>tidy<s n="n"/></r></p></e>
-    <e><p><l>คืนนี้<s n="n"/></l><r>tonight<s n="n"/></r></p></e>
+    <e><p><l>ทำความสะอาด<s n="vblex"/></l><r>tidy<s n="vblex"/></r></p></e>
+    <e><p><l>คืนนี้<s n="adv"/></l><r>tonight<s n="adv"/></r></p></e>
     <e><p><l>จริง<s n="adj"/></l><r>true<s n="adj"/></r></p></e>
-    <e><p><l>จริง<s n="n"/></l><r>true<s n="n"/></r></p></e>
     <e><p><l>สาร<s n="n"/></l><r>substance<s n="n"/></r></p></e>
     <e><p><l>ดังกล่าว<s n="n"/></l><r>such<s n="n"/></r></p></e>
     <e><p><l>น้ำตาล<s n="n"/></l><r>sugar<s n="n"/></r></p></e>
     <e><p><l>ฤดูร้อน<s n="n"/></l><r>summer<s n="n"/></r></p></e>
-    <e><p><l>อบอุ่น<s n="n"/></l><r>sunny<s n="n"/></r></p></e>
-    <e><p><l>แน่ใจ<s n="n"/></l><r>sure<s n="n"/></r></p></e>
-    <e><p><l>ว่ายน้ำ<s n="n"/></l><r>swim<s n="n"/></r></p></e>
-    <e><p><l>ความเร็ว<s n="adj"/></l><r>speed<s n="adj"/></r></p></e>
+    <e><p><l>อบอุ่น<s n="adj"/></l><r>sunny<s n="adj"/></r></p></e>
+    <e><p><l>แน่ใจ<s n="adj"/></l><r>sure<s n="adj"/></r></p></e>
+    <e><p><l>ว่ายน้ำ<s n="vblex"/></l><r>swim<s n="vblex"/></r></p></e>
     <e><p><l>ความเร็ว<s n="n"/></l><r>speed<s n="n"/></r></p></e>
-    <e><p><l>ใช้จ่าย<s n="n"/></l><r>spend<s n="n"/></r></p></e>
-    <e><p><l>กระจาย<s n="n"/></l><r>spread<s n="n"/></r></p></e>
+    <e><p><l>ใช้จ่าย<s n="vblex"/></l><r>spend<s n="vblex"/></r></p></e>
+    <e><p><l>กระจาย<s n="vblex"/></l><r>spread<s n="vblex"/></r></p></e>
     <e><p><l>ตาราง<s n="n"/></l><r>square<s n="n"/></r></p></e>
-    <e><p><l>เริ่ม<s n="adj"/></l><r>start<s n="adj"/></r></p></e>
-    <e><p><l>เริ่ม<s n="n"/></l><r>start<s n="n"/></r></p></e>
-    <e><p><l>อยู่<s n="n"/></l><r>stay<s n="n"/></r></p></e>
+    <e><p><l>เริ่ม<s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>
+    <e><p><l>อยู่<s n="vblex"/></l><r>stay<s n="vblex"/></r></p></e>
     <e><p><l>ไอน้ำ<s n="n"/></l><r>steam<s n="n"/></r></p></e>
     <e><p><l>ยังคง<s n="n"/></l><r>still<s n="n"/></r></p></e>
     <e><p><l>หิน<s n="n"/></l><r>stone<s n="n"/></r></p></e>
-    <e><p><l>เก็บ<s n="adj"/></l><r>store<s n="adj"/></r></p></e>
-    <e><p><l>เก็บ<s n="n"/></l><r>store<s n="n"/></r></p></e>
+    <e><p><l>เก็บ<s n="vblex"/></l><r>store<s n="vblex"/></r></p></e>
     <e><p><l>เรื่อง<s n="n"/></l><r>story<s n="n"/></r></p></e>
     <e><p><l>โครงสร้าง<s n="n"/></l><r>structure<s n="n"/></r></p></e>
     <e><p><l>หนึ่ง<s n="n"/></l><r>one<s n="n"/></r></p></e>
     <e><p><l>ขนาด<s n="n"/></l><r>size<s n="n"/></r></p></e>
     <e><p><l>กระโปรง<s n="n"/></l><r>skirt<s n="n"/></r></p></e>
     <e><p><l>ควัน<s n="n"/></l><r>smoke<s n="n"/></r></p></e>
-    <e><p><l>ยิ้ม<s n="n"/></l><r>smile<s n="n"/></r></p></e>
+    <e><p><l>ยิ้ม<s n="vblex"/></l><r>smile<s n="vblex"/></r></p></e>
     <e><p><l>บางสิ่ง<s n="n"/></l><r>something<s n="n"/></r></p></e>
-    <e><p><l>เร็วๆนี้<s n="n"/></l><r>soon<s n="n"/></r></p></e>
+    <e><p><l>เร็วๆนี้<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
     <e><p><l>ทิศใต้<s n="n"/></l><r>south<s n="n"/></r></p></e>
     <e><p><l>เกลือ<s n="n"/></l><r>salt<s n="n"/></r></p></e>
     <e><p><l>ธาตุเงิน<s n="n"/></l><r>silver<s n="n"/></r></p></e>
@@ -2207,7 +2201,6 @@
     <e><p><l>ประโยค<s n="vblex"/></l><r>sentence<s n="vblex"/></r></p></e>
     <e><p><l>รองเท้า<s n="n"/></l><r>shoe<s n="n"/></r></p></e>
     <e><p><l>พี่สาว<s n="n"/></l><r>sister<s n="n"/></r></p></e>
-    <e><p><l>พี่สาว<s n="vblex"/></l><r>sister<s n="vblex"/></r></p></e>
     <e><p><l>เสื้อ<s n="n"/></l><r>shirt<s n="n"/></r></p></e>
     <e><p><l>ชั้นวางของ<s n="n"/></l><r>shelf<s n="n"/></r></p></e>
     <e><p><l>เงา<s n="n"/></l><r>shadow<s n="n"/></r></p></e>
@@ -2216,16 +2209,12 @@
     <e><p><l>ตำรวจ<s n="n"/></l><r>police<s n="n"/></r></p></e>
     <e><p><l>กระเป๋ากางเกง<s n="n"/></l><r>pocket<s n="n"/></r></p></e>
     <e><p><l>สวนสาธารณะ<s n="n"/></l><r>park<s n="n"/></r></p></e>
-    <e><p><l>มนุษย์<s n="adj"/></l><r>people<s n="adj"/></r></p></e>
     <e><p><l>มนุษย์<s n="n"/></l><r>people<s n="n"/></r></p></e>
     <e><p><l>ช่วง<s n="n"/></l><r>person<s n="n"/></r></p></e>
     <e><p><l>เปียโน<s n="n"/></l><r>piano<s n="n"/></r></p></e>
     <e><p><l>ราบ<s n="n"/></l><r>piano<s n="n"/></r></p></e>
     <e><p><l>แบน<s n="n"/></l><r>piano<s n="n"/></r></p></e>
     <e><p><l>อ่อน<s n="n"/></l><r>piano<s n="n"/></r></p></e>
-    <e><p><l>นุ่ม<s n="n"/></l><r>piano<s n="n"/></r></p></e>
-    <e><p><l>ที่ราบ<s n="n"/></l><r>piano<s n="n"/></r></p></e>
-    <e><p><l>พื้น<s n="n"/></l><r>piano<s n="n"/></r></p></e>
     <e><p><l>ที่<s n="n"/></l><r>place<s n="n"/></r></p></e>
     <e><p><l>พืช<s n="n"/></l><r>plant<s n="n"/></r></p></e>
     <e><p><l>ตำแหน่ง<s n="n"/></l><r>positon<s n="n"/></r></p></e>
@@ -2233,51 +2222,42 @@
     <e><p><l>ถนน<s n="n"/></l><r>road<s n="n"/></r></p></e>
     <e><p><l>เจ้าหลวง<s n="n"/></l><r>ruler<s n="n"/></r></p></e>
     <e><p><l>ไม้บรรทัด<s n="n"/></l><r>ruler<s n="n"/></r></p></e>
-    <e><p><l>เศร้า<s n="n"/></l><r>sad<s n="n"/></r></p></e>
-    <e><p><l>เหมือนกัน<s n="n"/></l><r>same<s n="n"/></r></p></e>
-    <e><p><l>แบ่งปัน<s n="adj"/></l><r>share<s n="adj"/></r></p></e>
-    <e><p><l>แบ่งปัน<s n="n"/></l><r>share<s n="n"/></r></p></e>
-    <e><p><l>หลาย<s n="n"/></l><r>several<s n="n"/></r></p></e>
-    <e><p><l>คม<s n="n"/></l><r>sharp<s n="n"/></r></p></e>
+    <e><p><l>เศร้า<s n="adj"/></l><r>sad<s n="adj"/></r></p></e>
+    <e><p><l>เหมือนกัน<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
+    <e><p><l>แบ่งปัน<s n="vblex"/></l><r>share<s n="vblex"/></r></p></e>
+    <e><p><l>หลาย<s n="adj"/></l><r>several<s n="adj"/></r></p></e>
+    <e><p><l>คม<s n="adj"/></l><r>sharp<s n="adj"/></r></p></e>
     <e><p><l>ร้าน<s n="n"/></l><r>shop<s n="n"/></r></p></e>
-    <e><p><l>ร้าน<s n="vblex"/></l><r>shop<s n="vblex"/></r></p></e>
-    <e><p><l>ตะโกน<s n="n"/></l><r>shout<s n="n"/></r></p></e>
-    <e><p><l>คล้าย<s n="n"/></l><r>similar<s n="n"/></r></p></e>
-    <e><p><l>คล้าย<s n="vblex"/></l><r>similar<s n="vblex"/></r></p></e>
-    <e><p><l>กลม<s n="n"/></l><r>round<s n="n"/></r></p></e>
-    <e><p><l>จริง<s n="n"/></l><r>really<s n="n"/></r></p></e>
+    <e><p><l>ตะโกน<s n="vblex"/></l><r>shout<s n="vblex"/></r></p></e>
+    <e><p><l>คล้าย<s n="adj"/></l><r>similar<s n="adj"/></r></p></e>
+    <e><p><l>กลม<s n="adj"/></l><r>round<s n="adj"/></r></p></e>
+    <e><p><l>จริง<s n="adv"/></l><r>really<s n="adv"/></r></p></e>
     <e><p><l>คู่<s n="n"/></l><r>pair<s n="n"/></r></p></e>
-    <e><p><l>พอใจ<s n="n"/></l><r>pleased<s n="n"/></r></p></e>
+    <e><p><l>พอใจ<s n="adj"/></l><r>pleased<s n="adj"/></r></p></e>
     <e><p><l>ของขวัญ<s n="n"/></l><r>present<s n="n"/></r></p></e>
     <e><p><l>ปัญหา<s n="n"/></l><r>problem<s n="n"/></r></p></e>
     <e><p><l>หรือ<s n="n"/></l><r>or<s n="n"/></r></p></e>
     <e><p><l>ข้างนอก<s n="adj"/></l><r>outside<s n="adj"/></r></p></e>
     <e><p><l>ข้างนอก<s n="n"/></l><r>outside<s n="n"/></r></p></e>
-    <e><p><l>เชื่อฟัง<s n="n"/></l><r>obey<s n="n"/></r></p></e>
-    <e><p><l>โดย<s n="n"/></l><r>per<s n="n"/></r></p></e>
-    <e><p><l>ต่อ<s n="n"/></l><r>per<s n="n"/></r></p></e>
-    <e><p><l>สำหรับ<s n="n"/></l><r>per<s n="n"/></r></p></e>
-    <e><p><l>กับ<s n="n"/></l><r>per<s n="n"/></r></p></e>
-    <e><p><l>โดย<s n="vblex"/></l><r>per<s n="vblex"/></r></p></e>
-    <e><p><l>ต่อ<s n="vblex"/></l><r>per<s n="vblex"/></r></p></e>
-    <e><p><l>สำหรับ<s n="vblex"/></l><r>per<s n="vblex"/></r></p></e>
-    <e><p><l>กับ<s n="vblex"/></l><r>per<s n="vblex"/></r></p></e>
+    <e><p><l>เชื่อฟัง<s n="vblex"/></l><r>obey<s n="vblex"/></r></p></e>
+    <e><p><l>โดย<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+    <e><p><l>ต่อ<s n="adj"/></l><r>per<s n="adj"/></r></p></e>
+    <e><p><l>สำหรับ<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
+    <e><p><l>กับ<s n="pr"/></l><r>per<s n="pr"/></r></p></e>
     <e><p><l>เบนซิน<s n="n"/></l><r>petrol<s n="n"/></r></p></e>
-    <e><p><l>เบนซิน<s n="vblex"/></l><r>petrol<s n="vblex"/></r></p></e>
-    <e><p><l>โด่งดัง<s n="n"/></l><r>popular<s n="n"/></r></p></e>
-    <e><p><l>เป็น<s n="n"/></l><r>possible<s n="n"/></r></p></e>
-    <e><p><l>กด<s n="n"/></l><r>press<s n="n"/></r></p></e>
-    <e><p><l>วาง<s n="n"/></l><r>put<s n="n"/></r></p></e>
-    <e><p><l>เอื้อม<s n="n"/></l><r>reach<s n="n"/></r></p></e>
-    <e><p><l>รับ<s n="n"/></l><r>receive<s n="n"/></r></p></e>
-    <e><p><l>จำ<s n="n"/></l><r>remember<s n="n"/></r></p></e>
-    <e><p><l>ซ้ำ<s n="n"/></l><r>repeat<s n="n"/></r></p></e>
-    <e><p><l>บอก<s n="n"/></l><r>repeat<s n="n"/></r></p></e>
-    <e><p><l>กลับ<s n="n"/></l><r>return<s n="n"/></r></p></e>
+    <e><p><l>โด่งดัง<s n="adj"/></l><r>popular<s n="adj"/></r></p></e>
+    <e><p><l>เป็นไปได้<s n="adj"/></l><r>possible<s n="adj"/></r></p></e>
+    <e><p><l>กด<s n="vblex"/></l><r>press<s n="vblex"/></r></p></e>
+    <e><p><l>วาง<s n="vblex"/></l><r>put<s n="vblex"/></r></p></e>
+    <e><p><l>เอื้อม<s n="vblex"/></l><r>reach<s n="vblex"/></r></p></e>
+    <e><p><l>รับ<s n="vblex"/></l><r>receive<s n="vblex"/></r></p></e>
+    <e><p><l>จำ<s n="vblex"/></l><r>remember<s n="vblex"/></r></p></e>
+    <e><p><l>ซ้ำ<s n="adj"/></l><r>repeat<s n="adj"/></r></p></e>
+    <e><p><l>บอก<s n="vblex"/></l><r>repeat<s n="vblex"/></r></p></e>
     <e><p><l>กลับ<s n="vblex"/></l><r>return<s n="vblex"/></r></p></e>
-    <e><p><l>ปล้น<s n="n"/></l><r>rob<s n="n"/></r></p></e>
-    <e><p><l>ป้องกัน<s n="n"/></l><r>prevent<s n="n"/></r></p></e>
-    <e><p><l>อย่างเดียว<s n="n"/></l><r>only<s n="n"/></r></p></e>
+    <e><p><l>ปล้น<s n="vblex"/></l><r>rob<s n="vblex"/></r></p></e>
+    <e><p><l>ป้องกัน<s n="vblex"/></l><r>prevent<s n="vblex"/></r></p></e>
+    <e><p><l>อย่างเดียว<s n="adj"/></l><r>only<s n="adj"/></r></p></e>
     <e><p><l>สั่ง<s n="adj"/></l><r>order<s n="adj"/></r></p></e>
     <e><p><l>สั่ง<s n="n"/></l><r>order<s n="n"/></r></p></e>
     <e><p><l>ของพวกเรา<s n="n"/></l><r>our<s n="n"/></r></p></e>
