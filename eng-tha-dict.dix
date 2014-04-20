@@ -2544,166 +2544,54 @@
     <e><p><l>สูญหาย<s n="adj"/></l><r>absent<s n="adj"/></r></p></e>
     <e><p><l>ไม่กินไม่ดื่มมาก<s n="adj"/></l><r>abstemious<s n="adj"/></r></p></e>
     <e><p><l>เดินสายกลาง<s n="adj"/></l><r>abstemious<s n="adj"/></r></p></e>
-    <e><p><l>ดื่ม<s n="vbser"/></l><r>abstinence<s n="vbser"/></r></p></e>
-    <e><p><l>แอลกอฮอล์<s n="vbser"/></l><r>abstinence<s n="vbser"/></r></p></e>
-    <e><p><l>อุดมสมบูรณ์<s n="n"/></l><r>abundance<s n="n"/></r></p></e>
-    <e><p><l>สิ่งแวดล้อม<s n="n"/></l><r>abundance<s n="n"/></r></p></e>
-    <e><p><l>ย่อมาจากคำว่า<s n="n"/></l><r>'er<s n="n"/></r></p></e>
-    <e><p><l>ย่อมาจากคำว่า<s n="vblex"/></l><r>'er<s n="vblex"/></r></p></e>
-    <e><p><l>ภาษาละตินตอนปลาย<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>จาก<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>ภาษากรีกโบราณ<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>ซ่อน<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>คลิ๊พ<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>ทิค<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>สิ่ง<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>ที่ซ่อนเร้นหรือยากที่จะเข้าใจ<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>ข้อความที่<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>ยากจะเข้าใจ<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>รอยยิ้มที่<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>ซ่อนเร้น<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>วิเศษณ์<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
-    <e><p><l>กลัว<s n="adv"/></l><r>xenophobia<s n="adv"/></r></p></e>
-    <e><p><l>ต่างประเทศ<s n="adv"/></l><r>xenophobia<s n="adv"/></r></p></e>
-    <e><p><l>กลัว<s n="cnjsub"/></l><r>xenophobia<s n="cnjsub"/></r></p></e>
-    <e><p><l>ต่างประเทศ<s n="cnjsub"/></l><r>xenophobia<s n="cnjsub"/></r></p></e>
-    <e><p><l>กลัว<s n="pr"/></l><r>xenophobia<s n="pr"/></r></p></e>
-    <e><p><l>ต่างประเทศ<s n="pr"/></l><r>xenophobia<s n="pr"/></r></p></e>
-    <e><p><l>มาตรฐาน<s n="vblex"/></l><r>abysmal<s n="vblex"/></r></p></e>
-    <e><p><l>เฉพาะทาง<s n="adv"/></l><r>academy<s n="adv"/></r></p></e>
-    <e><p><l>โรงเรียนมัธยมศึกษา<s n="adv"/></l><r>academy<s n="adv"/></r></p></e>
-    <e><p><l>โรงเรียนเอกชน<s n="adv"/></l><r>academy<s n="adv"/></r></p></e>
-    <e><p><l>ซ่อง<s n="adv"/></l><r>academy<s n="adv"/></r></p></e>
-    <e><p><l>เฉพาะทาง<s n="pr"/></l><r>academy<s n="pr"/></r></p></e>
-    <e><p><l>โรงเรียนมัธยมศึกษา<s n="pr"/></l><r>academy<s n="pr"/></r></p></e>
-    <e><p><l>โรงเรียนเอกชน<s n="pr"/></l><r>academy<s n="pr"/></r></p></e>
-    <e><p><l>ซ่อง<s n="pr"/></l><r>academy<s n="pr"/></r></p></e>
-    <e><p><l>เฉพาะทาง<s n="n"/></l><r>academy<s n="n"/></r></p></e>
-    <e><p><l>โรงเรียนมัธยมศึกษา<s n="n"/></l><r>academy<s n="n"/></r></p></e>
-    <e><p><l>โรงเรียนเอกชน<s n="n"/></l><r>academy<s n="n"/></r></p></e>
-    <e><p><l>ซ่อง<s n="n"/></l><r>academy<s n="n"/></r></p></e>
-    <e><p><l>เสียง<s n="adv"/></l><r>accentuate<s n="adv"/></r></p></e>
-    <e><p><l>สหรัฐ<s n="adv"/></l><r>accentuate<s n="adv"/></r></p></e>
-    <e><p><l>เอิคเซ้นเจวียท<s n="adv"/></l><r>accentuate<s n="adv"/></r></p></e>
+    <e><p><l>การงดไม่ออกเสียง<s n="n"/></l><r>abstinence<s n="n"/></r></p></e>
+    <e><p><l>ความอุดมสมบูรณ์<s n="n"/></l><r>abundance<s n="n"/></r></p></e>
+    <e><p><l>ล้นเหลือ<s n="n"/></l><r>abundance<s n="n"/></r></p></e>
+    <e><p><l>ที่ซ่อนเร้นหรือยากที่จะเข้าใจ<s n="adj"/></l><r>cryptic<s n="adj"/></r></p></e>
+    <e><p><l>ข้อความที่ยากจะเข้าใจ<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
+    <e><p><l>รอยยิ้มที่ซ่อนเร้น<s n="n"/></l><r>cryptic<s n="n"/></r></p></e>
+    <e><p><l>อาการกลัวชาวต่างชาติ<s n="n"/></l><r>xenophobia<s n="adv"/></r></p></e>
+    <e><p><l>ชั่วร้าย<s n="adj"/></l><r>abysmal<s n="adj"/></r></p></e>
+    <e><p><l>เลวมาก<s n="adj"/></l><r>abysmal<s n="adj"/></r></p></e>
+    <e><p><l>ต่ำกว่ามาตรฐานมาก<s n="adj"/></l><r>abysmal<s n="adj"/></r></p></e>
+    <e><p><l>สถานศึกษา<s n="n"/></l><r>academy<s n="n"/></r></p></e>
     <e><p><l>ให้ความสำคัญหรือย้ำ<s n="adv"/></l><r>accentuate<s n="adv"/></r></p></e>
-    <e><p><l>ราชสมบัติ<s n="adv"/></l><r>accession<s n="adv"/></r></p></e>
-    <e><p><l>เสียบ<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>แทง<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>เข็มฉีดยา<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>แนบ<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>ติด<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>กุญแจ<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>อดกลั้น<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>ไม้<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>ไม้เท้า<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>แท่ง<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>คันบังคับ<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>เกียร์<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>อุปรากร<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>ออร์เคสตรา<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>วิพากษ์<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>วิจารณ์<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>บุคคล<s n="adv"/></l><r>stick<s n="adv"/></r></p></e>
-    <e><p><l>เสียบ<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>แทง<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>เข็มฉีดยา<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>แนบ<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>ติด<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>กุญแจ<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>อดกลั้น<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>ไม้<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>ไม้เท้า<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>แท่ง<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>คันบังคับ<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>เกียร์<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>อุปรากร<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>ออร์เคสตรา<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>วิพากษ์<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>วิจารณ์<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>บุคคล<s n="adj"/></l><r>stick<s n="adj"/></r></p></e>
-    <e><p><l>ภาษาฝรั่งเศส<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>เสียง<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>สหรัฐ<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>นับได้<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>นับไม่ได้<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>ดนตรีที่เล่นคลอไปกับนักร้องหรือเครื่องดนตรีชนิดอื่น<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>สิ่งที่รับประทาน<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>ดื่ม<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>หรือใช้ร่วมกันกับสิ่งอื่น<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>ไวน์เป็น<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>สิ่งที่กินร่วม<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>ที่ดีกับอาหารประเภทปลา<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>เป็นทางการ<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>สิ่งที่เกิดขึ้นคู่กับอีกสิ่งหนึ่ง<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>ความดันเลือดสูงเป็น<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>สิ่งที่เกิดขึ้นพร้อมกับ<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>โรคนี้ด้วยเสมอ<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
-    <e><p><l>ภาษาฝรั่งเศส<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>เสียง<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>สหรัฐ<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>นับได้<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>นับไม่ได้<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>ดนตรีที่เล่นคลอไปกับนักร้องหรือเครื่องดนตรีชนิดอื่น<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>สิ่งที่รับประทาน<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>ดื่ม<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>หรือใช้ร่วมกันกับสิ่งอื่น<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>ไวน์เป็น<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>สิ่งที่กินร่วม<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>ที่ดีกับอาหารประเภทปลา<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>เป็นทางการ<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>สิ่งที่เกิดขึ้นคู่กับอีกสิ่งหนึ่ง<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>ความดันเลือดสูงเป็น<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>สิ่งที่เกิดขึ้นพร้อมกับ<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
-    <e><p><l>โรคนี้ด้วยเสมอ<s n="adj"/></l><r>accompaniment<s n="adj"/></r></p></e>
+    <e><p><l>การเสวยราชย์<s n="n"/></l><r>accession<s n="n"/></r></p></e>
+    <e><p><l>การครอบครอง<s n="n"/></l><r>accession<s n="n"/></r></p></e>
+    <e><p><l>การได้กินตำแหน่งสูง<s n="n"/></l><r>accession<s n="n"/></r></p></e>
+    <e><p><l>เสียบแทงด้วยของแหลม<s n="vblex"/></l><r>stick<s n="vblex"/></r></p></e>
+    <e><p><l>แนบ<s n="vblex"/></l><r>stick<s n="vblex"/></r></p></e>
+    <e><p><l>ใส่อย่างรวดเร็ว<s n="vblex"/></l><r>stick<s n="vblex"/></r></p></e>
+    <e><p><l>วางอย่างรวดเร็ว<s n="vblex"/></l><r>stick<s n="vblex"/></r></p></e>
+    <e><p><l>ติดอยู่<s n="vblex"/></l><r>stick<s n="vblex"/></r></p></e>
+    <e><p><l>อดกลั้น<s n="vblex"/></l><r>stick<s n="vblex"/></r></p></e>
+   <e><p><l>ภาษาฝรั่งเศส<s n="adv"/></l><r>accompaniment<s n="adv"/></r></p></e>
+    <e><p><l>ดนตรีที่เล่นคลอไปกับนักร้องหรือเครื่องดนตรีชนิดอื่น<s n="n"/></l><r>accompaniment<s n="n"/></r></p></e>
+    <e><p><l>สิ่งที่รับประทานดื่มหรือใช้ร่วมกันกับสิ่งอื่น<s n="n"/></l><r>accompaniment<s n="n"/></r></p></e>
+    <e><p><l>สิ่งที่เกิดขึ้นคู่กับอีกสิ่งหนึ่ง<s n="n"/></l><r>accompaniment<s n="n"/></r></p></e>
     <e><p><l>ปรับตัวเข้ากับสถานการณ์หรือสภาพอากาศได้<s n="pr"/></l><r>acclimatized<s n="pr"/></r></p></e>
     <e><p><l>ปรับตัวเข้ากับสถานการณ์หรือสภาพอากาศได้<s n="n"/></l><r>acclimatizes<s n="n"/></r></p></e>
     <e><p><l>คนที่เล่นดนตรีคลอ<s n="adv"/></l><r>accompanists<s n="adv"/></r></p></e>
     <e><p><l>คนที่เล่นดนตรีคลอ<s n="cnjadv"/></l><r>accompanists<s n="cnjadv"/></r></p></e>
     <e><p><l>ผู้สมรู้ร่วมคิดในการทำความผิด<s n="det"/></l><r>accomplices<s n="det"/></r></p></e>
-    <e><p><l>นักบัญชี<s n="adv"/></l><r>accountants<s n="adv"/></r></p></e>
-    <e><p><l>นักบัญชี<s n="preadv"/></l><r>accountants<s n="preadv"/></r></p></e>
-    <e><p><l>การตกลง<s n="adj"/></l><r>accordances<s n="adj"/></r></p></e>
+    <e><p><l>นักบัญชี<s n="n"/></l><r>accountants<s n="n"/></r></p></e>
     <e><p><l>การตกลง<s n="n"/></l><r>accordances<s n="n"/></r></p></e>
-    <e><p><l>อย่างไร<s n="n"/></l><r>how about<s n="n"/></r></p></e>
-    <e><p><l>อย่างไร<s n="vblex"/></l><r>how about<s n="vblex"/></r></p></e>
+    <e><p><l>อย่างไร<s n="adv"/></l><r>how<b/>about<s n="adv"/></r></p></e>
     <e><p><l>ข้อกล่าวโทษ<s n="n"/></l><r>accusations<s n="n"/></r></p></e>
-    <e><p><l>ภาษาฝรั่งเศส<s n="n"/></l><r>accusations<s n="n"/></r></p></e>
-    <e><p><l>ข้อกล่าวโทษ<s n="adj"/></l><r>accusations<s n="adj"/></r></p></e>
-    <e><p><l>ภาษาฝรั่งเศส<s n="adj"/></l><r>accusations<s n="adj"/></r></p></e>
-    <e><p><l>ถนน<s n="adv"/></l><r>Straße<s n="adv"/></r></p></e>
-    <e><p><l>ช่องแคบ<s n="adv"/></l><r>Straße<s n="adv"/></r></p></e>
-    <e><p><l>ถนน<s n="preadv"/></l><r>Straße<s n="preadv"/></r></p></e>
-    <e><p><l>ช่องแคบ<s n="preadv"/></l><r>Straße<s n="preadv"/></r></p></e>
     <e><p><l>ราก<s n="n"/></l><r>root<s n="n"/></r></p></e>
     <e><p><l>รากฟัน<s n="n"/></l><r>root<s n="n"/></r></p></e>
     <e><p><l>โคน<s n="n"/></l><r>root<s n="n"/></r></p></e>
     <e><p><l>รากผม<s n="n"/></l><r>root<s n="n"/></r></p></e>
     <e><p><l>แง่ง<s n="n"/></l><r>root<s n="n"/></r></p></e>
-    <e><p><l>แมว<s n="vblex"/></l><r>chat<s n="vblex"/></r></p></e>
     <e><p><l>พูดคุย<s n="vblex"/></l><r>chat<s n="vblex"/></r></p></e>
-    <e><p><l>งาน<s n="n"/></l><r>sideline<s n="n"/></r></p></e>
-    <e><p><l>ปลีก<s n="n"/></l><r>sideline<s n="n"/></r></p></e>
-    <e><p><l>ย่อย<s n="n"/></l><r>sideline<s n="n"/></r></p></e>
-    <e><p><l>นอกบริษัท<s n="n"/></l><r>sideline<s n="n"/></r></p></e>
-    <e><p><l>ร้านค้า<s n="n"/></l><r>sideline<s n="n"/></r></p></e>
-    <e><p><l>อาบอบนวด<s n="n"/></l><r>sideline<s n="n"/></r></p></e>
-    <e><p><l>ข้างหลัง<s n="adv"/></l><r>aback<s n="adv"/></r></p></e>
-    <e><p><l>สะดุ้ง<s n="adv"/></l><r>aback<s n="adv"/></r></p></e>
-    <e><p><l>ตกใจ<s n="adv"/></l><r>aback<s n="adv"/></r></p></e>
-    <e><p><l>ข้างหลัง<s n="adj"/></l><r>aback<s n="adj"/></r></p></e>
-    <e><p><l>สะดุ้ง<s n="adj"/></l><r>aback<s n="adj"/></r></p></e>
-    <e><p><l>ตกใจ<s n="adj"/></l><r>aback<s n="adj"/></r></p></e>
-    <e><p><l>หลีกทาง<s n="n"/></l><r>abdication<s n="n"/></r></p></e>
-    <e><p><l>สละ<s n="n"/></l><r>abdication<s n="n"/></r></p></e>
-    <e><p><l>ถอน<s n="n"/></l><r>abdication<s n="n"/></r></p></e>
-    <e><p><l>ขวาง<s n="n"/></l><r>abeam<s n="n"/></r></p></e>
+    <e><p><l>งานปลีกย่อย<s n="n"/></l><r>sideline<s n="n"/></r></p></e>
+    <e><p><l>ข้างหลัง<s n="pr"/></l><r>aback<s n="pr"/></r></p></e>
+    <e><p><l>สะดุ้ง<s n="vblex"/></l><r>aback<s n="vblex"/></r></p></e>
+    <e><p><l>ตกใจ<s n="vblex"/></l><r>aback<s n="vblex"/></r></p></e>
+    <e><p><l>หลีกทาง<s n="vblex"/></l><r>abdication<s n="vblex"/></r></p></e>
+    <e><p><l>สละ<s n="vblex"/></l><r>abdication<s n="vblex"/></r></p></e>
+    <e><p><l>ถอน<s n="vblex"/></l><r>abdication<s n="vblex"/></r></p></e>
     <e><p><l>ขวาง<s n="vblex"/></l><r>abeam<s n="vblex"/></r></p></e>
-    <e><p><l>เสี้ยมสอน<s n="n"/></l><r>abet<s n="n"/></r></p></e>
-    <e><p><l>ยุยง<s n="n"/></l><r>abet<s n="n"/></r></p></e>
-    <e><p><l>ปลุกปั่น<s n="n"/></l><r>abet<s n="n"/></r></p></e>
-    <e><p><l>สงเคราะห์<s n="n"/></l><r>abet<s n="n"/></r></p></e>
-    <e><p><l>ช่วยเหลือ<s n="n"/></l><r>abet<s n="n"/></r></p></e>
-    <e><p><l>สนับสนุน<s n="n"/></l><r>abet<s n="n"/></r></p></e>
     <e><p><l>เสี้ยมสอน<s n="vblex"/></l><r>abet<s n="vblex"/></r></p></e>
     <e><p><l>ยุยง<s n="vblex"/></l><r>abet<s n="vblex"/></r></p></e>
     <e><p><l>ปลุกปั่น<s n="vblex"/></l><r>abet<s n="vblex"/></r></p></e>
@@ -2711,42 +2599,27 @@
     <e><p><l>ช่วยเหลือ<s n="vblex"/></l><r>abet<s n="vblex"/></r></p></e>
     <e><p><l>สนับสนุน<s n="vblex"/></l><r>abet<s n="vblex"/></r></p></e>
     <e><p><l>เจ็บแค้น<s n="vblex"/></l><r>abhorrence<s n="vblex"/></r></p></e>
-    <e><p><l>เกลียดชัง<s n="vblex"/></l><r>abhorrence<s n="vblex"/></r></p></e>
-    <e><p><l>สุดขีด<s n="vblex"/></l><r>abhorrence<s n="vblex"/></r></p></e>
-    <e><p><l>แข็งแรง<s n="n"/></l><r>able-bodied<s n="n"/></r></p></e>
-    <e><p><l>กำยำ<s n="n"/></l><r>able-bodied<s n="n"/></r></p></e>
-    <e><p><l>ล่ำสัน<s n="n"/></l><r>able-bodied<s n="n"/></r></p></e>
-    <e><p><l>แข็งแรง<s n="vblex"/></l><r>able-bodied<s n="vblex"/></r></p></e>
-    <e><p><l>กำยำ<s n="vblex"/></l><r>able-bodied<s n="vblex"/></r></p></e>
-    <e><p><l>ล่ำสัน<s n="vblex"/></l><r>able-bodied<s n="vblex"/></r></p></e>
+    <e><p><l>ความเกลียดชัง<s n="n"/></l><r>abhorrence<s n="n"/></r></p></e>
+    <e><p><l>ความเจ็บแค้น<s n="n"/></l><r>abhorrence<s n="n"/></r></p></e>
+    <e><p><l>แข็งแรง<s n="adj"/></l><r>able-bodied<s n="adj"/></r></p></e>
+    <e><p><l>กำยำ<s n="adj"/></l><r>able-bodied<s n="adj"/></r></p></e>
+    <e><p><l>ล่ำสัน<s n="adj"/></l><r>able-bodied<s n="adj"/></r></p></e>
     <e><p><l>ขีปนาวุธ<s n="n"/></l><r>ABM<s n="n"/></r></p></e>
     <e><p><l>จรวด<s n="n"/></l><r>ABM<s n="n"/></r></p></e>
-    <e><p><l>ขีปนาวุธ<s n="vblex"/></l><r>ABM<s n="vblex"/></r></p></e>
-    <e><p><l>จรวด<s n="vblex"/></l><r>ABM<s n="vblex"/></r></p></e>
-    <e><p><l>เลิกล้ม<s n="n"/></l><r>abolition<s n="n"/></r></p></e>
-    <e><p><l>ยกเลิก<s n="n"/></l><r>abolition<s n="n"/></r></p></e>
-    <e><p><l>เกลียดชัง<s n="adj"/></l><r>abomination<s n="adj"/></r></p></e>
-    <e><p><l>รังเกียจ<s n="adj"/></l><r>abomination<s n="adj"/></r></p></e>
-    <e><p><l>เกลียดชัง<s n="n"/></l><r>abomination<s n="n"/></r></p></e>
-    <e><p><l>รังเกียจ<s n="n"/></l><r>abomination<s n="n"/></r></p></e>
+    <e><p><l>การเลิกล้ม<s n="n"/></l><r>abolition<s n="n"/></r></p></e>
+    <e><p><l>การยกเลิก<s n="n"/></l><r>abolition<s n="n"/></r></p></e>
+    <e><p><l>ความเกลียดชัง<s n="n"/></l><r>abomination<s n="n"/></r></p></e>
+    <e><p><l>ความรังเกียจ<s n="n"/></l><r>abomination<s n="n"/></r></p></e>
     <e><p><l>ชาวพื้นเมือง<s n="n"/></l><r>aborigines<s n="n"/></r></p></e>
-    <e><p><l>คลอด<s n="adj"/></l><r>abortion<s n="adj"/></r></p></e>
-    <e><p><l>แท้ง<s n="adj"/></l><r>abortion<s n="adj"/></r></p></e>
-    <e><p><l>ล้มเหลว<s n="adj"/></l><r>abortion<s n="adj"/></r></p></e>
-    <e><p><l>คลอด<s n="n"/></l><r>abortion<s n="n"/></r></p></e>
-    <e><p><l>แท้ง<s n="n"/></l><r>abortion<s n="n"/></r></p></e>
-    <e><p><l>ล้มเหลว<s n="n"/></l><r>abortion<s n="n"/></r></p></e>
-    <e><p><l>ตัดทอน<s n="adj"/></l><r>abridgment<s n="adj"/></r></p></e>
-    <e><p><l>ตัดทอน<s n="vblex"/></l><r>abridgment<s n="vblex"/></r></p></e>
-    <e><p><l>ใจลอย<s n="cnjcoo"/></l><r>absent-minded<s n="cnjcoo"/></r></p></e>
-    <e><p><l>เคลิบเคลิ้ม<s n="cnjcoo"/></l><r>absent-minded<s n="cnjcoo"/></r></p></e>
-    <e><p><l>ลืม<s n="cnjcoo"/></l><r>absent-minded<s n="cnjcoo"/></r></p></e>
-    <e><p><l>ใจลอย<s n="det"/></l><r>absent-minded<s n="det"/></r></p></e>
-    <e><p><l>เคลิบเคลิ้ม<s n="det"/></l><r>absent-minded<s n="det"/></r></p></e>
-    <e><p><l>ลืม<s n="det"/></l><r>absent-minded<s n="det"/></r></p></e>
-    <e><p><l>ใจลอย<s n="prn"/></l><r>absent-minded<s n="prn"/></r></p></e>
-    <e><p><l>เคลิบเคลิ้ม<s n="prn"/></l><r>absent-minded<s n="prn"/></r></p></e>
-    <e><p><l>ลืม<s n="prn"/></l><r>absent-minded<s n="prn"/></r></p></e>
+    <e><p><l>การแท้ง<s n="n"/></l><r>abortion<s n="n"/></r></p></e>
+    <e><p><l>การคลอดก่อนกำหนด<s n="n"/></l><r>abortion<s n="n"/></r></p></e>
+    <e><p><l>ความล้มเหลว<s n="n"/></l><r>abortion<s n="n"/></r></p></e>
+    <e><p><l>การตัดทอน<s n="n"/></l><r>abridgment<s n="n"/></r></p></e>
+    <e><p><l>ฉบับย่อ<s n="n"/></l><r>abridgment<s n="n"/></r></p></e>
+    <e><p><l>ใจลอย<s n="adj"/></l><r>absent-minded<s n="adj"/></r></p></e>
+    <e><p><l><s n="adj"/></l><r>absent-minded<s n="adj"/></r></p></e>
+    <e><p><l>เคลิบเคลิ้ม<s n="adj"/></l><r>absent-minded<s n="adj"/></r></p></e>
+    <e><p><l>ขี้ลืม<s n="cnjcoo"/></l><r>absent-minded<s n="cnjcoo"/></r></p></e>
     <e><p><l>อภัยโทษ<s n="adj"/></l><r>absolutions<s n="adj"/></r></p></e>
     <e><p><l>อภัยโทษ<s n="n"/></l><r>absolutions<s n="n"/></r></p></e>
     <e><p><l>กลั่นกรอง<s n="n"/></l><r>abstraction<s n="n"/></r></p></e>
