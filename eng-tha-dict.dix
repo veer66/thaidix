@@ -2633,94 +2633,43 @@
     <e><p><l>ประสบ<s n="n"/></l><r>suffer<s n="n"/></r></p></e>
     <e><p><l>อดกลั้น<s n="n"/></l><r>suffer<s n="n"/></r></p></e>
     <e><p><l>ยถากรรม<s n="n"/></l><r>suffer<s n="n"/></r></p></e>
-    <e><p><l>แน่นอน<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
+    <e><p><l>ที่แน่นอน<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
     <e><p><l>จำเป็น<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
-    <e><p><l>ปัจจัย<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
-    <e><p><l>ห้องน้ำ<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
-    <e><p><l>ห้องส้วม<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
-    <e><p><l>ใจดี<s n="n"/></l><r>gentle<s n="n"/></r></p></e>
-    <e><p><l>มิตร<s n="n"/></l><r>gentle<s n="n"/></r></p></e>
-    <e><p><l>อ่อนโยน<s n="n"/></l><r>gentle<s n="n"/></r></p></e>
-    <e><p><l>นุ่มนวล<s n="n"/></l><r>gentle<s n="n"/></r></p></e>
-    <e><p><l>ใจดี<s n="vblex"/></l><r>gentle<s n="vblex"/></r></p></e>
-    <e><p><l>มิตร<s n="vblex"/></l><r>gentle<s n="vblex"/></r></p></e>
-    <e><p><l>อ่อนโยน<s n="vblex"/></l><r>gentle<s n="vblex"/></r></p></e>
-    <e><p><l>นุ่มนวล<s n="vblex"/></l><r>gentle<s n="vblex"/></r></p></e>
-    <e><p><l>ลอก<s n="adj"/></l><r>barked<s n="adj"/></r></p></e>
-    <e><p><l>เห่า<s n="adj"/></l><r>barked<s n="adj"/></r></p></e>
-    <e><p><l>ลอก<s n="n"/></l><r>barked<s n="n"/></r></p></e>
-    <e><p><l>เห่า<s n="n"/></l><r>barked<s n="n"/></r></p></e>
-    <e><p><l>แจกจ่าย<s n="cnjcoo"/></l><r>distribute<s n="cnjcoo"/></r></p></e>
-    <e><p><l>แพร่<s n="cnjcoo"/></l><r>distribute<s n="cnjcoo"/></r></p></e>
-    <e><p><l>กระจาย<s n="cnjcoo"/></l><r>distribute<s n="cnjcoo"/></r></p></e>
-    <e><p><l>แจกจ่าย<s n="pr"/></l><r>distribute<s n="pr"/></r></p></e>
-    <e><p><l>แพร่<s n="pr"/></l><r>distribute<s n="pr"/></r></p></e>
-    <e><p><l>กระจาย<s n="pr"/></l><r>distribute<s n="pr"/></r></p></e>
-    <e><p><l>สิทธิบัตร<s n="adv"/></l><r>patent<s n="adv"/></r></p></e>
-    <e><p><l>จด<s n="adv"/></l><r>patent<s n="adv"/></r></p></e>
-    <e><p><l>ชัดเจน<s n="adv"/></l><r>patent<s n="adv"/></r></p></e>
-    <e><p><l>มัน<s n="adv"/></l><r>patent<s n="adv"/></r></p></e>
-    <e><p><l>สิทธิบัตร<s n="pr"/></l><r>patent<s n="pr"/></r></p></e>
-    <e><p><l>จด<s n="pr"/></l><r>patent<s n="pr"/></r></p></e>
-    <e><p><l>ชัดเจน<s n="pr"/></l><r>patent<s n="pr"/></r></p></e>
-    <e><p><l>มัน<s n="pr"/></l><r>patent<s n="pr"/></r></p></e>
-    <e><p><l>สิทธิบัตร<s n="adv"/></l><r>patented<s n="adv"/></r></p></e>
-    <e><p><l>สิทธิบัตร<s n="pr"/></l><r>patented<s n="pr"/></r></p></e>
-    <e><p><l>ตูม<s n="n"/></l><r>bud<s n="n"/></r></p></e>
+    <e><p><l>จะต้อง<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
+    <e><p><l>สิ่งจำเป็น<s n="n"/></l><r>necessary<s n="n"/></r></p></e>
+    <e><p><l>ปัจจัยจำเป็น<s n="n"/></l><r>necessary<s n="n"/></r></p></e>
+    <e><p><l>ใจดี<s n="adj"/></l><r>gentle<s n="adj"/></r></p></e>
+    <e><p><l>เป็นมิตร<s n="adj"/></l><r>gentle<s n="adj"/></r></p></e>
+    <e><p><l>อ่อนโยน<s n="adj"/></l><r>gentle<s n="adj"/></r></p></e>
+    <e><p><l>นุ่มนวล<s n="adj"/></l><r>gentle<s n="adj"/></r></p></e>
+    <e><p><l>ค่อยๆ<s n="adj"/></l><r>gentle<s n="adj"/></r></p></e>
+    <e><p><l>ตามลำดับ<s n="adj"/></l><r>gentle<s n="adj"/></r></p></e>
+    <e><p><l>แจกจ่าย<s n="vblex"/></l><r>distribute<s n="vblex"/></r></p></e>
+    <e><p><l>แพร่กระจายออกไป<s n="vblex"/></l><r>distribute<s n="vblex"/></r></p></e>
+    <e><p><l>สิทธิบัตร<s n="n"/></l><r>patent<s n="n"/></r></p></e>
+    <e><p><l>นำไปจดสิทธิบัตร<s n="vblex"/></l><r>patent<s n="vblex"/></r></p></e>
+    <e><p><l>ชัดเจน<s n="adj"/></l><r>patent<s n="adj"/></r></p></e>
+    <e><p><l>ที่ได้รับความคุ้มครองจากสิทธิบัตร<s n="adj"/></l><r>patent<s n="adj"/></r></p></e>
+    <e><p><l>ดอกตูม<s n="n"/></l><r>bud<s n="n"/></r></p></e>
     <e><p><l>ตา<s n="n"/></l><r>bud<s n="n"/></r></p></e>
-    <e><p><l>ออกดอก<s n="n"/></l><r>bud<s n="n"/></r></p></e>
-    <e><p><l>ออกดอก<s n="cnjadv"/></l><r>budded<s n="cnjadv"/></r></p></e>
-    <e><p><l>ออกดอก<s n="cnjsub"/></l><r>budded<s n="cnjsub"/></r></p></e>
-    <e><p><l>ออกดอก<s n="pr"/></l><r>budded<s n="pr"/></r></p></e>
-    <e><p><l>เฉลย<s n="adv"/></l><r>solve<s n="adv"/></r></p></e>
-    <e><p><l>เฉลย<s n="pr"/></l><r>solve<s n="pr"/></r></p></e>
-    <e><p><l>แก้ไขปัญหา<s n="n"/></l><r>solving<s n="n"/></r></p></e>
-    <e><p><l>แก้ไขปัญหา<s n="vblex"/></l><r>solving<s n="vblex"/></r></p></e>
-    <e><p><l>รู้สึกตัว<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
-    <e><p><l>ตื่น<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
-    <e><p><l>สติ<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
-    <e><p><l>สำนึก<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
-    <e><p><l>ตระหนัก<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
-    <e><p><l>ตั้งอกตั้งใจ<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
-    <e><p><l>รู้สึกตัว<s n="adv"/></l><r>conscious<s n="adv"/></r></p></e>
-    <e><p><l>ตื่น<s n="adv"/></l><r>conscious<s n="adv"/></r></p></e>
-    <e><p><l>สติ<s n="adv"/></l><r>conscious<s n="adv"/></r></p></e>
-    <e><p><l>สำนึก<s n="adv"/></l><r>conscious<s n="adv"/></r></p></e>
-    <e><p><l>ตระหนัก<s n="adv"/></l><r>conscious<s n="adv"/></r></p></e>
-    <e><p><l>ตั้งอกตั้งใจ<s n="adv"/></l><r>conscious<s n="adv"/></r></p></e>
-    <e><p><l>กรดแอบไซซิก<s n="adv"/></l><r>abscisic acid<s n="adv"/></r></p></e>
-    <e><p><l>เครื่องถ่ายเอกสาร<s n="adj"/></l><r>xerox<s n="adj"/></r></p></e>
-    <e><p><l>เครื่องถ่ายเอกสาร<s n="n"/></l><r>xerox<s n="n"/></r></p></e>
+    <e><p><l>ออกดอก<s n="vblex"/></l><r>bud<s n="vblex"/></r></p></e>
+    <e><p><l>หาทางแก้ไขปัญหา<s n="vblex"/></l><r>solve<s n="vblex"/></r></p></e>
+    <e><p><l>เฉลย<s n="vblex"/></l><r>solve<s n="vblex"/></r></p></e>
+    <e><p><l>รู้สึกตัวว่าตื่นอยู่<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
+    <e><p><l>มีสติ<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
+    <e><p><l>มีสำนึก<s n="adj"/></l><r>conscious<s n="adj"/></r></p></e>
+    <e><p><l>กรดแอบไซซิก<s n="n"/></l><r>abscisic<b/>acid<s n="n"/></r></p></e>
     <e><p><l>เช็ค<s n="n"/></l><r>cheque<s n="n"/></r></p></e>
     <e><p><l>ใบสั่ง<s n="n"/></l><r>cheque<s n="n"/></r></p></e>
-    <e><p><l>เช็ค<s n="vblex"/></l><r>cheque<s n="vblex"/></r></p></e>
-    <e><p><l>ใบสั่ง<s n="vblex"/></l><r>cheque<s n="vblex"/></r></p></e>
     <e><p><l>ตะบอง<s n="n"/></l><r>klubba<s n="n"/></r></p></e>
-    <e><p><l>สโมสร<s n="n"/></l><r>clubs<s n="n"/></r></p></e>
-    <e><p><l>คลับ<s n="n"/></l><r>clubs<s n="n"/></r></p></e>
+    <e><p><l>สโมสร<s n="n"/></l><r>club<s n="n"/></r></p></e>
+    <e><p><l>คลับ<s n="n"/></l><r>club<s n="n"/></r></p></e>
     <e><p><l>ดอกจิก<s n="n"/></l><r>clubs<s n="n"/></r></p></e>
     <e><p><l>ตี<s n="n"/></l><r>clubs<s n="n"/></r></p></e>
     <e><p><l>ไม้กอล์ฟ<s n="n"/></l><r>clubs<s n="n"/></r></p></e>
-    <e><p><l>เสียง<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>พูดคุย<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>วุ่นวาย<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>สับสน<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>เข้าใจ<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>ทารก<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>พูด<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>รวดเร็ว<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>กระแสน้ำ<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>ไหล<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>หิน<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>จ๊อก<s n="n"/></l><r>babble<s n="n"/></r></p></e>
-    <e><p><l>เกม<s n="n"/></l><r>backgammon<s n="n"/></r></p></e>
-    <e><p><l>ลูกเต๋า<s n="n"/></l><r>backgammon<s n="n"/></r></p></e>
-    <e><p><l>เบี้ย<s n="n"/></l><r>backgammon<s n="n"/></r></p></e>
-    <e><p><l>กระดาน<s n="n"/></l><r>backgammon<s n="n"/></r></p></e>
-    <e><p><l>เกม<s n="vblex"/></l><r>backgammon<s n="vblex"/></r></p></e>
-    <e><p><l>ลูกเต๋า<s n="vblex"/></l><r>backgammon<s n="vblex"/></r></p></e>
-    <e><p><l>เบี้ย<s n="vblex"/></l><r>backgammon<s n="vblex"/></r></p></e>
-    <e><p><l>กระดาน<s n="vblex"/></l><r>backgammon<s n="vblex"/></r></p></e>
+    <e><p><l>เสียงของคนจำนวนมากที่พูดกันในเวลาเดียวกัน<s n="n"/></l><r>babble<s n="n"/></r></p></e>
+    <e><p><l>การพูดที่วุ่นวายสับสนเข้าใจยาก<s n="n"/></l><r>babble<s n="n"/></r></p></e>
+    <e><p><l>เสียงอ้อแอ้<s n="n"/></l><r>babble<s n="n"/></r></p></e>
     <e><p><l>เบคอน<s n="n"/></l><r>bacon<s n="n"/></r></p></e>
     <e><p><l>หมูเค็ม<s n="n"/></l><r>bacon<s n="n"/></r></p></e>
     <e><p><l>เครื่องหมาย<s n="n"/></l><r>badge<s n="n"/></r></p></e>
