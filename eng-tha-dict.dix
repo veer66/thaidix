@@ -2742,7 +2742,6 @@
     <e><p><l>ค่าเฉลี่ย<s n="n"/></l><r>average<s n="n"/></r></p></e>
     <e><p><l>มาตรฐานที่ปฏิบัติกัน<s n="n"/></l><r>average<s n="n"/></r></p></e>
     <e><p><l>ทำตามคนส่วนมาก<s n="vblex"/></l><r>average<s n="vblex"/></r></p></e>
-    <e><p><l>ทำตามคนส่วนมาก<s n="vblex"/></l><r>average<s n="vblex"/></r></p></e>
     <e><p><l>แบดมินตัน<s n="vblex"/></l><r>badminton<s n="vblex"/></r></p></e>
     <e><p><l>ไผ่<s n="n"/></l><r>bamboo<s n="n"/></r></p></e>
     <e><p><l>แท่งวัสดุยาวๆ<s n="n"/></l><r>bar<s n="n"/></r></p></e>
@@ -2783,148 +2782,68 @@
     <e><p><l>ผสมกัน<s n="vblex"/></l><r>combine<s n="vblex"/></r></p></e>
     <e><p><l>รวมกัน<s n="vblex"/></l><r>combine<s n="vblex"/></r></p></e>
     <e><p><l>กลุ่ม<s n="n"/></l><r>combine<s n="n"/></r></p></e> <!-- กลุ่มคนหรือองค์กร -->
-    <e><p><l>บริษัท<s n="vblex"/></l><r>combine<s n="vblex"/></r></p></e>
-    <e><p><l>ธุรกิจ<s n="vblex"/></l><r>combine<s n="vblex"/></r></p></e>
     <e><p><l>คาบาเร่ต์<s n="n"/></l><r>cabaret<s n="n"/></r></p></e>
-    <e><p><l>ระบำ<s n="n"/></l><r>cabaret<s n="n"/></r></p></e>
-    <e><p><l>ไนท์คลับ<s n="n"/></l><r>cabaret<s n="n"/></r></p></e>
-    <e><p><l>คาบาเร่ต์<s n="vblex"/></l><r>cabaret<s n="vblex"/></r></p></e>
-    <e><p><l>ระบำ<s n="vblex"/></l><r>cabaret<s n="vblex"/></r></p></e>
-    <e><p><l>ไนท์คลับ<s n="vblex"/></l><r>cabaret<s n="vblex"/></r></p></e>
-    <e><p><l>คณะรัฐมนตรี<s n="n"/></l><r>the Cabinet<s n="n"/></r></p></e>
-    <e><p><l>พาหนะ<s n="vblex"/></l><r>cable-car<s n="vblex"/></r></p></e>
-    <e><p><l>ขน<s n="vblex"/></l><r>cable-car<s n="vblex"/></r></p></e>
-    <e><p><l>ภูเขา<s n="vblex"/></l><r>cable-car<s n="vblex"/></r></p></e>
-    <e><p><l>สายเคเบิล<s n="vblex"/></l><r>cable-car<s n="vblex"/></r></p></e>
+    <e><p><l>คณะรัฐมนตรี<s n="n"/></l><r>the<b/>Cabinet<s n="n"/></r></p></e>
+    <e><p><l>รถเคเบิล<s n="n"/></l><r>cable-car<s n="n"/></r></p></e> <!-- สำหรับขึ้นเขา -->
     <e><p><l>ร้านกาแฟ<s n="n"/></l><r>café<s n="n"/></r></p></e>
-    <e><p><l>ร้านอาหาร<s n="n"/></l><r>café<s n="n"/></r></p></e>
-    <e><p><l>เครื่องดื่ม<s n="n"/></l><r>café<s n="n"/></r></p></e>
+    <e><p><l>ร้านอาหารเครื่องดื่มเล็กๆ<s n="n"/></l><r>café<s n="n"/></r></p></e>
     <e><p><l>คาเฟอีน<s n="vblex"/></l><r>caffeine<s n="vblex"/></r></p></e>
-    <e><p><l>ยากระตุ้น<s n="vblex"/></l><r>caffeine<s n="vblex"/></r></p></e>
-    <e><p><l>กาแฟ<s n="vblex"/></l><r>caffeine<s n="vblex"/></r></p></e>
-    <e><p><l>ชา<s n="vblex"/></l><r>caffeine<s n="vblex"/></r></p></e>
-    <e><p><l>สูตรเคมี<s n="vblex"/></l><r>caffeine<s n="vblex"/></r></p></e>
-    <e><p><l>ตั้งใจ<s n="vblex"/></l><r>calculate<s n="vblex"/></r></p></e>
-    <e><p><l>ความคิดเห็น<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>ประชามติ<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>ลง<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>คะแนนเสียง<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>ศีรษะ<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>ทู่<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>ค้อน<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>ขวาน<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>หยั่ง<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>เล็ม<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>ตัด<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>บัตร<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
-    <e><p><l>สำรวจ<s n="adj"/></l><r>poll<s n="adj"/></r></p></e>
+    <e><p><l>คำนวณ<s n="vblex"/></l><r>calculate<s n="vblex"/></r></p></e>
+    <e><p><l>การสำรวจความคิดเห็น<s n="n"/></l><r>poll<s n="n"/></r></p></e>
+    <e><p><l>การทำประชามติ<s n="n"/></l><r>poll<s n="n"/></r></p></e>
+    <e><p><l><s n="n"/>สถานที่ลงคะแนนเสียง</l><r>poll<s n="n"/></r></p></e>
+    <e><p><l><s n="n"/>การลงคะแนนเสียง</l><r>poll<s n="n"/></r></p></e>
+    <e><p><l><s n="n"/>คะแนนเสียง</l><r>poll<s n="n"/></r></p></e>
+    <e><p><l><s n="n"/>ผลการลงประชามติ</l><r>poll<s n="n"/></r></p></e>
+    <e><p><l><s n="n"/>ผลคะแนนเสียง</l><r>poll<s n="n"/></r></p></e>
+    <e><p><l><s n="n"/>ศีรษะ</l><r>poll<s n="n"/></r></p></e>
+    <e><p><l><s n="n"/>ด้านทู่</l><r>poll<s n="n"/></r></p></e> <!-- ของขวานและค้อน -->	
+    <e><p><l>ได้รับคะแนนเสียง<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
+    <e><p>ดึงผู้ลงคะแนนไปยังที่ลงคะแนน<l><s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
+    <e><p><l>หยั่งประชามติ<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
+    <e><p><l>เล็มออก<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
+    <e><p><l>ตัดออก<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
+    <e><p><l>รับบัตรลงคะแนนเสียง<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
+    <e><p><l>ได้รับคะแนนเลือกตั้ง<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
+    <e><p><l>ออกเสียงลงคะแนน<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
+    <e><p><l>สำรวจความคิดเห็น<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>
+    <e><p><l>ตัดผม<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
+    <e><p><l>ตัดเขา<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>		
+    <e><p><l>ตัดขน<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>		
     <e><p><l>มันแกว<s n="n"/></l><r>jicama<s n="n"/></r></p></e>
-    <e><p><l>โบราณ<s n="n"/></l><r>abade<s n="n"/></r></p></e>
-    <e><p><l>เป็นลาง<s n="n"/></l><r>abade<s n="n"/></r></p></e>
-    <e><p><l>โบราณ<s n="adv"/></l><r>aband<s n="adv"/></r></p></e>
-    <e><p><l>ละทิ้ง<s n="adv"/></l><r>aband<s n="adv"/></r></p></e>
-    <e><p><l>โบราณ<s n="vblex"/></l><r>aband<s n="vblex"/></r></p></e>
-    <e><p><l>ละทิ้ง<s n="vblex"/></l><r>aband<s n="vblex"/></r></p></e>
-    <e><p><l>ทำให้เป็นลูกไม่มีพ่อ<s n="n"/></l><r>abastardize<s n="n"/></r></p></e>
+    <e><p><l>เป็นลาง<s n="vblex"/></l><r>abade<s n="vblex"/></r></p></e> <!-- โบราณ -->
+    <e><p><l>ละทิ้ง<s n="vblex"/></l><r>aband<s n="vblex"/></r></p></e> <!-- โบราณ -->
     <e><p><l>ทำให้เป็นลูกไม่มีพ่อ<s n="vblex"/></l><r>abastardize<s n="vblex"/></r></p></e>
-    <e><p><l>ขออภัย<s n="adj"/></l><r>apologize<s n="adj"/></r></p></e>
-    <e><p><l>ขออภัย<s n="adv"/></l><r>apologize<s n="adv"/></r></p></e>
     <e><p><l>ขออภัย<s n="vblex"/></l><r>apologize<s n="vblex"/></r></p></e>
-    <e><p><l>รู้<s n="adv"/></l><r>aware<s n="adv"/></r></p></e>
-    <e><p><l>รู้ตัว<s n="adv"/></l><r>aware<s n="adv"/></r></p></e>
-    <e><p><l>สนใจ<s n="adv"/></l><r>aware<s n="adv"/></r></p></e>
-    <e><p><l>เข้าใจ<s n="adv"/></l><r>aware<s n="adv"/></r></p></e>
-    <e><p><l>รู้<s n="n"/></l><r>aware<s n="n"/></r></p></e>
-    <e><p><l>รู้ตัว<s n="n"/></l><r>aware<s n="n"/></r></p></e>
-    <e><p><l>สนใจ<s n="n"/></l><r>aware<s n="n"/></r></p></e>
-    <e><p><l>เข้าใจ<s n="n"/></l><r>aware<s n="n"/></r></p></e>
+    <e><p><l>รู้<s n="adj"/></l><r>aware<s n="adj"/></r></p></e>
+    <e><p><l>รู้ตัว<s n="adj"/></l><r>aware<s n="adj"/></r></p></e>
+    <e><p><l>สนใจและมีความรู้ดี<s n="adj"/></l><r>aware<s n="adj"/></r></p></e>
+    <e><p><l>เข้าใจดี<s n="adj"/></l><r>aware<s n="adj"/></r></p></e>
     <e><p><l>ข้อเท้า<s n="n"/></l><r>ankle<s n="n"/></r></p></e>
-    <e><p><l>ข้อเท้า<s n="vblex"/></l><r>ankle<s n="vblex"/></r></p></e>
-    <e><p><l>โกรธ<s n="n"/></l><r>annoyed<s n="n"/></r></p></e>
-    <e><p><l>เคือง<s n="n"/></l><r>annoyed<s n="n"/></r></p></e>
-    <e><p><l>รบกวน<s n="n"/></l><r>annoyed<s n="n"/></r></p></e>
-    <e><p><l>โกรธ<s n="vblex"/></l><r>annoyed<s n="vblex"/></r></p></e>
-    <e><p><l>เคือง<s n="vblex"/></l><r>annoyed<s n="vblex"/></r></p></e>
-    <e><p><l>รบกวน<s n="vblex"/></l><r>annoyed<s n="vblex"/></r></p></e>
-    <e><p><l>ตัวอย่างเสียง<s n="n"/></l><r>misogynist<s n="n"/></r></p></e>
-    <e><p><l>มิ<s n="n"/></l><r>misogynist<s n="n"/></r></p></e>
-    <e><p><l>สอ<s n="n"/></l><r>misogynist<s n="n"/></r></p></e>
-    <e><p><l>จิ<s n="n"/></l><r>misogynist<s n="n"/></r></p></e>
-    <e><p><l>นิสท<s n="n"/></l><r>misogynist<s n="n"/></r></p></e>
-    <e><p><l>นับได้<s n="n"/></l><r>misogynist<s n="n"/></r></p></e>
+    <e><p><l>โกรธ<s n="adj"/></l><r>annoyed<s n="adj"/></r></p></e>
+    <e><p><l>เคือง<s n="adj"/></l><r>annoyed<s n="adj"/></r></p></e>
     <e><p><l>ผู้ไม่ชอบผู้หญิง<s n="n"/></l><r>misogynist<s n="n"/></r></p></e>
-    <e><p><l>ตัวอย่างเสียง<s n="vblex"/></l><r>misogynist<s n="vblex"/></r></p></e>
-    <e><p><l>มิ<s n="vblex"/></l><r>misogynist<s n="vblex"/></r></p></e>
-    <e><p><l>สอ<s n="vblex"/></l><r>misogynist<s n="vblex"/></r></p></e>
-    <e><p><l>จิ<s n="vblex"/></l><r>misogynist<s n="vblex"/></r></p></e>
-    <e><p><l>นิสท<s n="vblex"/></l><r>misogynist<s n="vblex"/></r></p></e>
-    <e><p><l>นับได้<s n="vblex"/></l><r>misogynist<s n="vblex"/></r></p></e>
-    <e><p><l>ผู้ไม่ชอบผู้หญิง<s n="vblex"/></l><r>misogynist<s n="vblex"/></r></p></e>
-    <e><p><l>ไฟ<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
-    <e><p><l>สัญญาณ<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
-    <e><p><l>ยอดเขา<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
-    <e><p><l>กระโจม<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
-    <e><p><l>เตือนภัย<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
-    <e><p><l>เตือน<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
+    <e><p><l>ไฟสัญญาณบนยอดเขา<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
+    <e><p><l>กระโจมไฟ<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
+    <e><p><l>แสงหรือไฟที่ใช้สำหรับส่งสัญญาณเตือนภัย<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
+    <e><p><l>เครื่องเตือน<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
     <e><p><l>ดวงประทีป<s n="n"/></l><r>beacon<s n="n"/></r></p></e>
-    <e><p><l>ไฟ<s n="vblex"/></l><r>beacon<s n="vblex"/></r></p></e>
-    <e><p><l>สัญญาณ<s n="vblex"/></l><r>beacon<s n="vblex"/></r></p></e>
-    <e><p><l>ยอดเขา<s n="vblex"/></l><r>beacon<s n="vblex"/></r></p></e>
-    <e><p><l>กระโจม<s n="vblex"/></l><r>beacon<s n="vblex"/></r></p></e>
-    <e><p><l>เตือนภัย<s n="vblex"/></l><r>beacon<s n="vblex"/></r></p></e>
-    <e><p><l>เตือน<s n="vblex"/></l><r>beacon<s n="vblex"/></r></p></e>
-    <e><p><l>ดวงประทีป<s n="vblex"/></l><r>beacon<s n="vblex"/></r></p></e>
     <e><p><l>มรดก<s n="n"/></l><r>heirloom<s n="n"/></r></p></e>
-    <e><p><l>มีค่า<s n="n"/></l><r>heirloom<s n="n"/></r></p></e>
-    <e><p><l>ตกทอด<s n="n"/></l><r>heirloom<s n="n"/></r></p></e>
-    <e><p><l>รุ่น<s n="n"/></l><r>heirloom<s n="n"/></r></p></e>
     <e><p><l>พระราชา<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
-    <e><p><l>สง่า<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
-    <e><p><l>ผ่าเผย<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
+    <e><p><l>ความสง่าผ่าเผย<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
     <e><p><l>อำนาจ<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
-    <e><p><l>ศักดิ์สิทธิ์<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
-    <e><p><l>ยิ่งใหญ่<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
-    <e><p><l>บังคม<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
-    <e><p><l>ทูล<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
-    <e><p><l>พระมหากษัตริย์<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
-    <e><p><l>พระราชินี<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
-    <e><p><l>รื้อ<s n="det"/></l><r>ransacks<s n="det"/></r></p></e>
-    <e><p><l>คุ้ย<s n="det"/></l><r>ransacks<s n="det"/></r></p></e>
-    <e><p><l>ค้น<s n="det"/></l><r>ransacks<s n="det"/></r></p></e>
-    <e><p><l>กระจุยกระจาย<s n="det"/></l><r>ransacks<s n="det"/></r></p></e>
-    <e><p><l>ปล้น<s n="det"/></l><r>ransacks<s n="det"/></r></p></e>
-    <e><p><l>รื้อ<s n="prn"/></l><r>ransacks<s n="prn"/></r></p></e>
-    <e><p><l>คุ้ย<s n="prn"/></l><r>ransacks<s n="prn"/></r></p></e>
-    <e><p><l>ค้น<s n="prn"/></l><r>ransacks<s n="prn"/></r></p></e>
-    <e><p><l>กระจุยกระจาย<s n="prn"/></l><r>ransacks<s n="prn"/></r></p></e>
-    <e><p><l>ปล้น<s n="prn"/></l><r>ransacks<s n="prn"/></r></p></e>
-    <e><p><l>รื้อ<s n="adv"/></l><r>ransacking<s n="adv"/></r></p></e>
-    <e><p><l>คุ้ย<s n="adv"/></l><r>ransacking<s n="adv"/></r></p></e>
-    <e><p><l>ค้น<s n="adv"/></l><r>ransacking<s n="adv"/></r></p></e>
-    <e><p><l>กระจุยกระจาย<s n="adv"/></l><r>ransacking<s n="adv"/></r></p></e>
-    <e><p><l>ปล้น<s n="adv"/></l><r>ransacking<s n="adv"/></r></p></e>
-    <e><p><l>รื้อ<s n="adj"/></l><r>ransacking<s n="adj"/></r></p></e>
-    <e><p><l>คุ้ย<s n="adj"/></l><r>ransacking<s n="adj"/></r></p></e>
-    <e><p><l>ค้น<s n="adj"/></l><r>ransacking<s n="adj"/></r></p></e>
-    <e><p><l>กระจุยกระจาย<s n="adj"/></l><r>ransacking<s n="adj"/></r></p></e>
-    <e><p><l>ปล้น<s n="adj"/></l><r>ransacking<s n="adj"/></r></p></e>
-    <e><p><l>รับรอง<s n="vblex"/></l><r>vouches<s n="vblex"/></r></p></e>
-    <e><p><l>รับรอง<s n="adj"/></l><r>vouching<s n="adj"/></r></p></e>
-    <e><p><l>รับรอง<s n="adv"/></l><r>vouching<s n="adv"/></r></p></e>
-    <e><p><l>รับรอง<s n="n"/></l><r>vouching<s n="n"/></r></p></e>
-    <e><p><l>ใหญ่โต<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
-    <e><p><l>งดงาม<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
-    <e><p><l>สง่า<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
-    <e><p><l>ผ่าเผย<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
-    <e><p><l>ยิ่งใหญ่<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
-    <e><p><l>หรูหรา<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
-    <e><p><l>ใหญ่โต<s n="vblex"/></l><r>grandeur<s n="vblex"/></r></p></e>
-    <e><p><l>งดงาม<s n="vblex"/></l><r>grandeur<s n="vblex"/></r></p></e>
-    <e><p><l>สง่า<s n="vblex"/></l><r>grandeur<s n="vblex"/></r></p></e>
-    <e><p><l>ผ่าเผย<s n="vblex"/></l><r>grandeur<s n="vblex"/></r></p></e>
-    <e><p><l>ยิ่งใหญ่<s n="vblex"/></l><r>grandeur<s n="vblex"/></r></p></e>
-    <e><p><l>หรูหรา<s n="vblex"/></l><r>grandeur<s n="vblex"/></r></p></e>
+    <e><p><l>ความศักดิ์สิทธิ์<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
+    <e><p><l>ความยิ่งใหญ่<s n="n"/></l><r>majesty<s n="n"/></r></p></e>
+    <e><p><l>รื้อคุ้ย<s n="vblex"/></l><r>ransacks<s n="vblex"/></r></p></e>
+    <e><p><l>ค้นจนกระจุยกระจาย<s n="vblex"/></l><r>ransacks<s n="vblex"/></r></p></e>
+    <e><p><l>ปล้น<s n="vblex"/></l><r>ransacks<s n="vblex"/></r></p></e>
+    <e><p><l>ความใหญ่โต<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
+    <e><p><l>ความงดงาม<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
+    <e><p><l>ความสง่าผ่าเผย<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
+    <e><p><l>ความยิ่งใหญ่<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
+    <e><p><l>ความหรูหรา<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
     <e><p><l>เสน่ห์<s n="num"/></l><r>enchantment<s n="num"/></r></p></e>
+    <e><p><l>ความมีเสน่ห์<s n="num"/></l><r>enchantment<s n="num"/></r></p></e>
     <e><p><l>กตัญญู<s n="adv"/></l><r>gratitude<s n="adv"/></r></p></e>
     <e><p><l>ขอบคุณ<s n="adv"/></l><r>gratitude<s n="adv"/></r></p></e>
     <e><p><l>สำนึก<s n="adv"/></l><r>gratitude<s n="adv"/></r></p></e>
