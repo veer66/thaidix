@@ -2844,203 +2844,102 @@
     <e><p><l>ความหรูหรา<s n="n"/></l><r>grandeur<s n="n"/></r></p></e>
     <e><p><l>เสน่ห์<s n="num"/></l><r>enchantment<s n="num"/></r></p></e>
     <e><p><l>ความมีเสน่ห์<s n="num"/></l><r>enchantment<s n="num"/></r></p></e>
-    <e><p><l>กตัญญู<s n="adv"/></l><r>gratitude<s n="adv"/></r></p></e>
-    <e><p><l>ขอบคุณ<s n="adv"/></l><r>gratitude<s n="adv"/></r></p></e>
-    <e><p><l>สำนึก<s n="adv"/></l><r>gratitude<s n="adv"/></r></p></e>
-    <e><p><l>บุญคุณ<s n="adv"/></l><r>gratitude<s n="adv"/></r></p></e>
-    <e><p><l>กตัญญู<s n="cnjcoo"/></l><r>gratitude<s n="cnjcoo"/></r></p></e>
-    <e><p><l>ขอบคุณ<s n="cnjcoo"/></l><r>gratitude<s n="cnjcoo"/></r></p></e>
-    <e><p><l>สำนึก<s n="cnjcoo"/></l><r>gratitude<s n="cnjcoo"/></r></p></e>
-    <e><p><l>บุญคุณ<s n="cnjcoo"/></l><r>gratitude<s n="cnjcoo"/></r></p></e>
-    <e><p><l>กตัญญู<s n="det"/></l><r>gratitude<s n="det"/></r></p></e>
-    <e><p><l>ขอบคุณ<s n="det"/></l><r>gratitude<s n="det"/></r></p></e>
-    <e><p><l>สำนึก<s n="det"/></l><r>gratitude<s n="det"/></r></p></e>
-    <e><p><l>บุญคุณ<s n="det"/></l><r>gratitude<s n="det"/></r></p></e>
-    <e><p><l>กตัญญู<s n="prn"/></l><r>gratitude<s n="prn"/></r></p></e>
-    <e><p><l>ขอบคุณ<s n="prn"/></l><r>gratitude<s n="prn"/></r></p></e>
-    <e><p><l>สำนึก<s n="prn"/></l><r>gratitude<s n="prn"/></r></p></e>
-    <e><p><l>บุญคุณ<s n="prn"/></l><r>gratitude<s n="prn"/></r></p></e>
-    <e><p><l>วาง<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>สินค้า<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>ธนาคาร<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>เคาน์เตอร์<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>นับ<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>ตอบโต้<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>ความเห็น<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>ฝ่าฝืน<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>ปะทะ<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>บุพบท<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>ตรงข้าม<s n="adv"/></l><r>counter<s n="adv"/></r></p></e>
-    <e><p><l>อำนาจ<s n="adj"/></l><r>sorcery<s n="adj"/></r></p></e>
-    <e><p><l>เวทมนต์<s n="adj"/></l><r>sorcery<s n="adj"/></r></p></e>
-    <e><p><l>เสน่ห์<s n="adj"/></l><r>sorcery<s n="adj"/></r></p></e>
-    <e><p><l>อำนาจ<s n="vblex"/></l><r>sorcery<s n="vblex"/></r></p></e>
-    <e><p><l>เวทมนต์<s n="vblex"/></l><r>sorcery<s n="vblex"/></r></p></e>
-    <e><p><l>เสน่ห์<s n="vblex"/></l><r>sorcery<s n="vblex"/></r></p></e>
-    <e><p><l>ยอมรับ<s n="n"/></l><r>accredited<s n="n"/></r></p></e>
-    <e><p><l>เป็นทางการ<s n="n"/></l><r>accredited<s n="n"/></r></p></e>
-    <e><p><l>มาตรฐาน<s n="n"/></l><r>accredited<s n="n"/></r></p></e>
-    <e><p><l>ยอมรับ<s n="vblex"/></l><r>accredited<s n="vblex"/></r></p></e>
-    <e><p><l>เป็นทางการ<s n="vblex"/></l><r>accredited<s n="vblex"/></r></p></e>
-    <e><p><l>มาตรฐาน<s n="vblex"/></l><r>accredited<s n="vblex"/></r></p></e>
-    <e><p><l>บรรลุ<s n="n"/></l><r>achieve<s n="n"/></r></p></e>
-    <e><p><l>ผล<s n="n"/></l><r>achieve<s n="n"/></r></p></e>
-    <e><p><l>ได้ผล<s n="n"/></l><r>achieve<s n="n"/></r></p></e>
-    <e><p><l>ผล<s n="vblex"/></l><r>acorn<s n="vblex"/></r></p></e>
-    <e><p><l>โอ๊ก<s n="vblex"/></l><r>acorn<s n="vblex"/></r></p></e>
+    <e><p><l>ความกตัญญู<s n="n"/></l><r>gratitude<s n="n"/></r></p></e>
+    <e><p><l>ความรู้สึกขอบคุณ<s n="n"/></l><r>gratitude<s n="n"/></r></p></e>
+    <e><p><l>ความรู้คุณ<s n="n"/></l><r>gratitude<s n="n"/></r></p></e>
+    <e><p><l>ความสำนึกในบุญคุณ<s n="n"/></l><r>gratitude<s n="n"/></r></p></e>
+    <e><p><l>ที่วางสินค้า<s n="n"/></l><r>counter<s n="n"/></r></p></e>
+    <e><p><l>เคาน์เตอร์<s n="n"/></l><r>counter<s n="n"/></r></p></e>
+    <e><p><l>เครื่องนับ<s n="n"/></l><r>counter<s n="n"/></r></p></e> <!-- เช่น เครื่องนับคะแนนในการเล่นไพ่ -->
+    <e><p><l>สิ่งที่นำมาแลกเป็นสิ่งหนึ่ง<s n="n"/></l><r>counter<s n="n"/></r></p></e>
+    <e><p><l>ตอบโต้<s n="vblex"/></l><r>counter<s n="vblex"/></r></p></e> <!-- (การต่อสู้ กิริยา คำพูด) ด้วยความเห็นที่แตกต่างกัน -->
+    <e><p><l>ฝ่าฝืน<s n="vblex"/></l><r>counter<s n="vblex"/></r></p></e>
+    <e><p><l>ปะทะ<s n="vblex"/></l><r>counter<s n="vblex"/></r></p></e>
+    <e><p><l>การใช้อำนาจเวทมนต์ในทางร้าย<s n="n"/></l><r>sorcery<s n="n"/></r></p></e>
+    <e><p><l>เวทมนต์<s n="n"/></l><r>sorcery<s n="n"/></r></p></e>
+    <e><p><l>เสน่ห์<s n="n"/></l><r>sorcery<s n="n"/></r></p></e>
+    <e><p><l>ที่ได้รับการยอมรับอย่างเป็นทางการ<s n="adj"/></l><r>accredited<s n="adj"/></r></p></e>
+    <e><p><l>ที่ได้รับการยอมรับมาตรฐาน<s n="adj"/></l><r>accredited<s n="adj"/></r></p></e>
+    <e><p><l>บรรลุผล<s n="vblex"/></l><r>achieve<s n="vblex"/></r></p></e>
+    <e><p><l>ได้ผล<s n="vblex"/></l><r>achieve<s n="vblex"/></r></p></e>
     <e><p><l>ลูกโอ๊ก<s n="vblex"/></l><r>acorn<s n="vblex"/></r></p></e>
-    <e><p><l>จ่าย<s n="adv"/></l><r>acquit<s n="adv"/></r></p></e>
-    <e><p><l>คืน<s n="adv"/></l><r>acquit<s n="adv"/></r></p></e>
-    <e><p><l>ผูกพัน<s n="adv"/></l><r>acquit<s n="adv"/></r></p></e>
-    <e><p><l>ความผิด<s n="adv"/></l><r>acquit<s n="adv"/></r></p></e>
-    <e><p><l>ประพฤติ<s n="adv"/></l><r>acquit<s n="adv"/></r></p></e>
-    <e><p><l>จ่าย<s n="det"/></l><r>acquit<s n="det"/></r></p></e>
-    <e><p><l>คืน<s n="det"/></l><r>acquit<s n="det"/></r></p></e>
-    <e><p><l>ผูกพัน<s n="det"/></l><r>acquit<s n="det"/></r></p></e>
-    <e><p><l>ความผิด<s n="det"/></l><r>acquit<s n="det"/></r></p></e>
-    <e><p><l>ประพฤติ<s n="det"/></l><r>acquit<s n="det"/></r></p></e>
-    <e><p><l>กลิ่น<s n="vblex"/></l><r>acrid<s n="vblex"/></r></p></e>
-    <e><p><l>รส<s n="vblex"/></l><r>acrid<s n="vblex"/></r></p></e>
-    <e><p><l>ฉุน<s n="vblex"/></l><r>acrid<s n="vblex"/></r></p></e>
-    <e><p><l>รุนแรง<s n="vblex"/></l><r>acrid<s n="vblex"/></r></p></e>
-    <e><p><l>ขม<s n="vblex"/></l><r>acrid<s n="vblex"/></r></p></e>
-    <e><p><l>กายกรรม<s n="adj"/></l><r>acrobat<s n="adj"/></r></p></e>
-    <e><p><l>ละครสัตว์<s n="adj"/></l><r>acrobat<s n="adj"/></r></p></e>
-    <e><p><l>กายกรรม<s n="adv"/></l><r>acrobat<s n="adv"/></r></p></e>
-    <e><p><l>ละครสัตว์<s n="adv"/></l><r>acrobat<s n="adv"/></r></p></e>
-    <e><p><l>กายกรรม<s n="n"/></l><r>acrobat<s n="n"/></r></p></e>
-    <e><p><l>ละครสัตว์<s n="n"/></l><r>acrobat<s n="n"/></r></p></e>
+    <e><p><l>จ่ายคืน<s n="vblex"/></l><r>acquit<s n="vblex"/></r></p></e>
+    <e><p><l>ทำให้ไม่มีข้อผูกพัน<s n="vblex"/></l><r>acquit<s n="vblex"/></r></p></e>
+    <e><p><l>ประกาศว่าไม่มีความผิด<s n="vblex"/></l><r>acquit<s n="vblex"/></r></p></e>
+    <e><p><l>ประพฤติตัว<s n="vblex"/></l><r>acquit<s n="vblex"/></r></p></e>
+    <e><p><l>ฉุน<s n="adj"/></l><r>acrid<s n="adj"/></r></p></e> <!-- ใช้กับกลิ่น, รส -->
+    <e><p><l>รุนแรง<s n="adj"/></l><r>acrid<s n="adj"/></r></p></e> <!-- ใช้กับกลิ่น, รส -->
+    <e><p><l>ขม<s n="adj"/></l><r>acrid<s n="adj"/></r></p></e> <!-- ใช้กับกลิ่น, รส -->
+    <e><p><l>นักแสดงกายกรรม<s n="n"/></l><r>acrobat<s n="n"/></r></p></e>
     <e><p><l>การกระทำ<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>ปฏิบัติ<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>ดำเนินการ<s n="n"/></l><r>action<s n="n"/></r></p></e>
+    <e><p><l>การปฏิบัติ<s n="n"/></l><r>action<s n="n"/></r></p></e>
+    <e><p><l>การดำเนินการ<s n="n"/></l><r>action<s n="n"/></r></p></e>
     <e><p><l>การเคลื่อนไหว<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>ดำเนินคดี<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>ทำงาน<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>เครื่องจักร<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>รบ<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>กระฉับกระเฉง<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>กระตือรือร้น<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>เหตุการณ์<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>นิยาย<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>ภาพยนตร์<s n="n"/></l><r>action<s n="n"/></r></p></e>
+    <e><p><l>การดำเนินคดี<s n="n"/></l><r>action<s n="n"/></r></p></e>
+    <e><p><l>การทำงาน<s n="n"/></l><r>action<s n="n"/></r></p></e> <!-- ของเครื่องจักร -->
+    <e><p><l>การรบ<s n="n"/></l><r>action<s n="n"/></r></p></e>
+    <e><p><l>ความกระฉับกระเฉง<s n="n"/></l><r>action<s n="n"/></r></p></e>
+    <e><p><l>ความกระตือรือร้น<s n="n"/></l><r>action<s n="n"/></r></p></e>
+    <e><p><l>เหตุการณ์<s n="n"/></l><r>action<s n="n"/></r></p></e> <!-- ในนิยายหรือภาพยนตร์ -->
     <e><p><l>ท่าทาง<s n="n"/></l><r>action<s n="n"/></r></p></e>
     <e><p><l>อากัปกิริยา<s n="n"/></l><r>action<s n="n"/></r></p></e>
     <e><p><l>อิทธิพล<s n="n"/></l><r>action<s n="n"/></r></p></e>
     <e><p><l>อำนาจ<s n="n"/></l><r>action<s n="n"/></r></p></e>
-    <e><p><l>นักแสดง<s n="adj"/></l><r>actor<s n="adj"/></r></p></e>
-    <e><p><l>ตัวแสดง<s n="adj"/></l><r>actor<s n="adj"/></r></p></e>
-    <e><p><l>ละคร<s n="adj"/></l><r>actor<s n="adj"/></r></p></e>
-    <e><p><l>ภาพยนตร์<s n="adj"/></l><r>actor<s n="adj"/></r></p></e>
-    <e><p><l>นักแสดง<s n="adv"/></l><r>actor<s n="adv"/></r></p></e>
-    <e><p><l>ตัวแสดง<s n="adv"/></l><r>actor<s n="adv"/></r></p></e>
-    <e><p><l>ละคร<s n="adv"/></l><r>actor<s n="adv"/></r></p></e>
-    <e><p><l>ภาพยนตร์<s n="adv"/></l><r>actor<s n="adv"/></r></p></e>
+    <e><p><l>นักแสดง<s n="n"/></l><r>actor<s n="n"/></r></p></e>
+    <e><p><l>ตัวแสดง<s n="n"/></l><r>actor<s n="n"/></r></p></e> <!-- ในละครหรือภาพยนตร์ -->
     <e><p><l>จริง<s n="adv"/></l><r>actually<s n="adv"/></r></p></e>
-    <e><p><l>จริง<s n="n"/></l><r>actually<s n="n"/></r></p></e>
-    <e><p><l>ฝังเข็ม<s n="n"/></l><r>acupuncture<s n="n"/></r></p></e>
-    <e><p><l>รักษา<s n="n"/></l><r>acupuncture<s n="n"/></r></p></e>
-    <e><p><l>โรค<s n="n"/></l><r>acupuncture<s n="n"/></r></p></e>
-    <e><p><l>คริสตศักราช<s n="adv"/></l><r>AD<s n="adv"/></r></p></e>
-    <e><p><l>ลูกกระเดือก<s n="det"/></l><r>Adam's apple<s n="det"/></r></p></e>
-    <e><p><l>ส่วนผสม<s n="prn"/></l><r>additive<s n="prn"/></r></p></e>
-    <e><p><l>เพิ่ม<s n="prn"/></l><r>additive<s n="prn"/></r></p></e>
+    <e><p><l>การฝังเข็ม<s n="n"/></l><r>acupuncture<s n="n"/></r></p></e> <!-- เพื่อรักษาโรค -->
+    <e><p><l>คริสตศักราช<s n="n"/></l><r>AD<s n="n"/></r></p></e>
+    <e><p><l>ลูกกระเดือก<s n="n"/></l><r>Adam's<b/>apple<s n="n"/></r></p></e>
+    <e><p><l>ส่วนผสมที่เพิ่มเข้าไป<s n="prn"/></l><r>additive<s n="prn"/></r></p></e>
     <e><p><l>ชำนาญ<s n="adj"/></l><r>adept<s n="adj"/></r></p></e>
     <e><p><l>ช่ำชอง<s n="adj"/></l><r>adept<s n="adj"/></r></p></e>
-    <e><p><l>ติด<s n="prn"/></l><r>adhesive<s n="prn"/></r></p></e>
-    <e><p><l>เหนียว<s n="prn"/></l><r>adhesive<s n="prn"/></r></p></e>
-    <e><p><l>กาว<s n="prn"/></l><r>adhesive<s n="prn"/></r></p></e>
-    <e><p><l>ถัด<s n="n"/></l><r>adjacent<s n="n"/></r></p></e>
-    <e><p><l>ใกล้<s n="n"/></l><r>adjacent<s n="n"/></r></p></e>
-    <e><p><l>ติด<s n="n"/></l><r>adjacent<s n="n"/></r></p></e>
-    <e><p><l>ติด<s n="n"/></l><r>adjoin<s n="n"/></r></p></e>
-    <e><p><l>ประชิด<s n="n"/></l><r>adjoin<s n="n"/></r></p></e>
-    <e><p><l>ข้างเคียง<s n="n"/></l><r>adjoin<s n="n"/></r></p></e>
-    <e><p><l>ตัดสินใจ<s n="pr"/></l><r>adjudicate<s n="pr"/></r></p></e>
-    <e><p><l>เป็นทางการ<s n="pr"/></l><r>adjudicate<s n="pr"/></r></p></e>
-    <e><p><l>พิจารณา<s n="pr"/></l><r>adjudicate<s n="pr"/></r></p></e>
-    <e><p><l>คดี<s n="pr"/></l><r>adjudicate<s n="pr"/></r></p></e>
-    <e><p><l>ศาล<s n="pr"/></l><r>adjudicate<s n="pr"/></r></p></e>
-    <e><p><l>ตัดสินใจ<s n="vblex"/></l><r>adjudicate<s n="vblex"/></r></p></e>
-    <e><p><l>เป็นทางการ<s n="vblex"/></l><r>adjudicate<s n="vblex"/></r></p></e>
-    <e><p><l>พิจารณา<s n="vblex"/></l><r>adjudicate<s n="vblex"/></r></p></e>
-    <e><p><l>คดี<s n="vblex"/></l><r>adjudicate<s n="vblex"/></r></p></e>
-    <e><p><l>ศาล<s n="vblex"/></l><r>adjudicate<s n="vblex"/></r></p></e>
-    <e><p><l>ชื่นชม<s n="adj"/></l><r>admirably<s n="adj"/></r></p></e>
-    <e><p><l>ยอดเยี่ยม<s n="adj"/></l><r>admirably<s n="adj"/></r></p></e>
-    <e><p><l>ชื่นชม<s n="vblex"/></l><r>admirably<s n="vblex"/></r></p></e>
-    <e><p><l>ยอดเยี่ยม<s n="vblex"/></l><r>admirably<s n="vblex"/></r></p></e>
-    <e><p><l>ยอม<s n="n"/></l><r>admissible<s n="n"/></r></p></e>
-    <e><p><l>ยอมรับ<s n="n"/></l><r>admissible<s n="n"/></r></p></e>
-    <e><p><l>ยอม<s n="vblex"/></l><r>admissible<s n="vblex"/></r></p></e>
-    <e><p><l>ยอมรับ<s n="vblex"/></l><r>admissible<s n="vblex"/></r></p></e>
-    <e><p><l>บ่อย<s n="vblex"/></l><r>ad nauseam<s n="vblex"/></r></p></e>
-    <e><p><l>น่าเบื่อ<s n="vblex"/></l><r>ad nauseam<s n="vblex"/></r></p></e>
-    <e><p><l>รัก<s n="adj"/></l><r>adore<s n="adj"/></r></p></e>
-    <e><p><l>เคารพ<s n="adj"/></l><r>adore<s n="adj"/></r></p></e>
-    <e><p><l>บูชา<s n="adj"/></l><r>adore<s n="adj"/></r></p></e>
-    <e><p><l>ชื่นชม<s n="adj"/></l><r>adore<s n="adj"/></r></p></e>
-    <e><p><l>สาร<s n="vblex"/></l><r>adrenaline<s n="vblex"/></r></p></e>
-    <e><p><l>ร่างกาย<s n="vblex"/></l><r>adrenaline<s n="vblex"/></r></p></e>
-    <e><p><l>หลั่ง<s n="vblex"/></l><r>adrenaline<s n="vblex"/></r></p></e>
-    <e><p><l>หัวใจ<s n="vblex"/></l><r>adrenaline<s n="vblex"/></r></p></e>
-    <e><p><l>เต้น<s n="vblex"/></l><r>adrenaline<s n="vblex"/></r></p></e>
-    <e><p><l>ฮอร์โมนอะดรีนาลิน<s n="vblex"/></l><r>adrenaline<s n="vblex"/></r></p></e>
-    <e><p><l>ประจบประแจง<s n="adv"/></l><r>adulation<s n="adv"/></r></p></e>
-    <e><p><l>ชื่นชม<s n="adv"/></l><r>adulation<s n="adv"/></r></p></e>
-    <e><p><l>เกิน<s n="adv"/></l><r>adulation<s n="adv"/></r></p></e>
-    <e><p><l>ถึง<s n="n"/></l><r>advent<s n="n"/></r></p></e>
-    <e><p><l>เหตุการณ์<s n="n"/></l><r>advent<s n="n"/></r></p></e>
-    <e><p><l>นักผจญภัย<s n="cnjsub"/></l><r>adventurer<s n="cnjsub"/></r></p></e>
-    <e><p><l>ขยาย<s n="adj"/></l><r>adverb<s n="adj"/></r></p></e>
-    <e><p><l>ตรงกันข้าม<s n="adv"/></l><r>adverse<s n="adv"/></r></p></e>
-    <e><p><l>พอใจ<s n="adv"/></l><r>adverse<s n="adv"/></r></p></e>
-    <e><p><l>ตรงกันข้าม<s n="pr"/></l><r>adverse<s n="pr"/></r></p></e>
-    <e><p><l>พอใจ<s n="pr"/></l><r>adverse<s n="pr"/></r></p></e>
+    <e><p><l>ติดเหนียว<s n="adj"/></l><r>adhesive<s n="adj"/></r></p></e>
+    <e><p><l>สิ่งที่ทำให้ติด<s n="n"/></l><r>adhesive<s n="n"/></r></p></e>
+    <e><p><l>ถัดไป<s n="adj"/></l><r>adjacent<s n="adj"/></r></p></e>
+    <e><p><l>ใกล้<s n="adj"/></l><r>adjacent<s n="adj"/></r></p></e>
+    <e><p><l>ติดกัน<s n="adj"/></l><r>adjacent<s n="adj"/></r></p></e>
+    <e><p><l>อยู่ติดกัน<s n="vblex"/></l><r>adjoin<s n="vblex"/></r></p></e>
+    <e><p><l>ประชิดกับ<s n="vblex"/></l><r>adjoin<s n="vblex"/></r></p></e>
+    <e><p><l>ติดกับ<s n="vblex"/></l><r>adjoin<s n="vblex"/></r></p></e>
+    <e><p><l>ข้างเคียงกับ<s n="vblex"/></l><r>adjoin<s n="vblex"/></r></p></e>
+    <e><p><l>ตัดสินใจอย่างเป็นทางการ<s n="vblex"/></l><r>adjudicate<s n="vblex"/></r></p></e>
+    <e><p><l>พิจารณาคดีในศาล<s n="vblex"/></l><r>adjudicate<s n="vblex"/></r></p></e>
+    <e><p><l>อย่างน่าชื่นชม<s n="adj"/></l><r>admirably<s n="adj"/></r></p></e>
+    <e><p><l>อย่างยอดเยี่ยม<s n="adj"/></l><r>admirably<s n="adj"/></r></p></e>
+    <e><p><l>พอยอมได้<s n="n"/></l><r>admissible<s n="n"/></r></p></e>
+    <e><p><l>ยอมรับได้<s n="n"/></l><r>admissible<s n="n"/></r></p></e> <!-- formal -->
+    <e><p><l>บ่อยจนน่าเบื่อ<s n="adj"/></l><r>ad<b/>nauseam<s n="adj"/></r></p></e>
+    <e><p><l>รักและเคารพมาก<s n="vblex"/></l><r>adore<s n="vblex"/></r></p></e>
+    <e><p><l>บูชา<s n="vblex"/></l><r>adore<s n="vblex"/></r></p></e>
+    <e><p><l>ชื่นชม<s n="vblex"/></l><r>adore<s n="vblex"/></r></p></e>
+    <e><p><l>ฮอร์โมนอะดรีนาลิน<s n="n"/></l><r>adrenaline<s n="n"/></r></p></e>
+    <e><p><l>การประจบประแจง<s n="n"/></l><r>adulation<s n="n"/></r></p></e>
+    <e><p><l>การชื่นชมจนเกินไป<s n="n"/></l><r>adulation<s n="n"/></r></p></e>
+    <e><p><l>การมาถึงของเหตุการณ์สำคัญ<s n="n"/></l><r>advent<s n="n"/></r></p></e>
+    <e><p><l>นักผจญภัย<s n="n"/></l><r>adventurer<s n="n"/></r></p></e>
+    <e><p><l>คำขยายกริยา<s n="n"/></l><r>adverb<s n="n"/></r></p></e>
+    <e><p><l>ตรงกันข้าม<s n="adj"/></l><r>adverse<s n="adj"/></r></p></e>
+    <e><p><l>ไม่น่าพอใจ<s n="adj"/></l><r>adverse<s n="adj"/></r></p></e>
     <e><p><l>โฆษณา<s n="n"/></l><r>advert<s n="n"/></r></p></e>
-    <e><p><l>โฆษณา<s n="vblex"/></l><r>advert<s n="vblex"/></r></p></e>
-    <e><p><l>สนับสนุน<s n="adj"/></l><r>advocate<s n="adj"/></r></p></e>
-    <e><p><l>ศาล<s n="adj"/></l><r>advocate<s n="adj"/></r></p></e>
-    <e><p><l>สนับสนุน<s n="adv"/></l><r>advocate<s n="adv"/></r></p></e>
-    <e><p><l>ศาล<s n="adv"/></l><r>advocate<s n="adv"/></r></p></e>
-    <e><p><l>สนับสนุน<s n="pr"/></l><r>advocate<s n="pr"/></r></p></e>
-    <e><p><l>ศาล<s n="pr"/></l><r>advocate<s n="pr"/></r></p></e>
-    <e><p><l>สนับสนุน<s n="n"/></l><r>advocate<s n="n"/></r></p></e>
-    <e><p><l>ศาล<s n="n"/></l><r>advocate<s n="n"/></r></p></e>
-    <e><p><l>เคลื่อนที่<s n="pr"/></l><r>aerobatics<s n="pr"/></r></p></e>
-    <e><p><l>เครื่องบิน<s n="pr"/></l><r>aerobatics<s n="pr"/></r></p></e>
-    <e><p><l>อากาศยาน<s n="pr"/></l><r>aerobatics<s n="pr"/></r></p></e>
-    <e><p><l>บริติช<s n="vblex"/></l><r>aerodrome<s n="vblex"/></r></p></e>
-    <e><p><l>สนามบิน<s n="vblex"/></l><r>aerodrome<s n="vblex"/></r></p></e>
-    <e><p><l>การบิน<s n="n"/></l><r>aeronautics<s n="n"/></r></p></e>
-    <e><p><l>เดินอากาศ<s n="n"/></l><r>aeronautics<s n="n"/></r></p></e>
-    <e><p><l>การบิน<s n="vblex"/></l><r>aeronautics<s n="vblex"/></r></p></e>
-    <e><p><l>เดินอากาศ<s n="vblex"/></l><r>aeronautics<s n="vblex"/></r></p></e>
-    <e><p><l>กระป๋อง<s n="vblex"/></l><r>aerosol<s n="vblex"/></r></p></e>
-    <e><p><l>สเปรย์<s n="vblex"/></l><r>aerosol<s n="vblex"/></r></p></e>
-    <e><p><l>อัด<s n="vblex"/></l><r>aerosol<s n="vblex"/></r></p></e>
-    <e><p><l>ของเหลว<s n="vblex"/></l><r>aerosol<s n="vblex"/></r></p></e>
-    <e><p><l>ฉีด<s n="vblex"/></l><r>aerosol<s n="vblex"/></r></p></e>
-    <e><p><l>ฝอย<s n="vblex"/></l><r>aerosol<s n="vblex"/></r></p></e>
-    <e><p><l>กันเอง<s n="n"/></l><r>affable<s n="n"/></r></p></e>
-    <e><p><l>กันเอง<s n="vbser"/></l><r>affable<s n="vbser"/></r></p></e>
-    <e><p><l>สาธารณะ<s n="n"/></l><r>affairs<s n="n"/></r></p></e>
-    <e><p><l>ส่วนตัว<s n="n"/></l><r>affairs<s n="n"/></r></p></e>
-    <e><p><l>ความรัก<s n="det"/></l><r>affection<s n="det"/></r></p></e>
-    <e><p><l>ชอบ<s n="det"/></l><r>affection<s n="det"/></r></p></e>
-    <e><p><l>ความรัก<s n="prn"/></l><r>affection<s n="prn"/></r></p></e>
-    <e><p><l>ชอบ<s n="prn"/></l><r>affection<s n="prn"/></r></p></e>
-    <e><p><l>ยืนยัน<s n="n"/></l><r>affirm<s n="n"/></r></p></e>
-    <e><p><l>รับรอง<s n="n"/></l><r>affirm<s n="n"/></r></p></e>
-    <e><p><l>รวย<s n="vblex"/></l><r>affluent<s n="vblex"/></r></p></e>
-    <e><p><l>มั่งคั่ง<s n="vblex"/></l><r>affluent<s n="vblex"/></r></p></e>
-    <e><p><l>ดูถูก<s n="n"/></l><r>affront<s n="n"/></r></p></e>
-    <e><p><l>ปรามาส<s n="n"/></l><r>affront<s n="n"/></r></p></e>
-    <e><p><l>โกรธ<s n="n"/></l><r>affront<s n="n"/></r></p></e>
+    <e><p><l>ผู้สนับสนุน<s n="n"/></l><r>advocate<s n="n"/></r></p></e>
+    <e><p><l>สนับสนุน<s n="vblex"/></l><r>advocate<s n="vblex"/></r></p></e>
+    <e><p><l>การเคลื่อนที่โดยอากาศยาน<s n="pr"/></l><r>aerobatics<s n="pr"/></r></p></e>
+    <e><p><l>สนามบินขนาดเล็ก<s n="vblex"/></l><r>aerodrome<s n="vblex"/></r></p></e> <!-- brit -->
+    <e><p><l>การศึกษาเกี่ยวกับการบิน<s n="n"/></l><r>aeronautics<s n="n"/></r></p></e>
+    <e><p><l>การเดินอากาศ<s n="n"/></l><r>aeronautics<s n="n"/></r></p></e>
+    <e><p><l>กระป๋องสเปรย์<s n="n"/></l><r>aerosol<s n="n"/></r></p></e>
+    <e><p><l>เป็นกันเอง<s n="adj"/></l><r>affable<s n="adj"/></r></p></e>
+    <e><p><l>ความรัก<s n="n"/></l><r>affection<s n="n"/></r></p></e>
+    <e><p><l>ยืนยัน<s n="vblex"/></l><r>affirm<s n="n"/></r></p></e>
+    <e><p><l>รับรอง<s n="vblex"/></l><r>affirm<s n="vblex"/></r></p></e>
+    <e><p><l>รวย<s n="adj"/></l><r>affluent<s n="adj"/></r></p></e>
+    <e><p><l>มั่งคั่ง<s n="adj"/></l><r>affluent<s n="adj"/></r></p></e>
     <e><p><l>ดูถูก<s n="vblex"/></l><r>affront<s n="vblex"/></r></p></e>
     <e><p><l>ปรามาส<s n="vblex"/></l><r>affront<s n="vblex"/></r></p></e>
-    <e><p><l>โกรธ<s n="vblex"/></l><r>affront<s n="vblex"/></r></p></e>
-    <e><p><l>เตรียมพร้อม<s n="n"/></l><r>afoot<s n="n"/></r></p></e>
-    <e><p><l>เตรียมพร้อม<s n="vblex"/></l><r>afoot<s n="vblex"/></r></p></e>
+    <e><p><l>ทำให้โกรธ<s n="vblex"/></l><r>affront<s n="vblex"/></r></p></e>
+    <e><p><l>การดูถูก<s n="n"/></l><r>affront<s n="n"/></r></p></e>
+    <e><p><l>ที่เตรียมพร้อม<s n="adj"/></l><r>afoot<s n="adj"/></r></p></e>
     <e><p><l>กล่าวถึง<s n="adj"/></l><r>aforesaid<s n="adj"/></r></p></e>
     <e><p><l>ภายหลัง<s n="adj"/></l><r>afterwards<s n="adj"/></r></p></e>
     <e><p><l>ต่อมา<s n="adj"/></l><r>afterwards<s n="adj"/></r></p></e>
