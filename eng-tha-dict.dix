@@ -3080,361 +3080,95 @@
     <e><p><l>การแสดงตนในที่สาธารณะ<s n="n"/></l><r>appearance<s n="n"/></r></p></e>
     <e><p><l>สาธารณะ<s n="n"/></l><r>appearance<s n="n"/></r></p></e>
     <e><p><l>เวที<s n="n"/></l><r>appearance<s n="n"/></r></p></e>
-    <e><p><l>ไส้ติ่ง<s n="adv"/></l><r>appendix<s n="adv"/></r></p></e>
-    <e><p><l>อวัยวะ<s n="adv"/></l><r>appendix<s n="adv"/></r></p></e>
-    <e><p><l>ร่างกาย<s n="adv"/></l><r>appendix<s n="adv"/></r></p></e>
-    <e><p><l>มนุษย์<s n="adv"/></l><r>appendix<s n="adv"/></r></p></e>
-    <e><p><l>ภาคผนวก<s n="adv"/></l><r>appendix<s n="adv"/></r></p></e>
-    <e><p><l>หนังสือ<s n="adv"/></l><r>appendix<s n="adv"/></r></p></e>
-    <e><p><l>ไส้ติ่ง<s n="det"/></l><r>appendix<s n="det"/></r></p></e>
-    <e><p><l>อวัยวะ<s n="det"/></l><r>appendix<s n="det"/></r></p></e>
-    <e><p><l>ร่างกาย<s n="det"/></l><r>appendix<s n="det"/></r></p></e>
-    <e><p><l>มนุษย์<s n="det"/></l><r>appendix<s n="det"/></r></p></e>
-    <e><p><l>ภาคผนวก<s n="det"/></l><r>appendix<s n="det"/></r></p></e>
-    <e><p><l>หนังสือ<s n="det"/></l><r>appendix<s n="det"/></r></p></e>
+    <e><p><l>ไส้ติ่ง<s n="n"/></l><r>appendix<s n="n"/></r></p></e>
+    <e><p><l>อวัยวะที่ไม่มีหน้าที่อะไรในร่างกายมนุษย์<s n="n"/></l><r>appendix<s n="n"/></r></p></e>
+    <e><p><l>ภาคผนวก<s n="n"/></l><r>appendix<s n="n"/></r></p></e>
     <e><p><l>สวย<s n="adj"/></l><r>appetizing<s n="adj"/></r></p></e>
     <e><p><l>กลิ่น<s n="adj"/></l><r>appetizing<s n="adj"/></r></p></e>
     <e><p><l>รับประทาน<s n="adj"/></l><r>appetizing<s n="adj"/></r></p></e>
-    <e><p><l>สวย<s n="n"/></l><r>appetizing<s n="n"/></r></p></e>
-    <e><p><l>กลิ่น<s n="n"/></l><r>appetizing<s n="n"/></r></p></e>
-    <e><p><l>รับประทาน<s n="n"/></l><r>appetizing<s n="n"/></r></p></e>
-    <e><p><l>เสียง<s n="n"/></l><r>applause<s n="n"/></r></p></e>
-    <e><p><l>ปรบมือ<s n="n"/></l><r>applause<s n="n"/></r></p></e>
-    <e><p><l>ชื่นชม<s n="n"/></l><r>applause<s n="n"/></r></p></e>
-    <e><p><l>เสียง<s n="vblex"/></l><r>applause<s n="vblex"/></r></p></e>
-    <e><p><l>ปรบมือ<s n="vblex"/></l><r>applause<s n="vblex"/></r></p></e>
-    <e><p><l>ชื่นชม<s n="vblex"/></l><r>applause<s n="vblex"/></r></p></e>
-    <e><p><l>ใช้<s n="cnjsub"/></l><r>applicable<s n="cnjsub"/></r></p></e>
-    <e><p><l>เหมาะสม<s n="cnjsub"/></l><r>applicable<s n="cnjsub"/></r></p></e>
-    <e><p><l>สอดคล้อง<s n="cnjsub"/></l><r>applicable<s n="cnjsub"/></r></p></e>
-    <e><p><l>ใช้<s n="pr"/></l><r>applicable<s n="pr"/></r></p></e>
-    <e><p><l>เหมาะสม<s n="pr"/></l><r>applicable<s n="pr"/></r></p></e>
-    <e><p><l>สอดคล้อง<s n="pr"/></l><r>applicable<s n="pr"/></r></p></e>
-    <e><p><l>ใช้<s n="vblex"/></l><r>applicable<s n="vblex"/></r></p></e>
-    <e><p><l>เหมาะสม<s n="vblex"/></l><r>applicable<s n="vblex"/></r></p></e>
-    <e><p><l>สอดคล้อง<s n="vblex"/></l><r>applicable<s n="vblex"/></r></p></e>
-    <e><p><l>ประยุกต์<s n="n"/></l><r>applied<s n="n"/></r></p></e>
-    <e><p><l>หลัก<s n="n"/></l><r>applied<s n="n"/></r></p></e>
-    <e><p><l>ประเมิน<s n="n"/></l><r>appraisal<s n="n"/></r></p></e>
-    <e><p><l>ค่า<s n="n"/></l><r>appraisal<s n="n"/></r></p></e>
-    <e><p><l>คุณภาพ<s n="n"/></l><r>appraisal<s n="n"/></r></p></e>
-    <e><p><l>ประเมิน<s n="vblex"/></l><r>appraisal<s n="vblex"/></r></p></e>
-    <e><p><l>ค่า<s n="vblex"/></l><r>appraisal<s n="vblex"/></r></p></e>
-    <e><p><l>คุณภาพ<s n="vblex"/></l><r>appraisal<s n="vblex"/></r></p></e>
-    <e><p><l>คุณค่า<s n="vblex"/></l><r>appreciable<s n="vblex"/></r></p></e>
-    <e><p><l>สำคัญ<s n="vblex"/></l><r>appreciable<s n="vblex"/></r></p></e>
-    <e><p><l>รู้สึก<s n="n"/></l><r>appreciative<s n="n"/></r></p></e>
-    <e><p><l>พอใจ<s n="n"/></l><r>appreciative<s n="n"/></r></p></e>
-    <e><p><l>ชื่นชม<s n="n"/></l><r>appreciative<s n="n"/></r></p></e>
-    <e><p><l>สำนึก<s n="n"/></l><r>appreciative<s n="n"/></r></p></e>
-    <e><p><l>บุญคุณ<s n="n"/></l><r>appreciative<s n="n"/></r></p></e>
-    <e><p><l>รู้สึก<s n="vblex"/></l><r>appreciative<s n="vblex"/></r></p></e>
-    <e><p><l>พอใจ<s n="vblex"/></l><r>appreciative<s n="vblex"/></r></p></e>
-    <e><p><l>ชื่นชม<s n="vblex"/></l><r>appreciative<s n="vblex"/></r></p></e>
-    <e><p><l>สำนึก<s n="vblex"/></l><r>appreciative<s n="vblex"/></r></p></e>
-    <e><p><l>บุญคุณ<s n="vblex"/></l><r>appreciative<s n="vblex"/></r></p></e>
-    <e><p><l>วิตก<s n="adj"/></l><r>apprehension<s n="adj"/></r></p></e>
-    <e><p><l>หวั่นเกรง<s n="adj"/></l><r>apprehension<s n="adj"/></r></p></e>
-    <e><p><l>ฝึกงาน<s n="n"/></l><r>apprenticeship<s n="n"/></r></p></e>
-    <e><p><l>ไมตรี<s n="adv"/></l><r>approachable<s n="adv"/></r></p></e>
-    <e><p><l>โอภา<s n="adv"/></l><r>approachable<s n="adv"/></r></p></e>
-    <e><p><l>ปราศรัย<s n="adv"/></l><r>approachable<s n="adv"/></r></p></e>
-    <e><p><l>เข้าถึง<s n="adv"/></l><r>approachable<s n="adv"/></r></p></e>
-    <e><p><l>ไมตรี<s n="adj"/></l><r>approachable<s n="adj"/></r></p></e>
-    <e><p><l>โอภา<s n="adj"/></l><r>approachable<s n="adj"/></r></p></e>
-    <e><p><l>ปราศรัย<s n="adj"/></l><r>approachable<s n="adj"/></r></p></e>
-    <e><p><l>เข้าถึง<s n="adj"/></l><r>approachable<s n="adj"/></r></p></e>
-    <e><p><l>ไมตรี<s n="vblex"/></l><r>approachable<s n="vblex"/></r></p></e>
-    <e><p><l>โอภา<s n="vblex"/></l><r>approachable<s n="vblex"/></r></p></e>
-    <e><p><l>ปราศรัย<s n="vblex"/></l><r>approachable<s n="vblex"/></r></p></e>
-    <e><p><l>เข้าถึง<s n="vblex"/></l><r>approachable<s n="vblex"/></r></p></e>
-    <e><p><l>เห็นด้วย<s n="n"/></l><r>approval<s n="n"/></r></p></e>
-    <e><p><l>รับรอง<s n="n"/></l><r>approval<s n="n"/></r></p></e>
-    <e><p><l>เกือบ<s n="adj"/></l><r>approx<s n="adj"/></r></p></e>
-    <e><p><l>คร่าว<s n="adj"/></l><r>approx<s n="adj"/></r></p></e>
-    <e><p><l>เกือบ<s n="n"/></l><r>approx<s n="n"/></r></p></e>
-    <e><p><l>คร่าว<s n="n"/></l><r>approx<s n="n"/></r></p></e>
-    <e><p><l>จำนวน<s n="det"/></l><r>approximation<s n="det"/></r></p></e>
-    <e><p><l>ประมาณ<s n="det"/></l><r>approximation<s n="det"/></r></p></e>
-    <e><p><l>จำนวน<s n="prn"/></l><r>approximation<s n="prn"/></r></p></e>
-    <e><p><l>ประมาณ<s n="prn"/></l><r>approximation<s n="prn"/></r></p></e>
-    <e><p><l>ผลไม้<s n="n"/></l><r>apricot<s n="n"/></r></p></e>
-    <e><p><l>เม็ด<s n="n"/></l><r>apricot<s n="n"/></r></p></e>
-    <e><p><l>เหมาะสม<s n="n"/></l><r>apt<s n="n"/></r></p></e>
-    <e><p><l>สถานการณ์<s n="n"/></l><r>apt<s n="n"/></r></p></e>
-    <e><p><l>เฉพาะ<s n="n"/></l><r>apt<s n="n"/></r></p></e>
-    <e><p><l>เหมาะสม<s n="vblex"/></l><r>apt<s n="vblex"/></r></p></e>
-    <e><p><l>สถานการณ์<s n="vblex"/></l><r>apt<s n="vblex"/></r></p></e>
-    <e><p><l>เฉพาะ<s n="vblex"/></l><r>apt<s n="vblex"/></r></p></e>
-    <e><p><l>จาง<s n="adj"/></l><r>aquamarine<s n="adj"/></r></p></e>
-    <e><p><l>อม<s n="adj"/></l><r>aquamarine<s n="adj"/></r></p></e>
-    <e><p><l>จาง<s n="n"/></l><r>aquamarine<s n="n"/></r></p></e>
-    <e><p><l>อม<s n="n"/></l><r>aquamarine<s n="n"/></r></p></e>
-    <e><p><l>จักรราศี<s n="vblex"/></l><r>Aquarius<s n="vblex"/></r></p></e>
-    <e><p><l>ราศีกุมภ์<s n="vblex"/></l><r>Aquarius<s n="vblex"/></r></p></e>
-    <e><p><l>สัญลักษณ์<s n="vblex"/></l><r>Aquarius<s n="vblex"/></r></p></e>
-    <e><p><l>อุ้ม<s n="vblex"/></l><r>Aquarius<s n="vblex"/></r></p></e>
-    <e><p><l>หม้อน้ำ<s n="vblex"/></l><r>Aquarius<s n="vblex"/></r></p></e>
+    <e><p><l>สวย<s n="adj"/></l><r>appetizing<s n="adj"/></r></p></e> <!-- for food -->
+    <e><p><l>กลิ่นหอม<s n="adj"/></l><r>appetizing<s n="adj"/></r></p></e> <!-- for food -->
+    <e><p><l>เสียงปรบมือ<s n="n"/></l><r>applause<s n="n"/></r></p></e> <!-- แสดงความชื่นชม -->
+    <e><p><l>ใช้ได้<s n="adj"/></l><r>applicable<s n="adj"/></r></p></e>
+    <e><p><l>เหมาะสม<s n="adj"/></l><r>applicable<s n="adj"/></r></p></e>
+    <e><p><l>สอดคล้อง<s n="adj"/></l><r>applicable<s n="adj"/></r></p></e>
+    <e><p><l>ประยุกต์<s n="adj"/></l><r>applied<s n="adj"/></r></p></e>
+    <e><p><l>การประเมินค่าหรือการประเมินคุณภาพ<s n="n"/></l><r>appraisal<s n="n"/></r></p></e>
+    <e><p><l>มีคุณค่า<s n="adj"/></l><r>appreciable<s n="adj"/></r></p></e>
+    <e><p><l>สำคัญ<s n="adj"/></l><r>appreciable<s n="adj"/></r></p></e>
+    <e><p><l>รู้สึกชื่นชม<s n="adj"/></l><r>appreciative<s n="adj"/></r></p></e>
+    <e><p><l>สำนึกบุญคุณ<s n="adj"/></l><r>appreciative<s n="adj"/></r></p></e>
+    <e><p><l>ความวิตก<s n="n"/></l><r>apprehension<s n="n"/></r></p></e>
+    <e><p><l>การฝึกงาน<s n="n"/></l><r>apprenticeship<s n="n"/></r></p></e>
+    <e><p><l>มีไมตรีจิตและโอภาปราศรัย<s n="adj"/></l><r>approachable<s n="adj"/></r></p></e>
+    <e><p><l>เข้าถึงได้<s n="adj"/></l><r>approachable<s n="adj"/></r></p></e> <!-- ไม่ใช้หน้าคำนาม -->
+    <e><p><l>การเห็นด้วย<s n="n"/></l><r>approval<s n="n"/></r></p></e>
+    <e><p><l>การรับรองว่าถูกต้อง<s n="n"/></l><r>approval<s n="n"/></r></p></e>
+    <e><p><l>เกือบๆ<s n="adj"/></l><r>approx<s n="adj"/></r></p></e>
+    <e><p><l>อย่างคร่าวๆ<s n="adj"/></l><r>approx<s n="adj"/></r></p></e>
+    <e><p><l>จำนวนโดยประมาณ<s n="n"/></l><r>approximation<s n="n"/></r></p></e>
+    <e><p><l>คำตอบที่ใกล้เคียง<s n="n"/></l><r>approximation<s n="n"/></r></p></e>
+    <e><p><l>การประมาณค่า<s n="n"/></l><r>approximation<s n="n"/></r></p></e>
+    <e><p><l>แอปริคอต<s n="n"/></l><r>apricot<s n="n"/></r></p></e>
+    <e><p><l>เหมาะสมในสถานการณ์เฉพาะ<s n="adj"/></l><r>apt<s n="adj"/></r></p></e>
     <e><p><l>อาหรับ<s n="n"/></l><r>Arab<s n="n"/></r></p></e>
-    <e><p><l>แหลม<s n="n"/></l><r>Arab<s n="n"/></r></p></e>
-    <e><p><l>อาระเบีย<s n="n"/></l><r>Arab<s n="n"/></r></p></e>
-    <e><p><l>ตะวันออกกลาง<s n="n"/></l><r>Arab<s n="n"/></r></p></e>
-    <e><p><l>ทวีปแอฟริกา<s n="n"/></l><r>Arab<s n="n"/></r></p></e>
-    <e><p><l>อาหรับ<s n="vblex"/></l><r>Arab<s n="vblex"/></r></p></e>
-    <e><p><l>แหลม<s n="vblex"/></l><r>Arab<s n="vblex"/></r></p></e>
-    <e><p><l>อาระเบีย<s n="vblex"/></l><r>Arab<s n="vblex"/></r></p></e>
-    <e><p><l>ตะวันออกกลาง<s n="vblex"/></l><r>Arab<s n="vblex"/></r></p></e>
-    <e><p><l>ทวีปแอฟริกา<s n="vblex"/></l><r>Arab<s n="vblex"/></r></p></e>
     <e><p><l>ภาษาอาหรับ<s n="vaux"/></l><r>Arabic<s n="vaux"/></r></p></e>
-    <e><p><l>ไกล่เกลี่ย<s n="n"/></l><r>arbitrate<s n="n"/></r></p></e>
-    <e><p><l>ทะเลาะ<s n="n"/></l><r>arbitrate<s n="n"/></r></p></e>
-    <e><p><l>ข้อเสนอ<s n="n"/></l><r>arbitrate<s n="n"/></r></p></e>
-    <e><p><l>ยอมรับ<s n="n"/></l><r>arbitrate<s n="n"/></r></p></e>
-    <e><p><l>ทางเดิน<s n="n"/></l><r>arcade<s n="n"/></r></p></e>
-    <e><p><l>เนื้อที่<s n="n"/></l><r>arcade<s n="n"/></r></p></e>
-    <e><p><l>หลังคา<s n="n"/></l><r>arcade<s n="n"/></r></p></e>
-    <e><p><l>คลุม<s n="n"/></l><r>arcade<s n="n"/></r></p></e>
-    <e><p><l>เรียงราย<s n="n"/></l><r>arcade<s n="n"/></r></p></e>
-    <e><p><l>ห้อง<s n="n"/></l><r>arcade<s n="n"/></r></p></e>
-    <e><p><l>หยอด<s n="n"/></l><r>arcade<s n="n"/></r></p></e>
-    <e><p><l>เหรียญ<s n="n"/></l><r>arcade<s n="n"/></r></p></e>
-    <e><p><l>เกม<s n="n"/></l><r>arcade<s n="n"/></r></p></e>
-    <e><p><l>ทางเดิน<s n="vblex"/></l><r>arcade<s n="vblex"/></r></p></e>
-    <e><p><l>เนื้อที่<s n="vblex"/></l><r>arcade<s n="vblex"/></r></p></e>
-    <e><p><l>หลังคา<s n="vblex"/></l><r>arcade<s n="vblex"/></r></p></e>
-    <e><p><l>คลุม<s n="vblex"/></l><r>arcade<s n="vblex"/></r></p></e>
-    <e><p><l>เรียงราย<s n="vblex"/></l><r>arcade<s n="vblex"/></r></p></e>
-    <e><p><l>ห้อง<s n="vblex"/></l><r>arcade<s n="vblex"/></r></p></e>
-    <e><p><l>หยอด<s n="vblex"/></l><r>arcade<s n="vblex"/></r></p></e>
-    <e><p><l>เหรียญ<s n="vblex"/></l><r>arcade<s n="vblex"/></r></p></e>
-    <e><p><l>เกม<s n="vblex"/></l><r>arcade<s n="vblex"/></r></p></e>
-    <e><p><l>โครงสร้าง<s n="n"/></l><r>arch<s n="n"/></r></p></e>
-    <e><p><l>โค้ง<s n="n"/></l><r>arch<s n="n"/></r></p></e>
-    <e><p><l>ค้ำยัน<s n="n"/></l><r>arch<s n="n"/></r></p></e>
-    <e><p><l>สะพาน<s n="n"/></l><r>arch<s n="n"/></r></p></e>
-    <e><p><l>หลังคา<s n="n"/></l><r>arch<s n="n"/></r></p></e>
-    <e><p><l>อุ้งเท้า<s n="n"/></l><r>arch<s n="n"/></r></p></e>
-    <e><p><l>โบราณคดี<s n="n"/></l><r>archeological<s n="n"/></r></p></e>
-    <e><p><l>โบราณคดี<s n="vblex"/></l><r>archeologist<s n="vblex"/></r></p></e>
+    <e><p><l>ไกล่เกลี่ย<s n="vblex"/></l><r>arbitrate<s n="vblex"/></r></p></e> <!-- ไกล่เกลี่ยการทะเลาะเบาะแว้งระหว่างสองคน หรือสองกลุ่มโดยการให้ข้อเสนอที่ทั้งสองฝ่ายยอมรับได้ -->
+    <e><p><l>อาเขต<s n="n"/></l><r>arcade<s n="n"/></r></p></e>
+    <e><p><l>โครงสร้างโค้งค้ำยัน<s n="n"/></l><r>arch<s n="n"/></r></p></e>
+    <e><p><l>อุ้งเท้าของคน<s n="n"/></l><r>arch<s n="n"/></r></p></e>
+    <e><p><l>เกี่ยวกับโบราณคดี<s n="n"/></l><r>archeological<s n="adj"/></r></p></e>
+    <e><p><l>นักโบราณคดี<s n="n"/></l><r>archeologist<s n="vblex"/></r></p></e>
     <e><p><l>โบราณคดี<s n="n"/></l><r>archeology<s n="n"/></r></p></e>
-    <e><p><l>อดีต<s n="n"/></l><r>archeology<s n="n"/></r></p></e>
-    <e><p><l>สันนิษฐาน<s n="n"/></l><r>archeology<s n="n"/></r></p></e>
-    <e><p><l>วัตถุ<s n="n"/></l><r>archeology<s n="n"/></r></p></e>
-    <e><p><l>สิ่งก่อสร้าง<s n="n"/></l><r>archeology<s n="n"/></r></p></e>
-    <e><p><l>ขุด<s n="n"/></l><r>archeology<s n="n"/></r></p></e>
-    <e><p><l>ค้นพบ<s n="n"/></l><r>archeology<s n="n"/></r></p></e>
-    <e><p><l>ธนู<s n="n"/></l><r>archer<s n="n"/></r></p></e>
-    <e><p><l>โบราณ<s n="n"/></l><r>archer<s n="n"/></r></p></e>
-    <e><p><l>ยิง<s n="n"/></l><r>archer<s n="n"/></r></p></e>
-    <e><p><l>ล่า<s n="n"/></l><r>archer<s n="n"/></r></p></e>
-    <e><p><l>กีฬา<s n="n"/></l><r>archer<s n="n"/></r></p></e>
-    <e><p><l>ธนู<s n="vblex"/></l><r>archer<s n="vblex"/></r></p></e>
-    <e><p><l>โบราณ<s n="vblex"/></l><r>archer<s n="vblex"/></r></p></e>
-    <e><p><l>ยิง<s n="vblex"/></l><r>archer<s n="vblex"/></r></p></e>
-    <e><p><l>ล่า<s n="vblex"/></l><r>archer<s n="vblex"/></r></p></e>
-    <e><p><l>กีฬา<s n="vblex"/></l><r>archer<s n="vblex"/></r></p></e>
-    <e><p><l>สถาปัตยกรรม<s n="n"/></l><r>architectural<s n="n"/></r></p></e>
-    <e><p><l>หอจดหมายเหตุ<s n="adj"/></l><r>archives<s n="adj"/></r></p></e>
-    <e><p><l>เอกสาร<s n="adj"/></l><r>archives<s n="adj"/></r></p></e>
-    <e><p><l>ประวัติศาสตร์<s n="adj"/></l><r>archives<s n="adj"/></r></p></e>
-    <e><p><l>ประวัติ<s n="adj"/></l><r>archives<s n="adj"/></r></p></e>
+    <e><p><l>นักยิงธนู<s n="n"/></l><r>archer<s n="n"/></r></p></e>
+    <e><p><l>เกี่ยวกับสถาปัตยกรรม<s n="adj"/></l><r>architectural<s n="adj"/></r></p></e>
     <e><p><l>หอจดหมายเหตุ<s n="n"/></l><r>archives<s n="n"/></r></p></e>
-    <e><p><l>เอกสาร<s n="n"/></l><r>archives<s n="n"/></r></p></e>
-    <e><p><l>ประวัติศาสตร์<s n="n"/></l><r>archives<s n="n"/></r></p></e>
-    <e><p><l>ประวัติ<s n="n"/></l><r>archives<s n="n"/></r></p></e>
-    <e><p><l>หอจดหมายเหตุ<s n="vblex"/></l><r>archives<s n="vblex"/></r></p></e>
-    <e><p><l>เอกสาร<s n="vblex"/></l><r>archives<s n="vblex"/></r></p></e>
-    <e><p><l>ประวัติศาสตร์<s n="vblex"/></l><r>archives<s n="vblex"/></r></p></e>
-    <e><p><l>ประวัติ<s n="vblex"/></l><r>archives<s n="vblex"/></r></p></e>
-    <e><p><l>ทางเดิน<s n="num"/></l><r>archway<s n="num"/></r></p></e>
-    <e><p><l>ทางเข้า<s n="num"/></l><r>archway<s n="num"/></r></p></e>
-    <e><p><l>ประตู<s n="num"/></l><r>archway<s n="num"/></r></p></e>
-    <e><p><l>ซุ้ม<s n="num"/></l><r>archway<s n="num"/></r></p></e>
-    <e><p><l>โค้ง<s n="num"/></l><r>archway<s n="num"/></r></p></e>
-    <e><p><l>ทางเดิน<s n="n"/></l><r>archway<s n="n"/></r></p></e>
-    <e><p><l>ทางเข้า<s n="n"/></l><r>archway<s n="n"/></r></p></e>
-    <e><p><l>ประตู<s n="n"/></l><r>archway<s n="n"/></r></p></e>
-    <e><p><l>ซุ้ม<s n="n"/></l><r>archway<s n="n"/></r></p></e>
-    <e><p><l>โค้ง<s n="n"/></l><r>archway<s n="n"/></r></p></e>
-    <e><p><l>เส้น<s n="n"/></l><r>Arctic Circle<s n="n"/></r></p></e>
-    <e><p><l>สมมุติ<s n="n"/></l><r>Arctic Circle<s n="n"/></r></p></e>
-    <e><p><l>หนาว<s n="n"/></l><r>Arctic Circle<s n="n"/></r></p></e>
-    <e><p><l>ขนาน<s n="n"/></l><r>Arctic Circle<s n="n"/></r></p></e>
-    <e><p><l>ละติจูด<s n="n"/></l><r>Arctic Circle<s n="n"/></r></p></e>
-    <e><p><l>จริง<s n="n"/></l><r>arguable<s n="n"/></r></p></e>
-    <e><p><l>เหตุผล<s n="n"/></l><r>arguable<s n="n"/></r></p></e>
-    <e><p><l>สนับสนุน<s n="n"/></l><r>arguable<s n="n"/></r></p></e>
-    <e><p><l>โต้แย้ง<s n="n"/></l><r>arguable<s n="n"/></r></p></e>
-    <e><p><l>จริง<s n="vblex"/></l><r>arguable<s n="vblex"/></r></p></e>
-    <e><p><l>เหตุผล<s n="vblex"/></l><r>arguable<s n="vblex"/></r></p></e>
-    <e><p><l>สนับสนุน<s n="vblex"/></l><r>arguable<s n="vblex"/></r></p></e>
-    <e><p><l>โต้แย้ง<s n="vblex"/></l><r>arguable<s n="vblex"/></r></p></e>
-    <e><p><l>เถียง<s n="n"/></l><r>argumentative<s n="n"/></r></p></e>
-    <e><p><l>โต้แย้ง<s n="n"/></l><r>argumentative<s n="n"/></r></p></e>
-    <e><p><l>จักรราศี<s n="adj"/></l><r>Aries<s n="adj"/></r></p></e>
-    <e><p><l>ราศีเมษ<s n="adj"/></l><r>Aries<s n="adj"/></r></p></e>
-    <e><p><l>สัญลักษณ์<s n="adj"/></l><r>Aries<s n="adj"/></r></p></e>
-    <e><p><l>แกะ<s n="adj"/></l><r>Aries<s n="adj"/></r></p></e>
-    <e><p><l>การปกครอง<s n="adj"/></l><r>aristocracy<s n="adj"/></r></p></e>
-    <e><p><l>ชนชั้นสูง<s n="adj"/></l><r>aristocracy<s n="adj"/></r></p></e>
-    <e><p><l>ขุนนาง<s n="adj"/></l><r>aristocracy<s n="adj"/></r></p></e>
-    <e><p><l>การปกครอง<s n="n"/></l><r>aristocracy<s n="n"/></r></p></e>
-    <e><p><l>ชนชั้นสูง<s n="n"/></l><r>aristocracy<s n="n"/></r></p></e>
-    <e><p><l>ขุนนาง<s n="n"/></l><r>aristocracy<s n="n"/></r></p></e>
+    <e><p><l>สถานที่เก็บเอกสารสำคัญ<s n="n"/></l><r>archives<s n="n"/></r></p></e>
+    <e><p><l>ซุ้มทางเข้า<s n="num"/></l><r>archway<s n="num"/></r></p></e>
+    <e><p><l>ที่ใช้เหตุผลโต้แย้งได้<s n="adj"/></l><r>arguable<s n="adj"/></r></p></e>
+    <e><p><l>ชอบโต้แย้ง<s n="adj"/></l><r>argumentative<s n="adj"/></r></p></e>
+    <e><p><l>ราศีเมษ<s n="n"/></l><r>Aries<s n="n"/></r></p></e>
+    <e><p><l>อภิชนาธิปไตย<s n="adj"/></l><r>aristocracy<s n="adj"/></r></p></e>
     <e><p><l>ปลอกแขน<s n="n"/></l><r>armband<s n="n"/></r></p></e>
-    <e><p><l>ห่วง<s n="n"/></l><r>armband<s n="n"/></r></p></e>
-    <e><p><l>พลาสติก<s n="n"/></l><r>armband<s n="n"/></r></p></e>
-    <e><p><l>หัด<s n="n"/></l><r>armband<s n="n"/></r></p></e>
-    <e><p><l>ว่ายน้ำ<s n="n"/></l><r>armband<s n="n"/></r></p></e>
-    <e><p><l>ปืน<s n="n"/></l><r>armed<s n="n"/></r></p></e>
-    <e><p><l>อาวุธ<s n="n"/></l><r>armed<s n="n"/></r></p></e>
+    <e><p><l>ติดอาวุธ<s n="adj"/></l><r>armed<s n="adj"/></r></p></e>
     <e><p><l>เสื้อ<s n="adv"/></l><r>armhole<s n="adv"/></r></p></e>
     <e><p><l>ช่อง<s n="adv"/></l><r>armhole<s n="adv"/></r></p></e>
     <e><p><l>แขน<s n="adv"/></l><r>armhole<s n="adv"/></r></p></e>
     <e><p><l>เสื้อ<s n="preadv"/></l><r>armhole<s n="preadv"/></r></p></e>
     <e><p><l>ช่อง<s n="preadv"/></l><r>armhole<s n="preadv"/></r></p></e>
     <e><p><l>แขน<s n="preadv"/></l><r>armhole<s n="preadv"/></r></p></e>
-    <e><p><l>เสื้อ<s n="det"/></l><r>armhole<s n="det"/></r></p></e>
-    <e><p><l>ช่อง<s n="det"/></l><r>armhole<s n="det"/></r></p></e>
-    <e><p><l>แขน<s n="det"/></l><r>armhole<s n="det"/></r></p></e>
-    <e><p><l>เสื้อเกราะ<s n="adj"/></l><r>armour<s n="adj"/></r></p></e>
-    <e><p><l>ทหาร<s n="adj"/></l><r>armour<s n="adj"/></r></p></e>
     <e><p><l>เสื้อเกราะ<s n="n"/></l><r>armour<s n="n"/></r></p></e>
-    <e><p><l>ทหาร<s n="n"/></l><r>armour<s n="n"/></r></p></e>
-    <e><p><l>ยานพาหนะ<s n="adv"/></l><r>armoured<s n="adv"/></r></p></e>
-    <e><p><l>หุ้มเกราะ<s n="adv"/></l><r>armoured<s n="adv"/></r></p></e>
-    <e><p><l>ยานพาหนะ<s n="preadv"/></l><r>armoured<s n="preadv"/></r></p></e>
-    <e><p><l>หุ้มเกราะ<s n="preadv"/></l><r>armoured<s n="preadv"/></r></p></e>
-    <e><p><l>ยานพาหนะ<s n="det"/></l><r>armoured<s n="det"/></r></p></e>
-    <e><p><l>หุ้มเกราะ<s n="det"/></l><r>armoured<s n="det"/></r></p></e>
-    <e><p><l>ยานพาหนะ<s n="prn"/></l><r>armoured<s n="prn"/></r></p></e>
-    <e><p><l>หุ้มเกราะ<s n="prn"/></l><r>armoured<s n="prn"/></r></p></e>
-    <e><p><l>รักแร้<s n="adv"/></l><r>armpit<s n="adv"/></r></p></e>
-    <e><p><l>รักแร้<s n="det"/></l><r>armpit<s n="det"/></r></p></e>
-    <e><p><l>รักแร้<s n="prn"/></l><r>armpit<s n="prn"/></r></p></e>
-    <e><p><l>ตามรอย<s n="vaux"/></l><r>trail<s n="vaux"/></r></p></e>
-    <e><p><l>เลื้อย<s n="vaux"/></l><r>trail<s n="vaux"/></r></p></e>
-    <e><p><l>รอยเท้า<s n="vaux"/></l><r>trail<s n="vaux"/></r></p></e>
-    <e><p><l>เค้าเดิม<s n="vaux"/></l><r>trail<s n="vaux"/></r></p></e>
-    <e><p><l>พัด<s n="det"/></l><r>blow down<s n="det"/></r></p></e>
-    <e><p><l>ล้ม<s n="det"/></l><r>blow down<s n="det"/></r></p></e>
-    <e><p><l>พัง<s n="det"/></l><r>blow down<s n="det"/></r></p></e>
-    <e><p><l>ลม<s n="det"/></l><r>blow down<s n="det"/></r></p></e>
-    <e><p><l>ปรึกษา<s n="n"/></l><r>talk over<s n="n"/></r></p></e>
-    <e><p><l>เซลล์<s n="n"/></l><r>cytoarchitecture<s n="n"/></r></p></e>
-    <e><p><l>สิ่งมีชีวิต<s n="n"/></l><r>cytoarchitecture<s n="n"/></r></p></e>
-    <e><p><l>อวัยวะ<s n="n"/></l><r>cytoarchitecture<s n="n"/></r></p></e>
-    <e><p><l>เซลล์<s n="vblex"/></l><r>cytoarchitecture<s n="vblex"/></r></p></e>
-    <e><p><l>สิ่งมีชีวิต<s n="vblex"/></l><r>cytoarchitecture<s n="vblex"/></r></p></e>
-    <e><p><l>อวัยวะ<s n="vblex"/></l><r>cytoarchitecture<s n="vblex"/></r></p></e>
-    <e><p><l>ปีแสง<s n="n"/></l><r>light year<s n="n"/></r></p></e>
-    <e><p><l>เอาใจใส่<s n="n"/></l><r>neglect<s n="n"/></r></p></e>
-    <e><p><l>ทอดทิ้ง<s n="n"/></l><r>neglect<s n="n"/></r></p></e>
-    <e><p><l>กรมทหาร<s n="adv"/></l><r>regiment<s n="adv"/></r></p></e>
-    <e><p><l>กรมกอง<s n="adv"/></l><r>regiment<s n="adv"/></r></p></e>
-    <e><p><l>กรมทหาร<s n="pr"/></l><r>regiment<s n="pr"/></r></p></e>
-    <e><p><l>กรมกอง<s n="pr"/></l><r>regiment<s n="pr"/></r></p></e>
-    <e><p><l>กรมทหาร<s n="adj"/></l><r>regiment<s n="adj"/></r></p></e>
-    <e><p><l>กรมกอง<s n="adj"/></l><r>regiment<s n="adj"/></r></p></e>
-    <e><p><l>ยั่วเย้า<s n="adv"/></l><r>tease<s n="adv"/></r></p></e>
-    <e><p><l>เย้าแหย่<s n="adv"/></l><r>tease<s n="adv"/></r></p></e>
-    <e><p><l>ความสามารถ<s n="n"/></l><r>versatility<s n="n"/></r></p></e>
-    <e><p><l>รอบตัว<s n="n"/></l><r>versatility<s n="n"/></r></p></e>
+    <e><p><l>หุ้มเกราะ<s n="adj"/></l><r>armoured<s n="adj"/></r></p></e>
+    <e><p><l>รักแร้<s n="n"/></l><r>armpit<s n="adv"/></r></p></e>
+    <e><p><l>ตามรอย<s n="vblex"/></l><r>trail<s n="vblex"/></r></p></e>
+    <e><p><l>ลาก<s n="vblex"/></l><r>trail<s n="vblex"/></r></p></e>
+    <e><p><l>เลื้อย<s n="vblex"/></l><r>trail<s n="vblex"/></r></p></e>
+    <e><p><l>ปรึกษา<s n="vblex"/></l><r>talk<b/>over<s n="n"/></r></p></e>
+    <e><p><l>ปีแสง<s n="n"/></l><r>light<b/>year<s n="n"/></r></p></e>
+    <e><p><l>เอาใจใส่<s n="vblex"/></l><r>neglect<s n="vblex"/></r></p></e>
+    <e><p><l>ทอดทิ้ง<s n="vblex"/></l><r>neglect<s n="vblex"/></r></p></e>
+    <e><p><l>กรมทหาร<s n="n"/></l><r>regiment<s n="n"/></r></p></e>
+    <e><p><l>ยั่วเย้า<s n="vblex"/></l><r>tease<s n="vblex"/></r></p></e>
+    <e><p><l>เย้าแหย่<s n="vblex"/></l><r>tease<s n="vblex"/></r></p></e>
     <e><p><l>น้ำส้มสายชู<s n="n"/></l><r>vinegar<s n="n"/></r></p></e>
-    <e><p><l>ละเว้น<s n="adj"/></l><r>waives<s n="adj"/></r></p></e>
-    <e><p><l>สละสิทธิ์<s n="adj"/></l><r>waives<s n="adj"/></r></p></e>
-    <e><p><l>ละเว้น<s n="n"/></l><r>waives<s n="n"/></r></p></e>
-    <e><p><l>สละสิทธิ์<s n="n"/></l><r>waives<s n="n"/></r></p></e>
-    <e><p><l>ละเว้น<s n="adv"/></l><r>waiving<s n="adv"/></r></p></e>
-    <e><p><l>สละสิทธิ์<s n="adv"/></l><r>waiving<s n="adv"/></r></p></e>
-    <e><p><l>ละเว้น<s n="cnjcoo"/></l><r>waiving<s n="cnjcoo"/></r></p></e>
-    <e><p><l>สละสิทธิ์<s n="cnjcoo"/></l><r>waiving<s n="cnjcoo"/></r></p></e>
-    <e><p><l>โทรทัศน์วงจรปิด<s n="adj"/></l><r>CCTV<s n="adj"/></r></p></e>
-    <e><p><l>ประเทศจีน<s n="adj"/></l><r>CCTV<s n="adj"/></r></p></e>
-    <e><p><l>โทรทัศน์วงจรปิด<s n="adv"/></l><r>CCTV<s n="adv"/></r></p></e>
-    <e><p><l>ประเทศจีน<s n="adv"/></l><r>CCTV<s n="adv"/></r></p></e>
-    <e><p><l>โทรทัศน์วงจรปิด<s n="n"/></l><r>CCTV<s n="n"/></r></p></e>
-    <e><p><l>ประเทศจีน<s n="n"/></l><r>CCTV<s n="n"/></r></p></e>
-    <e><p><l>น้ำส้มสายชู<s n="adv"/></l><r>vinegary<s n="adv"/></r></p></e>
-    <e><p><l>รสชาติ<s n="adv"/></l><r>vinegary<s n="adv"/></r></p></e>
-    <e><p><l>เปรี้ยว<s n="adv"/></l><r>vinegary<s n="adv"/></r></p></e>
-    <e><p><l>กลิ่น<s n="adv"/></l><r>vinegary<s n="adv"/></r></p></e>
-    <e><p><l>กะหรี่ปั๊บ<s n="n"/></l><r>curry puff<s n="n"/></r></p></e>
-    <e><p><l>เหลน<s n="adj"/></l><r>great-grandchild<s n="adj"/></r></p></e>
-    <e><p><l>ลูก<s n="adj"/></l><r>great-grandchild<s n="adj"/></r></p></e>
-    <e><p><l>หลาน<s n="adj"/></l><r>great-grandchild<s n="adj"/></r></p></e>
-    <e><p><l>เหลน<s n="adv"/></l><r>great-grandchild<s n="adv"/></r></p></e>
-    <e><p><l>ลูก<s n="adv"/></l><r>great-grandchild<s n="adv"/></r></p></e>
-    <e><p><l>หลาน<s n="adv"/></l><r>great-grandchild<s n="adv"/></r></p></e>
-    <e><p><l>กะหล่ำ<s n="num"/></l><r>cauliflower<s n="num"/></r></p></e>
-    <e><p><l>กะหล่ำดอก<s n="num"/></l><r>cauliflower<s n="num"/></r></p></e>
-    <e><p><l>กระโปรง<s n="adj"/></l><r>gonna<s n="adj"/></r></p></e>
-    <e><p><l>ฆ่า<s n="n"/></l><r>immolation<s n="n"/></r></p></e>
-    <e><p><l>สังเวย<s n="n"/></l><r>immolation<s n="n"/></r></p></e>
-    <e><p><l>บูชายัญ<s n="n"/></l><r>immolation<s n="n"/></r></p></e>
-    <e><p><l>ทำลาย<s n="n"/></l><r>immolation<s n="n"/></r></p></e>
-    <e><p><l>ไฟ<s n="n"/></l><r>immolation<s n="n"/></r></p></e>
-    <e><p><l>เผา<s n="prn"/></l><r>self-immolate<s n="prn"/></r></p></e>
-    <e><p><l>ตัวเอง<s n="prn"/></l><r>self-immolate<s n="prn"/></r></p></e>
-    <e><p><l>การประท้วง<s n="prn"/></l><r>self-immolate<s n="prn"/></r></p></e>
-    <e><p><l>ฆ่าเพื่อสังเวย<s n="cnjcoo"/></l><r>immolates<s n="cnjcoo"/></r></p></e>
-    <e><p><l>ทำลาย<s n="cnjcoo"/></l><r>immolates<s n="cnjcoo"/></r></p></e>
-    <e><p><l>ฆ่าเพื่อสังเวย<s n="adj"/></l><r>immolating<s n="adj"/></r></p></e>
-    <e><p><l>ทำลาย<s n="adj"/></l><r>immolating<s n="adj"/></r></p></e>
-    <e><p><l>ฆ่าเพื่อสังเวย<s n="adv"/></l><r>immolating<s n="adv"/></r></p></e>
-    <e><p><l>ทำลาย<s n="adv"/></l><r>immolating<s n="adv"/></r></p></e>
-    <e><p><l>ฆ่าเพื่อสังเวย<s n="n"/></l><r>immolating<s n="n"/></r></p></e>
-    <e><p><l>ทำลาย<s n="n"/></l><r>immolating<s n="n"/></r></p></e>
-    <e><p><l>นักแสดงหญิง<s n="adv"/></l><r>actress<s n="adv"/></r></p></e>
-    <e><p><l>เขา<s n="n"/></l><r>lei<s n="n"/></r></p></e>
-    <e><p><l>หล่อน<s n="n"/></l><r>lei<s n="n"/></r></p></e>
-    <e><p><l>เขา<s n="prn"/></l><r>lei<s n="prn"/></r></p></e>
-    <e><p><l>หล่อน<s n="prn"/></l><r>lei<s n="prn"/></r></p></e>
-    <e><p><l>เชิญ<s n="adv"/></l><r>ask out<s n="adv"/></r></p></e>
-    <e><p><l>ออกเดต<s n="adv"/></l><r>ask out<s n="adv"/></r></p></e>
-    <e><p><l>นัด<s n="adv"/></l><r>ask out<s n="adv"/></r></p></e>
-    <e><p><l>เดต<s n="adv"/></l><r>ask out<s n="adv"/></r></p></e>
-    <e><p><l>อสังหาริมทรัพย์<s n="n"/></l><r>real estate<s n="n"/></r></p></e>
-    <e><p><l>ทรัพย์สิน<s n="n"/></l><r>real estate<s n="n"/></r></p></e>
-    <e><p><l>สิ่งปลูกสร้าง<s n="n"/></l><r>real estate<s n="n"/></r></p></e>
-    <e><p><l>ที่ดิน<s n="n"/></l><r>real estate<s n="n"/></r></p></e>
-    <e><p><l>แหล่งกัมมันต์<s n="n"/></l><r>active site<s n="n"/></r></p></e>
-    <e><p><l>บริเวณเร่ง<s n="n"/></l><r>active site<s n="n"/></r></p></e>
-    <e><p><l>กรดอะมิโน<s n="n"/></l><r>active site<s n="n"/></r></p></e>
-    <e><p><l>โมเลกุล<s n="n"/></l><r>active site<s n="n"/></r></p></e>
-    <e><p><l>เอนไซม์<s n="n"/></l><r>active site<s n="n"/></r></p></e>
-    <e><p><l>สารตั้งต้น<s n="n"/></l><r>active site<s n="n"/></r></p></e>
-    <e><p><l>ปฏิกิริยา<s n="n"/></l><r>active site<s n="n"/></r></p></e>
-    <e><p><l>ผลผลิต<s n="n"/></l><r>active site<s n="n"/></r></p></e>
-    <e><p><l>อ่าว<s n="adj"/></l><r>bay<s n="adj"/></r></p></e>
-    <e><p><l>อาคาร<s n="adj"/></l><r>bay<s n="adj"/></r></p></e>
-    <e><p><l>เครื่องบิน<s n="adj"/></l><r>bay<s n="adj"/></r></p></e>
-    <e><p><l>กั้น<s n="adj"/></l><r>bay<s n="adj"/></r></p></e>
+    <e><p><l>เหลน<s n="n"/></l><r>great-grandchild<s n="n"/></r></p></e>
+    <e><p><l>กะหล่ำ<s n="n"/></l><r>cauliflower<s n="n"/></r></p></e>
+    <e><p><l>กะหล่ำดอก<s n="n"/></l><r>cauliflower<s n="n"/></r></p></e>
+    <e><p><l>นัดเดต<s n="vblex"/></l><r>ask<b/>out<s n="vblex"/></r></p></e>
+    <e><p><l>อสังหาริมทรัพย์<s n="n"/></l><r>real<b/>estate<s n="n"/></r></p></e>
+    <e><p><l>อ่าว<s n="n"/></l><r>bay<s n="n"/></r></p></e>
+    <e><p><l>พื้นที่เฉพาะ<s n="n"/></l><r>bay<s n="n"/></r></p></e>
     <e><p><l>แก้ม<s n="n"/></l><r>cheek<s n="n"/></r></p></e>
-    <e><p><l>หน้าด้าน<s n="n"/></l><r>cheek<s n="n"/></r></p></e>
-    <e><p><l>หน้าไม่อาย<s n="n"/></l><r>cheek<s n="n"/></r></p></e>
-    <e><p><l>คาดเดา<s n="n"/></l><r>estimate<s n="n"/></r></p></e>
-    <e><p><l>ความเห็น<s n="n"/></l><r>estimate<s n="n"/></r></p></e>
-    <e><p><l>ข้อมูล<s n="n"/></l><r>estimate<s n="n"/></r></p></e>
-    <e><p><l>ช่างก่อสร้าง<s n="n"/></l><r>estimate<s n="n"/></r></p></e>
-    <e><p><l>ช่างทาสี<s n="n"/></l><r>estimate<s n="n"/></r></p></e>
-    <e><p><l>ประมาณ<s n="n"/></l><r>estimate<s n="n"/></r></p></e>
-    <e><p><l>ขนาด<s n="n"/></l><r>estimate<s n="n"/></r></p></e>
-    <e><p><l>ราคา<s n="n"/></l><r>estimate<s n="n"/></r></p></e>
+    <e><p><l>คาดการราคา<s n="vblex"/></l><r>estimate<s n="vblex"/></r></p></e>
+    <e><p><l>ราคาคาดการ<s n="n"/></l><r>estimate<s n="n"/></r></p></e>
     <e><p><l>ยักษ์<s n="n"/></l><r>giant<s n="n"/></r></p></e>
-    <e><p><l>ใหญ่<s n="n"/></l><r>giant<s n="n"/></r></p></e>
-    <e><p><l>แข็งแรง<s n="n"/></l><r>giant<s n="n"/></r></p></e>
-    <e><p><l>โต<s n="n"/></l><r>giant<s n="n"/></r></p></e>
+    <e><p><l>ยักษ์<s n="adj"/></l><r>giant<s n="adj"/></r></p></e>
     <e><p><l>นักประวัติศาสตร์<s n="n"/></l><r>historian<s n="n"/></r></p></e>
-    <e><p><l>หัน<s n="n"/></l><r>back to back<s n="n"/></r></p></e>
-    <e><p><l>หลัง<s n="n"/></l><r>back to back<s n="n"/></r></p></e>
-    <e><p><l>หลบหนี<s n="n"/></l><r>flee<s n="n"/></r></p></e>
-    <e><p><l>ซื่อสัตย์<s n="n"/></l><r>loyal<s n="n"/></r></p></e>
-    <e><p><l>จงรักภักดี<s n="n"/></l><r>loyal<s n="n"/></r></p></e>
+    <e><p><l>หลบหนี<s n="vblex"/></l><r>flee<s n="vblex"/></r></p></e>
+    <e><p><l>ซื่อสัตย์<s n="adj"/></l><r>loyal<s n="adj"/></r></p></e>
+    <e><p><l>จงรักภักดี<s n="adj"/></l><r>loyal<s n="adj"/></r></p></e>
     <e><p><l>ความสัมพันธ์<s n="n"/></l><r>relation<s n="n"/></r></p></e>
     <e><p><l>ญาติ<s n="n"/></l><r>relation<s n="n"/></r></p></e>
-    <e><p><l>ญาติ<s n="n"/></l><r>relative<s n="n"/></r></p></e>
-    <e><p><l>ญาติ<s n="vblex"/></l><r>relative<s n="vblex"/></r></p></e>
     <e><p><l>เหตุผล<s n="vblex"/></l><r>logic<s n="vblex"/></r></p></e>
     <e><p><l>คิด<s n="vblex"/></l><r>logic<s n="vblex"/></r></p></e>
     <e><p><l>ตรรกวิทยา<s n="vblex"/></l><r>logic<s n="vblex"/></r></p></e>
