@@ -3270,369 +3270,128 @@
     <e><p><l>นักพนัน<s n="n"/></l><r>gambler<s n="n"/></r></p></e>
     <e><p><l>สถานการณ์<s n="n"/></l><r>situation<s n="n"/></r></p></e>
     <e><p><l>ตะขอ<s n="n"/></l><r>hook<s n="n"/></r></p></e>
-    <e><p><l>เบ็ดตกปลา<s n="adj"/></l><r>hook<s n="adj"/></r></p></e>
-    <e><p><l>การใช้หมัดระยะประชิด<s n="adj"/></l><r>hook<s n="adj"/></r></p></e>
-    <e><p><l>แขวน<s n="adj"/></l><r>hook<s n="adj"/></r></p></e>
-    <e><p><l>คล้อง<s n="adj"/></l><r>hook<s n="adj"/></r></p></e>
-    <e><p><l>หรือเกี่ยว<s n="adj"/></l><r>hook<s n="adj"/></r></p></e>
-    <e><p><l>การออกเสียงภาษาไทย<s n="det"/></l><r>seek<s n="det"/></r></p></e>
-    <e><p><l>ซีค<s n="det"/></l><r>seek<s n="det"/></r></p></e>
+    <e><p><l>เบ็ดตกปลา<s n="n"/></l><r>hook<s n="n"/></r></p></e>
+    <e><p><l>หมัดฮุก<s n="n"/></l><r>hook<s n="n"/></r></p></e>
+    <e><p><l>แขวน<s n="vblex"/></l><r>hook<s n="vblex"/></r></p></e>
+    <e><p><l>คล้อง<s n="vblex"/></l><r>hook<s n="vblex"/></r></p></e>
+    <e><p><l>หรือเกี่ยว<s n="vblex"/></l><r>hook<s n="vblex"/></r></p></e>
     <e><p><l>แสวงหา<s n="det"/></l><r>seek<s n="det"/></r></p></e>
-    <e><p><l>ภาษาไทย<s n="adj"/></l><r>remedy<s n="adj"/></r></p></e>
-    <e><p><l>มี<s n="adj"/></l><r>remedy<s n="adj"/></r></p></e>
-    <e><p><l>ดี<s n="adj"/></l><r>remedy<s n="adj"/></r></p></e>
-    <e><p><l>การแก้ไข<s n="adj"/></l><r>remedy<s n="adj"/></r></p></e>
-    <e><p><l>ยาบรรเทาอาการเจ็บปวด<s n="adj"/></l><r>remedy<s n="adj"/></r></p></e>
-    <e><p><l>แก้ไข<s n="adj"/></l><r>remedy<s n="adj"/></r></p></e>
-    <e><p><l>เยียวยา<s n="adj"/></l><r>remedy<s n="adj"/></r></p></e>
-    <e><p><l>ภาษาไทย<s n="adv"/></l><r>remedy<s n="adv"/></r></p></e>
-    <e><p><l>มี<s n="adv"/></l><r>remedy<s n="adv"/></r></p></e>
-    <e><p><l>ดี<s n="adv"/></l><r>remedy<s n="adv"/></r></p></e>
-    <e><p><l>การแก้ไข<s n="adv"/></l><r>remedy<s n="adv"/></r></p></e>
-    <e><p><l>ยาบรรเทาอาการเจ็บปวด<s n="adv"/></l><r>remedy<s n="adv"/></r></p></e>
-    <e><p><l>แก้ไข<s n="adv"/></l><r>remedy<s n="adv"/></r></p></e>
-    <e><p><l>เยียวยา<s n="adv"/></l><r>remedy<s n="adv"/></r></p></e>
-    <e><p><l>ขี้แตก<s n="n"/></l><r>soil oneself<s n="n"/></r></p></e>
-    <e><p><l>ทารก<s n="adj"/></l><r>fetus<s n="adj"/></r></p></e>
-    <e><p><l>ครรภ์<s n="adj"/></l><r>fetus<s n="adj"/></r></p></e>
-    <e><p><l>ตัวอ่อน<s n="adj"/></l><r>fetus<s n="adj"/></r></p></e>
+    <e><p><l>ยาบรรเทาอาการเจ็บปวด<s n="n"/></l><r>remedy<s n="n"/></r></p></e>
+    <e><p><l>การแก้ไข<s n="n"/></l><r>remedy<s n="n"/></r></p></e>
+    <e><p><l>เยียวยา<s n="vblex"/></l><r>remedy<s n="vblex"/></r></p></e>
+    <e><p><l>ขี้แตก<s n="vblex"/></l><r>soil<b/>oneself<s n="vblex"/></r></p></e>
     <e><p><l>ทารก<s n="n"/></l><r>fetus<s n="n"/></r></p></e>
-    <e><p><l>ครรภ์<s n="n"/></l><r>fetus<s n="n"/></r></p></e>
-    <e><p><l>ตัวอ่อน<s n="n"/></l><r>fetus<s n="n"/></r></p></e>
-    <e><p><l>ภาษาไทย<s n="n"/></l><r>Thai language<s n="n"/></r></p></e>
-    <e><p><l>แหลมอินโดจีน<s n="n"/></l><r>Indochina<s n="n"/></r></p></e>
-    <e><p><l>แหลมอินโดจีน<s n="vblex"/></l><r>Indochina<s n="vblex"/></r></p></e>
-    <e><p><l>ทะเลอันดามัน<s n="adv"/></l><r>Andaman Sea<s n="adv"/></r></p></e>
-    <e><p><l>ทะเลอันดามัน<s n="adj"/></l><r>Andaman Sea<s n="adj"/></r></p></e>
-    <e><p><l>แม่น้ำโขง<s n="n"/></l><r>Mekong<s n="n"/></r></p></e>
-    <e><p><l>แม่น้ำโขง<s n="vblex"/></l><r>Mekong<s n="vblex"/></r></p></e>
-    <e><p><l>แม่น้ำเจ้าพระยา<s n="n"/></l><r>Chao Phraya<s n="n"/></r></p></e>
-    <e><p><l>แม่น้ำเจ้าพระยา<s n="vblex"/></l><r>Chao Phraya<s n="vblex"/></r></p></e>
-    <e><p><l>เงินบาท<s n="n"/></l><r>Thai baht<s n="n"/></r></p></e>
-    <e><p><l>สงครามเย็น<s n="n"/></l><r>Cold War<s n="n"/></r></p></e>
-    <e><p><l>สงครามเย็น<s n="vblex"/></l><r>Cold War<s n="vblex"/></r></p></e>
-    <e><p><l>ประเทศคิวบา<s n="n"/></l><r>Cuba<s n="n"/></r></p></e>
-    <e><p><l>ประเทศคิวบา<s n="vblex"/></l><r>Cuba<s n="vblex"/></r></p></e>
-    <e><p><l>อาณาจักรหลวงพระบาง<s n="vblex"/></l><r>Kingdom of Luang Phrabang<s n="vblex"/></r></p></e>
-    <e><p><l>ชาวม้ง<s n="n"/></l><r>Hmong people<s n="n"/></r></p></e>
-    <e><p><l>อาณาจักรเวียงจันทน์<s n="n"/></l><r>Kingdom of Vientiane<s n="n"/></r></p></e>
-    <e><p><l>อาณาจักรเวียงจันทน์<s n="vblex"/></l><r>Kingdom of Vientiane<s n="vblex"/></r></p></e>
-    <e><p><l>สายการบินลาว<s n="adj"/></l><r>Lao Airlines<s n="adj"/></r></p></e>
-    <e><p><l>สายการบินลาว<s n="n"/></l><r>Lao Airlines<s n="n"/></r></p></e>
-    <e><p><l>ทุ่งไหหิน<s n="n"/></l><r>Plain of Jars<s n="n"/></r></p></e>
-    <e><p><l>ทุ่งไหหิน<s n="vblex"/></l><r>Plain of Jars<s n="vblex"/></r></p></e>
-    <e><p><l>แม่น้ำโขง<s n="n"/></l><r>Mekong River<s n="n"/></r></p></e>
-    <e><p><l>แม่น้ำโขง<s n="vblex"/></l><r>Mekong River<s n="vblex"/></r></p></e>
+    <e><p><l>ตัวอ่อนในครรภ์<s n="n"/></l><r>fetus<s n="n"/></r></p></e>
+    <e><p><l>ทารกในครรภ์<s n="n"/></l><r>fetus<s n="n"/></r></p></e>
+    <e><p><l>แหลมอินโดจีน<s n="np"/></l><r>Indochina<s n="np"/></r></p></e>
+    <e><p><l>ทะเลอันดามัน<s n="np"/></l><r>Andaman<b/>Sea<s n="np"/></r></p></e>
+    <e><p><l>แม่น้ำโขง<s n="np"/></l><r>Mekong<s n="np"/></r></p></e>
+    <e><p><l>แม่น้ำเจ้าพระยา<s n="np"/></l><r>Chao<b/>Phraya<s n="np"/></r></p></e>
+    <e><p><l>เงินบาท<s n="np"/></l><r>Thai<b/>baht<s n="np"/></r></p></e>
+    <e><p><l>สงครามเย็น<s n="np"/></l><r>Cold<b/>War<s n="np"/></r></p></e>
+    <e><p><l>ประเทศคิวบา<s n="np"/></l><r>Cuba<s n="np"/></r></p></e>
+    <e><p><l>อาณาจักรหลวงพระบาง<s n="np"/></l><r>Kingdom<b/>of<b/>Luang<b/>Phrabang<s n="np"/></r></p></e>
+    <e><p><l>ชาวม้ง<s n="np"/></l><r>Hmong<b/>people<s n="np"/></r></p></e>
+    <e><p><l>อาณาจักรเวียงจันทน์<s n="np"/></l><r>Kingdom<b/>of<b/>Vientiane<s n="np"/></r></p></e>
+    <e><p><l>สายการบินลาว<s n="np"/></l><r>Lao<b/>Airlines<s n="n"/></r></p></e>
+    <e><p><l>ทุ่งไหหิน<s n="np"/></l><r>Plain<b/>of<b/>Jars<s n="n"/></r></p></e>
+    <e><p><l>แม่น้ำโขง<s n="n"/></l><r>Mekong<b/>River<s n="n"/></r></p></e>
     <e><p><l>ความเผ็ด<s n="n"/></l><r>spiciness<s n="n"/></r></p></e>
-    <e><p><l>อาหารมาเลเซีย<s n="n"/></l><r>Malaysian cuisine<s n="n"/></r></p></e>
-    <e><p><l>อาหารมาเลเซีย<s n="vblex"/></l><r>Malaysian cuisine<s n="vblex"/></r></p></e>
-    <e><p><l>อาหารลาว<s n="vblex"/></l><r>Lao cuisine<s n="vblex"/></r></p></e>
-    <e><p><l>อาหารญี่ปุ่น<s n="n"/></l><r>Japanese cuisine<s n="n"/></r></p></e>
-    <e><p><l>อาหารฝรั่งเศส<s n="n"/></l><r>French cuisine<s n="n"/></r></p></e>
-    <e><p><l>อาหารฝรั่งเศส<s n="vblex"/></l><r>French cuisine<s n="vblex"/></r></p></e>
-    <e><p><l>ลอนดอน<s n="adv"/></l><r>London<s n="adv"/></r></p></e>
-    <e><p><l>ลอนดอน<s n="adj"/></l><r>London<s n="adj"/></r></p></e>
-    <e><p><l>ภาษาแต้จิ๋ว<s n="n"/></l><r>Teochew dialect<s n="n"/></r></p></e>
-    <e><p><l>การผัด<s n="n"/></l><r>stir frying<s n="n"/></r></p></e>
-    <e><p><l>ชาวไทย<s n="n"/></l><r>Thai Chinese<s n="n"/></r></p></e>
-    <e><p><l>ชาวไทย<s n="vblex"/></l><r>Thai Chinese<s n="vblex"/></r></p></e>
+    <e><p><l>ลอนดอน<s n="np"/></l><r>London<s n="np"/></r></p></e>
+    <e><p><l>ภาษาแต้จิ๋ว<s n="n"/></l><r>Teochew<b/>dialect<s n="n"/></r></p></e>
+    <e><p><l>การผัด<s n="n"/></l><r>stir<b/>frying<s n="n"/></r></p></e>
     <e><p><l>ตะไคร้<s n="n"/></l><r>lemongrass<s n="n"/></r></p></e>
     <e><p><l>ตะไคร้<s n="vblex"/></l><r>lemongrass<s n="vblex"/></r></p></e>
     <e><p><l>ถั่วลิสง<s n="n"/></l><r>peanut<s n="n"/></r></p></e>
-    <e><p><l>อีสาน<s n="adj"/></l><r>Isan<s n="adj"/></r></p></e>
+    <e><p><l>อีสาน<s n="n"/></l><r>Isan<s n="n"/></r></p></e>
     <e><p><l>กบ<s n="n"/></l><r>frog<s n="n"/></r></p></e>
     <e><p><l>กบ<s n="vblex"/></l><r>frog<s n="vblex"/></r></p></e>
     <e><p><l>รัฐ<s n="n"/></l><r>state<s n="n"/></r></p></e>
     <e><p><l>สภาพ<s n="n"/></l><r>state<s n="n"/></r></p></e>
     <e><p><l>หน้าอก<s n="n"/></l><r>breast<s n="n"/></r></p></e>
     <e><p><l>เทอม<s n="adv"/></l><r>term<s n="adv"/></r></p></e>
-    <e><p><l>การสมรส<s n="adv"/></l><r>marriage<s n="adv"/></r></p></e>
     <e><p><l>การสมรส<s n="n"/></l><r>marriage<s n="n"/></r></p></e>
-    <e><p><l>การสมรส<s n="adj"/></l><r>marriage<s n="adj"/></r></p></e>
-    <e><p><l>กองทัพ<s n="adj"/></l><r>troop<s n="adj"/></r></p></e>
     <e><p><l>กองทัพ<s n="n"/></l><r>troop<s n="n"/></r></p></e>
-    <e><p><l>กองทัพ<s n="vblex"/></l><r>troop<s n="vblex"/></r></p></e>
     <e><p><l>จุด<s n="n"/></l><r>spot<s n="n"/></r></p></e>
     <e><p><l>บันได<s n="n"/></l><r>stairs<s n="n"/></r></p></e>
-    <e><p><l>บันได<s n="vblex"/></l><r>stairs<s n="vblex"/></r></p></e>
     <e><p><l>ทนายความ<s n="n"/></l><r>lawyer<s n="n"/></r></p></e>
-    <e><p><l>ทนายความ<s n="vblex"/></l><r>lawyer<s n="vblex"/></r></p></e>
-    <e><p><l>สถานที่<s n="adv"/></l><r>location<s n="adv"/></r></p></e>
-    <e><p><l>ตำแหน่ง<s n="adv"/></l><r>location<s n="adv"/></r></p></e>
     <e><p><l>สถานที่<s n="n"/></l><r>location<s n="n"/></r></p></e>
     <e><p><l>ตำแหน่ง<s n="n"/></l><r>location<s n="n"/></r></p></e>
-    <e><p><l>สถานที่<s n="vblex"/></l><r>location<s n="vblex"/></r></p></e>
-    <e><p><l>ตำแหน่ง<s n="vblex"/></l><r>location<s n="vblex"/></r></p></e>
+    <e><p><l>สถานที่<s n="n"/></l><r>location<s n="n"/></r></p></e>
+    <e><p><l>ตำแหน่ง<s n="n"/></l><r>location<s n="n"/></r></p></e>
     <e><p><l>แบบ<s n="n"/></l><r>mode<s n="n"/></r></p></e>
     <e><p><l>แบบนิยม<s n="n"/></l><r>mode<s n="n"/></r></p></e>
     <e><p><l>ขั้น<s n="n"/></l><r>stair<s n="n"/></r></p></e>
-    <e><p><l>การบริจาค<s n="adj"/></l><r>donation<s n="adj"/></r></p></e>
     <e><p><l>การบริจาค<s n="n"/></l><r>donation<s n="n"/></r></p></e>
     <e><p><l>กรณี<s n="n"/></l><r>circumstance<s n="n"/></r></p></e>
-    <e><p><l>กรณี<s n="vblex"/></l><r>circumstance<s n="vblex"/></r></p></e>
-    <e><p><l>เงินดอลลาร์<s n="n"/></l><r>dollar<s n="n"/></r></p></e>
+     <e><p><l>เงินดอลลาร์<s n="n"/></l><r>dollar<s n="n"/></r></p></e>
     <e><p><l>ปัญญา<s n="n"/></l><r>wits<s n="n"/></r></p></e>
-    <e><p><l>พวกเรา<s n="n"/></l><r>us<s n="n"/></r></p></e>
+    <e><p><l>พวกเรา<s n="prn"/></l><r>us<s n="prn"/></r></p></e>
     <e><p><l>การทดลอง<s n="n"/></l><r>experiment<s n="n"/></r></p></e>
-    <e><p><l>การทดลอง<s n="vblex"/></l><r>experiment<s n="vblex"/></r></p></e>
     <e><p><l>ลัทธิ<s n="n"/></l><r>doctrine<s n="n"/></r></p></e>
     <e><p><l>กล้ามเนื้อ<s n="n"/></l><r>muscle<s n="n"/></r></p></e>
-    <e><p><l>กล้ามเนื้อ<s n="vblex"/></l><r>muscle<s n="vblex"/></r></p></e>
-    <e><p><l>ปัญญา<s n="adj"/></l><r>wit<s n="adj"/></r></p></e>
-    <e><p><l>ปัญญา<s n="n"/></l><r>wit<s n="n"/></r></p></e>
-    <e><p><l>มีด<s n="adv"/></l><r>Messer<s n="adv"/></r></p></e>
-    <e><p><l>มาตรวัด<s n="adv"/></l><r>Messer<s n="adv"/></r></p></e>
-    <e><p><l>วัด<s n="adv"/></l><r>Messer<s n="adv"/></r></p></e>
-    <e><p><l>สำรวจ<s n="adv"/></l><r>Messer<s n="adv"/></r></p></e>
-    <e><p><l>รังวัด<s n="adv"/></l><r>Messer<s n="adv"/></r></p></e>
-    <e><p><l>มีด<s n="vblex"/></l><r>Messer<s n="vblex"/></r></p></e>
-    <e><p><l>มาตรวัด<s n="vblex"/></l><r>Messer<s n="vblex"/></r></p></e>
-    <e><p><l>วัด<s n="vblex"/></l><r>Messer<s n="vblex"/></r></p></e>
-    <e><p><l>สำรวจ<s n="vblex"/></l><r>Messer<s n="vblex"/></r></p></e>
-    <e><p><l>รังวัด<s n="vblex"/></l><r>Messer<s n="vblex"/></r></p></e>
-    <e><p><l>เดี่ยว<s n="n"/></l><r>allein<s n="n"/></r></p></e>
-    <e><p><l>โดดเดี่ยว<s n="n"/></l><r>allein<s n="n"/></r></p></e>
-    <e><p><l>แค่<s n="n"/></l><r>allein<s n="n"/></r></p></e>
-    <e><p><l>เฉพาะ<s n="n"/></l><r>allein<s n="n"/></r></p></e>
-    <e><p><l>ขา<s n="n"/></l><r>been<s n="n"/></r></p></e>
-    <e><p><l>ด้าน<s n="n"/></l><r>been<s n="n"/></r></p></e>
-    <e><p><l>แขน<s n="n"/></l><r>been<s n="n"/></r></p></e>
-    <e><p><l>กระดูก<s n="n"/></l><r>been<s n="n"/></r></p></e>
-    <e><p><l>เริ่ม<s n="n"/></l><r>began<s n="n"/></r></p></e>
-    <e><p><l>เริ่ม<s n="n"/></l><r>begun<s n="n"/></r></p></e>
-    <e><p><l>ไม่ดี<s n="n"/></l><r>worse<s n="n"/></r></p></e>
-    <e><p><l>เลว<s n="n"/></l><r>worse<s n="n"/></r></p></e>
-    <e><p><l>รุนแรง<s n="n"/></l><r>worse<s n="n"/></r></p></e>
-    <e><p><l>ไม่ดี<s n="vblex"/></l><r>worse<s n="vblex"/></r></p></e>
-    <e><p><l>เลว<s n="vblex"/></l><r>worse<s n="vblex"/></r></p></e>
-    <e><p><l>รุนแรง<s n="vblex"/></l><r>worse<s n="vblex"/></r></p></e>
-    <e><p><l>คุณศัพท์ขั้นสุด<s n="n"/></l><r>baddest<s n="n"/></r></p></e>
-    <e><p><l>ไม่ดี<s n="n"/></l><r>baddest<s n="n"/></r></p></e>
-    <e><p><l>เลว<s n="n"/></l><r>baddest<s n="n"/></r></p></e>
-    <e><p><l>ดี<s n="n"/></l><r>not bad<s n="n"/></r></p></e>
-    <e><p><l>พอใช้<s n="n"/></l><r>not bad<s n="n"/></r></p></e>
-    <e><p><l>การสะกดแบบหนึ่งของ<s n="n"/></l><r>baddy<s n="n"/></r></p></e>
     <e><p><l>คนเลว<s n="n"/></l><r>baddy<s n="n"/></r></p></e>
-    <e><p><l>การสะกดแบบหนึ่งของ<s n="vblex"/></l><r>baddy<s n="vblex"/></r></p></e>
-    <e><p><l>คนเลว<s n="vblex"/></l><r>baddy<s n="vblex"/></r></p></e>
-    <e><p><l>ดีพอ<s n="adj"/></l><r>badly<s n="adj"/></r></p></e>
-    <e><p><l>รุนแรง<s n="adj"/></l><r>badly<s n="adj"/></r></p></e>
-    <e><p><l>มาก<s n="adj"/></l><r>badly<s n="adj"/></r></p></e>
-    <e><p><l>ยากจน<s n="adj"/></l><r>worse off<s n="adj"/></r></p></e>
-    <e><p><l>ยากจน<s n="det"/></l><r>worse off<s n="det"/></r></p></e>
-    <e><p><l>การสะกดแบบหนึ่งของ<s n="vblex"/></l><r>badly-off<s n="vblex"/></r></p></e>
-    <e><p><l>ยากจน<s n="vblex"/></l><r>badly-off<s n="vblex"/></r></p></e>
-    <e><p><l>ที่ยากจะเข้าใจ<s n="vblex"/></l><r>baffled<s n="vblex"/></r></p></e>
-    <e><p><l>ที่ทำให้มึนงง<s n="vblex"/></l><r>baffled<s n="vblex"/></r></p></e>
-    <e><p><l>ทำให้มีนงง<s n="vblex"/></l><r>baffled<s n="vblex"/></r></p></e>
-    <e><p><l>พยายามเอามาเป็นของตน<s n="n"/></l><r>bagged<s n="n"/></r></p></e>
-    <e><p><l>พยายามเอามาเป็นของตน<s n="vblex"/></l><r>bagged<s n="vblex"/></r></p></e>
-    <e><p><l>ขนมปัง<s n="vblex"/></l><r>bagel<s n="vblex"/></r></p></e>
-    <e><p><l>วงแหวน<s n="vblex"/></l><r>bagel<s n="vblex"/></r></p></e>
-    <e><p><l>กระเป๋า<s n="det"/></l><r>baggage<s n="det"/></r></p></e>
-    <e><p><l>กระเป๋า<s n="prn"/></l><r>baggage<s n="prn"/></r></p></e>
-    <e><p><l>คุณศัพท์ขั้นสุด<s n="n"/></l><r>baggiest<s n="n"/></r></p></e>
-    <e><p><l>ใหญ่<s n="n"/></l><r>baggiest<s n="n"/></r></p></e>
-    <e><p><l>หลวม<s n="n"/></l><r>baggiest<s n="n"/></r></p></e>
-    <e><p><l>ปี่สกอต<s n="adj"/></l><r>bagpipes<s n="adj"/></r></p></e>
-    <e><p><l>เครื่องดนตรี<s n="adj"/></l><r>bagpipes<s n="adj"/></r></p></e>
-    <e><p><l>สกอตแลนด์<s n="adj"/></l><r>bagpipes<s n="adj"/></r></p></e>
-    <e><p><l>ประกันตัว<s n="n"/></l><r>bail out<s n="n"/></r></p></e>
-    <e><p><l>อิสรภาพ<s n="n"/></l><r>bail out<s n="n"/></r></p></e>
-    <e><p><l>สถานการณ์<s n="n"/></l><r>bail out<s n="n"/></r></p></e>
-    <e><p><l>ทำให้ได้รับการประกันตัว<s n="vaux"/></l><r>bailed out<s n="vaux"/></r></p></e>
+    <e><p><l>ยากจน<s n="adj"/></l><r>worse<b/>off<s n="adj"/></r></p></e>
+    <e><p><l>ที่ยากจะเข้าใจ<s n="adj"/></l><r>baffled<s n="adj"/></r></p></e>
+    <e><p><l>ที่ทำให้มึนงง<s n="adj"/></l><r>baffled<s n="adj"/></r></p></e>
+    <e><p><l>ขนมปัง<s n="n"/></l><r>bagel<s n="n"/></r></p></e>
+    <e><p><l>วงแหวน<s n="n"/></l><r>bagel<s n="n"/></r></p></e>
+    <e><p><l>กระเป๋า<s n="n"/></l><r>baggage<s n="n"/></r></p></e>
+    <e><p><l>ปี่สกอต<s n="n"/></l><r>bagpipes<s n="n"/></r></p></e>
+    <e><p><l>ประกันตัว<s n="n"/></l><r>bail<b/>out<s n="n"/></r></p></e>
+    <e><p><l>ทำให้ได้รับการประกันตัว<s n="vblex"/></l><r>bailed<b/>out<s n="vblex"/></r></p></e>
     <e><p><l>ช่วยให้พ้นจากความลำบาก<s n="vaux"/></l><r>bailed out<s n="vaux"/></r></p></e>
-    <e><p><l>ล่อด้วยเหยื่อ<s n="adj"/></l><r>baited<s n="adj"/></r></p></e>
     <e><p><l>ร้อนจัด<s n="adj"/></l><r>baking<s n="adj"/></r></p></e>
-    <e><p><l>ร้อน<s n="adj"/></l><r>baking<s n="adj"/></r></p></e>
-    <e><p><l>ร้านขายขนมปัง<s n="adv"/></l><r>bakery<s n="adv"/></r></p></e>
-    <e><p><l>เค้ก<s n="adv"/></l><r>bakery<s n="adv"/></r></p></e>
-    <e><p><l>การค้าขาย<s n="adv"/></l><r>bakery<s n="adv"/></r></p></e>
-    <e><p><l>ร้านขายขนมปัง<s n="cnjsub"/></l><r>bakery<s n="cnjsub"/></r></p></e>
-    <e><p><l>เค้ก<s n="cnjsub"/></l><r>bakery<s n="cnjsub"/></r></p></e>
-    <e><p><l>การค้าขาย<s n="cnjsub"/></l><r>bakery<s n="cnjsub"/></r></p></e>
-    <e><p><l>ร้านขายขนมปัง<s n="pr"/></l><r>bakery<s n="pr"/></r></p></e>
-    <e><p><l>เค้ก<s n="pr"/></l><r>bakery<s n="pr"/></r></p></e>
-    <e><p><l>การค้าขาย<s n="pr"/></l><r>bakery<s n="pr"/></r></p></e>
-    <e><p><l>พิจารณา<s n="n"/></l><r>on balance<s n="n"/></r></p></e>
-    <e><p><l>พิจารณา<s n="vblex"/></l><r>on balance<s n="vblex"/></r></p></e>
-    <e><p><l>ปลอดภัย<s n="adv"/></l><r>throw off balance<s n="adv"/></r></p></e>
-    <e><p><l>มั่นคง<s n="adv"/></l><r>throw off balance<s n="adv"/></r></p></e>
-    <e><p><l>ปลอดภัย<s n="n"/></l><r>throw off balance<s n="n"/></r></p></e>
-    <e><p><l>มั่นคง<s n="n"/></l><r>throw off balance<s n="n"/></r></p></e>
-    <e><p><l>ปลอดภัย<s n="adj"/></l><r>throw off balance<s n="adj"/></r></p></e>
-    <e><p><l>มั่นคง<s n="adj"/></l><r>throw off balance<s n="adj"/></r></p></e>
-    <e><p><l>ปลอดภัย<s n="vblex"/></l><r>throw off balance<s n="vblex"/></r></p></e>
-    <e><p><l>มั่นคง<s n="vblex"/></l><r>throw off balance<s n="vblex"/></r></p></e>
-    <e><p><l>ดุลการชำระเงิน<s n="adv"/></l><r>balance of payments<s n="adv"/></r></p></e>
-    <e><p><l>ประเทศ<s n="adv"/></l><r>balance of payments<s n="adv"/></r></p></e>
-    <e><p><l>ส่งออก<s n="adv"/></l><r>balance of payments<s n="adv"/></r></p></e>
-    <e><p><l>นำเข้า<s n="adv"/></l><r>balance of payments<s n="adv"/></r></p></e>
-    <e><p><l>ดุลการชำระเงิน<s n="pr"/></l><r>balance of payments<s n="pr"/></r></p></e>
-    <e><p><l>ประเทศ<s n="pr"/></l><r>balance of payments<s n="pr"/></r></p></e>
-    <e><p><l>ส่งออก<s n="pr"/></l><r>balance of payments<s n="pr"/></r></p></e>
-    <e><p><l>นำเข้า<s n="pr"/></l><r>balance of payments<s n="pr"/></r></p></e>
+    <e><p><l>รีบมาก<s n="adj"/></l><r>baking<s n="adj"/></r></p></e>
+    <e><p><l>ร้านขายขนมปัง<s n="n"/></l><r>bakery<s n="n"/></r></p></e>
+    <e><p><l>เค้ก<s n="n"/></l><r>bakery<s n="n"/></r></p></e>
+    <e><p><l>หลังการพิจารณารอบด้าน<s n="adj"/></l><r>on<b/>balance<s n="adj"/></r></p></e>
+    <e><p><l>ไม่มั่นคง</l><r>throw<g><b/>off<b/>balance</g></r></p></e>
     <e><p><l>ดุลการชำระเงิน<s n="n"/></l><r>balance of payments<s n="n"/></r></p></e>
-    <e><p><l>ประเทศ<s n="n"/></l><r>balance of payments<s n="n"/></r></p></e>
-    <e><p><l>ส่งออก<s n="n"/></l><r>balance of payments<s n="n"/></r></p></e>
-    <e><p><l>นำเข้า<s n="n"/></l><r>balance of payments<s n="n"/></r></p></e>
-    <e><p><l>ดุลการชำระเงิน<s n="adj"/></l><r>balance of payments<s n="adj"/></r></p></e>
-    <e><p><l>ประเทศ<s n="adj"/></l><r>balance of payments<s n="adj"/></r></p></e>
-    <e><p><l>ส่งออก<s n="adj"/></l><r>balance of payments<s n="adj"/></r></p></e>
-    <e><p><l>นำเข้า<s n="adj"/></l><r>balance of payments<s n="adj"/></r></p></e>
-    <e><p><l>ดุลการชำระเงิน<s n="vblex"/></l><r>balance of payments<s n="vblex"/></r></p></e>
-    <e><p><l>ประเทศ<s n="vblex"/></l><r>balance of payments<s n="vblex"/></r></p></e>
-    <e><p><l>ส่งออก<s n="vblex"/></l><r>balance of payments<s n="vblex"/></r></p></e>
-    <e><p><l>นำเข้า<s n="vblex"/></l><r>balance of payments<s n="vblex"/></r></p></e>
-    <e><p><l>งบดุล<s n="adj"/></l><r>balance sheet<s n="adj"/></r></p></e>
-    <e><p><l>ทรัพย์สิน<s n="adj"/></l><r>balance sheet<s n="adj"/></r></p></e>
-    <e><p><l>หนี้สิน<s n="adj"/></l><r>balance sheet<s n="adj"/></r></p></e>
-    <e><p><l>ฐานะทางการเงิน<s n="adj"/></l><r>balance sheet<s n="adj"/></r></p></e>
-    <e><p><l>บริษัท<s n="adj"/></l><r>balance sheet<s n="adj"/></r></p></e>
-    <e><p><l>งบดุล<s n="adv"/></l><r>balance sheet<s n="adv"/></r></p></e>
-    <e><p><l>ทรัพย์สิน<s n="adv"/></l><r>balance sheet<s n="adv"/></r></p></e>
-    <e><p><l>หนี้สิน<s n="adv"/></l><r>balance sheet<s n="adv"/></r></p></e>
-    <e><p><l>ฐานะทางการเงิน<s n="adv"/></l><r>balance sheet<s n="adv"/></r></p></e>
-    <e><p><l>บริษัท<s n="adv"/></l><r>balance sheet<s n="adv"/></r></p></e>
     <e><p><l>งบดุล<s n="n"/></l><r>balance sheet<s n="n"/></r></p></e>
-    <e><p><l>ทรัพย์สิน<s n="n"/></l><r>balance sheet<s n="n"/></r></p></e>
-    <e><p><l>หนี้สิน<s n="n"/></l><r>balance sheet<s n="n"/></r></p></e>
-    <e><p><l>ฐานะทางการเงิน<s n="n"/></l><r>balance sheet<s n="n"/></r></p></e>
-    <e><p><l>บริษัท<s n="n"/></l><r>balance sheet<s n="n"/></r></p></e>
     <e><p><l>แน่นอน<s n="adv"/></l><r>in the balance<s n="adv"/></r></p></e>
-    <e><p><l>แน่นอน<s n="preadv"/></l><r>in the balance<s n="preadv"/></r></p></e>
     <e><p><l>ระบำปลายเท้า<s n="n"/></l><r>ballerina<s n="n"/></r></p></e>
     <e><p><l>ระบำ<s n="n"/></l><r>ballerina<s n="n"/></r></p></e>
     <e><p><l>บัลเลต์<s n="n"/></l><r>ballerina<s n="n"/></r></p></e>
-    <e><p><l>กีฬา<s n="adj"/></l><r>ball game<s n="adj"/></r></p></e>
-    <e><p><l>ลูกบอล<s n="adj"/></l><r>ball game<s n="adj"/></r></p></e>
-    <e><p><l>ฟุตบอล<s n="adj"/></l><r>ball game<s n="adj"/></r></p></e>
-    <e><p><l>กีฬา<s n="n"/></l><r>ball game<s n="n"/></r></p></e>
-    <e><p><l>ลูกบอล<s n="n"/></l><r>ball game<s n="n"/></r></p></e>
-    <e><p><l>ฟุตบอล<s n="n"/></l><r>ball game<s n="n"/></r></p></e>
-    <e><p><l>กีฬา<s n="vblex"/></l><r>ball game<s n="vblex"/></r></p></e>
-    <e><p><l>ลูกบอล<s n="vblex"/></l><r>ball game<s n="vblex"/></r></p></e>
-    <e><p><l>ฟุตบอล<s n="vblex"/></l><r>ball game<s n="vblex"/></r></p></e>
-    <e><p><l>ตัวเลข<s n="cnjcoo"/></l><r>ballpark figure<s n="cnjcoo"/></r></p></e>
-    <e><p><l>จำนวน<s n="cnjcoo"/></l><r>ballpark figure<s n="cnjcoo"/></r></p></e>
-    <e><p><l>ประมาณ<s n="cnjcoo"/></l><r>ballpark figure<s n="cnjcoo"/></r></p></e>
-    <e><p><l>ตัวเลข<s n="adv"/></l><r>ballpark estimate<s n="adv"/></r></p></e>
-    <e><p><l>จำนวน<s n="adv"/></l><r>ballpark estimate<s n="adv"/></r></p></e>
-    <e><p><l>ประมาณ<s n="adv"/></l><r>ballpark estimate<s n="adv"/></r></p></e>
-    <e><p><l>ตัวเลข<s n="pr"/></l><r>ballpark estimate<s n="pr"/></r></p></e>
-    <e><p><l>จำนวน<s n="pr"/></l><r>ballpark estimate<s n="pr"/></r></p></e>
-    <e><p><l>ประมาณ<s n="pr"/></l><r>ballpark estimate<s n="pr"/></r></p></e>
-    <e><p><l>ปากกาลูกลื่น<s n="adj"/></l><r>ballpoint<s n="adj"/></r></p></e>
-    <e><p><l>ปากกาลูกลื่น<s n="adv"/></l><r>ballpoint<s n="adv"/></r></p></e>
-    <e><p><l>ปากกาลูกลื่น<s n="pr"/></l><r>ballpoint<s n="pr"/></r></p></e>
     <e><p><l>ปากกาลูกลื่น<s n="n"/></l><r>ballpoint<s n="n"/></r></p></e>
-    <e><p><l>ปากกาลูกลื่น<s n="adv"/></l><r>ballpoint pen<s n="adv"/></r></p></e>
-    <e><p><l>ปากกาลูกลื่น<s n="pr"/></l><r>ballpoint pen<s n="pr"/></r></p></e>
-    <e><p><l>บอลรูม<s n="vblex"/></l><r>ballroom<s n="vblex"/></r></p></e>
-    <e><p><l>ห้อง<s n="vblex"/></l><r>ballroom<s n="vblex"/></r></p></e>
-    <e><p><l>เต้นรำ<s n="vblex"/></l><r>ballroom<s n="vblex"/></r></p></e>
-    <e><p><l>งานสโมสร<s n="vblex"/></l><r>ballroom<s n="vblex"/></r></p></e>
-    <e><p><l>ไร้สาระ<s n="n"/></l><r>baloney<s n="n"/></r></p></e>
-    <e><p><l>โกหก<s n="n"/></l><r>baloney<s n="n"/></r></p></e>
-    <e><p><l>ไร้สาระ<s n="vblex"/></l><r>baloney<s n="vblex"/></r></p></e>
-    <e><p><l>โกหก<s n="vblex"/></l><r>baloney<s n="vblex"/></r></p></e>
-    <e><p><l>ห้าม<s n="n"/></l><r>banned<s n="n"/></r></p></e>
-    <e><p><l>ห้าม<s n="vblex"/></l><r>banned<s n="vblex"/></r></p></e>
-    <e><p><l>สนใจ<s n="pr"/></l><r>banal<s n="pr"/></r></p></e>
-    <e><p><l>คุณศัพท์ขั้นสุด<s n="n"/></l><r>banalest<s n="n"/></r></p></e>
+    <e><p><l>ปากกาลูกลื่น<s n="n"/></l><r>ballpoint<b/>pen<s n="n"/></r></p></e>
+    <e><p><l>ห้องเต้นรำ<s n="n"/></l><r>ballroom<s n="n"/></r></p></e>
+    <e><p><l>งานสโมสร<s n="n"/></l><r>ballroom<s n="n"/></r></p></e>
+    <e><p><l>ห้าม<s n="adj"/></l><r>banned<s n="adj"/></r></p></e>
+    <e><p><l>ไม่ใช่ของใหม่<s n="adj"/></l><r>banal<s n="adj"/></r></p></e>
+    <e><p><l>ไม่น่าสนใจ<s n="adj"/></l><r>banal<s n="adj"/></r></p></e>
     <e><p><l>รวมกลุ่ม<s n="vblex"/></l><r>banding<s n="vblex"/></r></p></e>
-    <e><p><l>พันแผล<s n="n"/></l><r>bandaged<s n="n"/></r></p></e>
-    <e><p><l>พันแผล<s n="vblex"/></l><r>bandaged<s n="vblex"/></r></p></e>
-    <e><p><l>เนรเทศ<s n="adv"/></l><r>banished<s n="adv"/></r></p></e>
-    <e><p><l>ขับไล่<s n="adv"/></l><r>banished<s n="adv"/></r></p></e>
-    <e><p><l>ราว<s n="n"/></l><r>bannister<s n="n"/></r></p></e>
-    <e><p><l>บันได<s n="n"/></l><r>bannister<s n="n"/></r></p></e>
-    <e><p><l>ราว<s n="vblex"/></l><r>bannister<s n="vblex"/></r></p></e>
-    <e><p><l>บันได<s n="vblex"/></l><r>bannister<s n="vblex"/></r></p></e>
-    <e><p><l>คาดหวัง<s n="vblex"/></l><r>bank on<s n="vblex"/></r></p></e>
-    <e><p><l>ไว้วางใจ<s n="vblex"/></l><r>bank on<s n="vblex"/></r></p></e>
-    <e><p><l>เชื่อ<s n="vblex"/></l><r>bank on<s n="vblex"/></r></p></e>
-    <e><p><l>นายธนาคาร<s n="vblex"/></l><r>banker<s n="vblex"/></r></p></e>
-    <e><p><l>ธนาคาร<s n="vblex"/></l><r>banker<s n="vblex"/></r></p></e>
-    <e><p><l>วันหยุด<s n="vblex"/></l><r>bank holiday<s n="vblex"/></r></p></e>
-    <e><p><l>ธนาคาร<s n="vblex"/></l><r>bank holiday<s n="vblex"/></r></p></e>
-    <e><p><l>ธนบัตร<s n="adj"/></l><r>banknote<s n="adj"/></r></p></e>
+    <e><p><l>ราวบันได<s n="n"/></l><r>bannister<s n="n"/></r></p></e>
+    <e><p><l>เสาบันได<s n="n"/></l><r>bannister<s n="n"/></r></p></e>
+    <e><p><l>คาดหวัง<s n="vblex"/></l><r>bank<b/>on<s n="vblex"/></r></p></e>
+    <e><p><l>ไว้วางใจ<s n="vblex"/></l><r>bank<b/on<s n="vblex"/></r></p></e>
+    <e><p><l>เชื่อ<s n="vblex"/></l><r>bank<b/on<s n="vblex"/></r></p></e>
+    <e><p><l>นายธนาคาร<s n="n"/></l><r>banker<s n="n"/></r></p></e>
+    <e><p><l>วันหยุดธนาคาร<s n="vblex"/></l><r>bank holiday<s n="n"/></r></p></e>
+    <e><p><l>ธนบัตร<s n="n"/></l><r>banknote<s n="n"/></r></p></e>
     <e><p><l>ล้มละลาย<s n="vblex"/></l><r>bankrupt<s n="vblex"/></r></p></e>
-    <e><p><l>หนี้<s n="vblex"/></l><r>bankrupt<s n="vblex"/></r></p></e>
-    <e><p><l>ทำให้ล้มละลาย<s n="adj"/></l><r>bankrupted<s n="adj"/></r></p></e>
-    <e><p><l>ทำให้ล้มละลาย<s n="n"/></l><r>bankrupted<s n="n"/></r></p></e>
-    <e><p><l>ทำให้ล้มละลาย<s n="vblex"/></l><r>bankrupted<s n="vblex"/></r></p></e>
-    <e><p><l>ภาวะล้มละลาย<s n="vblex"/></l><r>bankruptcy<s n="vblex"/></r></p></e>
-    <e><p><l>ใบแจ้งสภาพบัญชี<s n="vblex"/></l><r>bank statement<s n="vblex"/></r></p></e>
-    <e><p><l>รายการ<s n="vblex"/></l><r>bank statement<s n="vblex"/></r></p></e>
-    <e><p><l>ฝาก<s n="vblex"/></l><r>bank statement<s n="vblex"/></r></p></e>
-    <e><p><l>ถอน<s n="vblex"/></l><r>bank statement<s n="vblex"/></r></p></e>
-    <e><p><l>บัญชี<s n="vblex"/></l><r>bank statement<s n="vblex"/></r></p></e>
-    <e><p><l>ผ้า<s n="n"/></l><r>banner<s n="n"/></r></p></e>
-    <e><p><l>เครื่องหมาย<s n="n"/></l><r>banner<s n="n"/></r></p></e>
-    <e><p><l>แบก<s n="n"/></l><r>banner<s n="n"/></r></p></e>
-    <e><p><l>ขึง<s n="n"/></l><r>banner<s n="n"/></r></p></e>
-    <e><p><l>ผ้า<s n="vblex"/></l><r>banner<s n="vblex"/></r></p></e>
-    <e><p><l>เครื่องหมาย<s n="vblex"/></l><r>banner<s n="vblex"/></r></p></e>
-    <e><p><l>แบก<s n="vblex"/></l><r>banner<s n="vblex"/></r></p></e>
-    <e><p><l>ขึง<s n="vblex"/></l><r>banner<s n="vblex"/></r></p></e>
-    <e><p><l>งานเลี้ยง<s n="n"/></l><r>banquet<s n="n"/></r></p></e>
-    <e><p><l>ทางการ<s n="n"/></l><r>banquet<s n="n"/></r></p></e>
-    <e><p><l>งานเลี้ยง<s n="vblex"/></l><r>banquet<s n="vblex"/></r></p></e>
-    <e><p><l>ทางการ<s n="vblex"/></l><r>banquet<s n="vblex"/></r></p></e>
-    <e><p><l>หยอกเหย้า<s n="adj"/></l><r>banter<s n="adj"/></r></p></e>
-    <e><p><l>หยอกเหย้า<s n="vblex"/></l><r>banter<s n="vblex"/></r></p></e>
-    <e><p><l>คนป่าเถื่อน<s n="vblex"/></l><r>barbarian<s n="vblex"/></r></p></e>
-    <e><p><l>อารยธรรม<s n="vblex"/></l><r>barbarian<s n="vblex"/></r></p></e>
-    <e><p><l>ประพฤติ<s n="vblex"/></l><r>barbarian<s n="vblex"/></r></p></e>
-    <e><p><l>เลว<s n="vblex"/></l><r>barbarian<s n="vblex"/></r></p></e>
-    <e><p><l>โหดร้าย<s n="n"/></l><r>barbaric<s n="n"/></r></p></e>
+    <e><p><l>ภาวะล้มละลาย<s n="n"/></l><r>bankruptcy<s n="n"/></r></p></e>
+    <e><p><l>รายการเดินบัญชี<s n="n"/></l><r>bank<b/>statement<s n="vblex"/></r></p></e>
+    <e><p><l>ใบแจ้งสภาพบัญชี<s n="n"/></l><r>bank<b/>statement<s n="n"/></r></p></e>
+    <e><p><l>แบนเนอร์<s n="n"/></l><r>banner<s n="n"/></r></p></e>
+    <e><p><l>งานเลี้ยงทางการ<s n="n"/></l><r>banquet<s n="n"/></r></p></e>
+    <e><p><l>การหยอกเหย้า<s n="vblex"/></l><r>banter<s n="vblex"/></r></p></e>
+    <e><p><l>คนป่าเถื่อน<s n="n"/></l><r>barbarian<s n="m"/></r></p></e>
+    <e><p><l>ป่าเถื่อน<s n="adj"/></l><r>barbaric<s n="adj"/></r></p></e>
     <e><p><l>รุนแรง<s n="n"/></l><r>barbaric<s n="n"/></r></p></e>
-    <e><p><l>เตา<s n="n"/></l><r>barbecue<s n="n"/></r></p></e>
-    <e><p><l>โลหะ<s n="n"/></l><r>barbecue<s n="n"/></r></p></e>
-    <e><p><l>กลางแจ้ง<s n="n"/></l><r>barbecue<s n="n"/></r></p></e>
-    <e><p><l>งานเลี้ยง<s n="n"/></l><r>barbecue<s n="n"/></r></p></e>
-    <e><p><l>ปิ้ง<s n="n"/></l><r>barbecue<s n="n"/></r></p></e>
-    <e><p><l>ย่าง<s n="n"/></l><r>barbecue<s n="n"/></r></p></e>
-    <e><p><l>เตา<s n="vblex"/></l><r>barbecue<s n="vblex"/></r></p></e>
-    <e><p><l>โลหะ<s n="vblex"/></l><r>barbecue<s n="vblex"/></r></p></e>
-    <e><p><l>กลางแจ้ง<s n="vblex"/></l><r>barbecue<s n="vblex"/></r></p></e>
-    <e><p><l>งานเลี้ยง<s n="vblex"/></l><r>barbecue<s n="vblex"/></r></p></e>
-    <e><p><l>ปิ้ง<s n="vblex"/></l><r>barbecue<s n="vblex"/></r></p></e>
-    <e><p><l>ย่าง<s n="vblex"/></l><r>barbecue<s n="vblex"/></r></p></e>
-    <e><p><l>ลวดหนาม<s n="n"/></l><r>barbed wire<s n="n"/></r></p></e>
-    <e><p><l>ลวดหนาม<s n="vblex"/></l><r>barbed wire<s n="vblex"/></r></p></e>
-    <e><p><l>ช่างตัดผม<s n="adv"/></l><r>barber<s n="adv"/></r></p></e>
-    <e><p><l>ช่างตัดผม<s n="vblex"/></l><r>barber<s n="vblex"/></r></p></e>
-    <e><p><l>ร้านตัดผม<s n="adv"/></l><r>barber's<s n="adv"/></r></p></e>
-    <e><p><l>มือเปล่า<s n="adj"/></l><r>with one's bare hands<s n="adj"/></r></p></e>
-    <e><p><l>ปราศจาก<s n="adj"/></l><r>with one's bare hands<s n="adj"/></r></p></e>
-    <e><p><l>อาวุธ<s n="adj"/></l><r>with one's bare hands<s n="adj"/></r></p></e>
-    <e><p><l>มือเปล่า<s n="adv"/></l><r>with one's bare hands<s n="adv"/></r></p></e>
-    <e><p><l>ปราศจาก<s n="adv"/></l><r>with one's bare hands<s n="adv"/></r></p></e>
-    <e><p><l>อาวุธ<s n="adv"/></l><r>with one's bare hands<s n="adv"/></r></p></e>
-    <e><p><l>แทบ<s n="adj"/></l><r>barely<s n="adj"/></r></p></e>
-    <e><p><l>แทบ<s n="adv"/></l><r>barely<s n="adv"/></r></p></e>
-    <e><p><l>แทบ<s n="pr"/></l><r>barely<s n="pr"/></r></p></e>
-    <e><p><l>ลดน้อยลง<s n="det"/></l><r>abated<s n="det"/></r></p></e>
-    <e><p><l>พันธุวิศวกรรม<s n="adj"/></l><r>genetic engineering<s n="adj"/></r></p></e>
-    <e><p><l>พันธุวิศวกรรม<s n="vblex"/></l><r>genetic engineering<s n="vblex"/></r></p></e>
-    <e><p><l>การออกเสียงภาษาไทย<s n="adj"/></l><r>poverty<s n="adj"/></r></p></e>
-    <e><p><l>ความยากจน<s n="adj"/></l><r>poverty<s n="adj"/></r></p></e>
-    <e><p><l>การออกเสียงภาษาไทย<s n="n"/></l><r>poverty<s n="n"/></r></p></e>
-    <e><p><l>เวอที<s n="n"/></l><r>poverty<s n="n"/></r></p></e>
+    <e><p><l>บาร์บีคิว<s n="n"/></l><r>barbecue<s n="n"/></r></p></e>
+    <e><p><l>ลวดหนาม<s n="n"/></l><r>barbed<b/>wire<s n="n"/></r></p></e>
+    <e><p><l>ช่างตัดผม<s n="n"/></l><r>barber<s n="n"/></r></p></e>
+    <e><p><l>ร้านตัดผม<s n="n"/></l><r>barber's<s n="n"/></r></p></e> <!-- not sure -->
+    <e><p><l>ปราศจากอาวุธ</l><r>with<b/>one's<b/>bare<b/>hands</r></p></e>
+    <e><p><l>แทบ<s n="adv"/></l><r>barely<s n="adj"/></r></p></e>
+    <e><p><l>พันธุวิศวกรรม<s n="adj"/></l><r>genetic<b/>engineering<s n="adj"/></r></p></e>
     <e><p><l>ความยากจน<s n="n"/></l><r>poverty<s n="n"/></r></p></e>
     <e><p><l>ฟิสิกส์<s n="n"/></l><r>physics<s n="n"/></r></p></e>
-    <e><p><l>วิทยาศาสตร์<s n="n"/></l><r>physics<s n="n"/></r></p></e>
-    <e><p><l>สมบัติ<s n="n"/></l><r>physics<s n="n"/></r></p></e>
     <e><p><l>กายภาพ<s n="n"/></l><r>physics<s n="n"/></r></p></e>
-    <e><p><l>สาร<s n="n"/></l><r>physics<s n="n"/></r></p></e>
-    <e><p><l>พลังงาน<s n="n"/></l><r>physics<s n="n"/></r></p></e>
-    <e><p><l>กทำให้มนารออกเสียงภาษาไทย<s n="n"/></l><r>bid<s n="n"/></r></p></e>
-    <e><p><l>บิด<s n="n"/></l><r>bid<s n="n"/></r></p></e>
-    <e><p><l>ออกคำสั่ง<s n="n"/></l><r>bid<s n="n"/></r></p></e>
-    <e><p><l>เชื้อเชิญ<s n="n"/></l><r>bid<s n="n"/></r></p></e>
-    <e><p><l>อวยพร<s n="n"/></l><r>bid<s n="n"/></r></p></e>
+    <e><p><l>ออกคำสั่ง<s n="vblex"/></l><r>bid<s n="vblex"/></r></p></e>
+    <e><p><l>เชื้อเชิญ<s n="vblex"/></l><r>bid<s n="vblex"/></r></p></e>
+    <e><p><l>อวยพร<s n="vblex"/></l><r>bid<s n="vblex"/></r></p></e>
     <e><p><l>การประมูล<s n="n"/></l><r>bid<s n="n"/></r></p></e>
     <e><p><l>ความพยายามเพื่อให้ได้มา<s n="n"/></l><r>bid<s n="n"/></r></p></e>
     <e><p><l>ความพยายามที่จะทำบางสิ่ง<s n="n"/></l><r>bid<s n="n"/></r></p></e>
