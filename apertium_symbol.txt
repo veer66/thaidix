@@ -1,0 +1,151 @@
+vblex 	Standard verb
+vbmod 	Modal verb 	
+vbser 	Verb "to be" 	
+vbhaver 	Verb "to have"
+vaux 	Auxilliary verb
+adj 	Adjective 	
+post 	Postposition 	
+adv 	Adverb 	
+preadv 	Pre-adverb 	
+postadv 	Post-adverb 	
+mod 	Модальное слово
+det 	Determiner
+prn 	Pronoun
+pr 	Preposition
+num 	Numeral 	
+np 	Proper noun
+ij 	Interjection
+cnjcoo 	Co-ordinating conjunction
+cnjsub 	Sub-ordinating conjunction 	
+cnjadv 	Conjunctive adverb
+sent 	Sentence-ending punctuation
+f 	Feminine 	
+m 	Masculine 	
+nt 	Neuter 	
+ma 	Masculine (animate)
+mi 	Masculine (inanimate)
+mp 	Masculine (personal)
+mn 	Masculine and Neuter 	
+fn 	Feminine and Neuter 	
+ut 	Common
+mf 	Masculine , feminine
+mfn 	Masculine , feminine , neuter
+un 	Common, neuter
+GD 	Gender to be determined 	
+cnt 	Countable 	
+unc 	Uncountable (mass) 	
+
+sg 	Singular 	
+pl 	Plural 	
+du 	Dual 	
+ct 	Count 	see mk-bg
+coll 	Collective 	
+sp 	Singular , plural 	
+ND 	Number to be determined 	
+
+nom 	Nominative 	
+acc 	Accusative 	
+dat 	Dative 	
+gen 	Genitive 	
+dg 	Dative and Genitive
+voc 	Vocative 	
+abl 	Ablative 	
+ins 	Instrumental 	wikipedia
+loc 	Locative 	wikipedia
+abl 	Ablative 	wikipedia
+prp 	Prepositional 	wikipedia
+tra 	Translative 	
+ill 	Illative 	
+ine 	Inessive 	
+ade 	Adessive 	
+all 	Allative 	
+abe 	Abessive 	
+ess 	Essive 	
+par 	Partitive 	
+dis 	Distributive 	
+com 	Comitative 	
+soc 	Sociative 	
+prl 	Prolative 	
+
+actv 	Active voice 	
+pasv,pass 	Passive voice
+midv 	Middle voice 	
+nactv 	Non-active voice
+
+Tense and mode
+Symbol 	Gloss 	Notes
+pres 	Present 	
+past 	Past 	
+imp 	Imperative 	
+inf 	Infinitive 	
+pp 	Past participle
+pp2 	Past participle
+pp3 	Past participle
+pprs 	Present participl
+ger 	Gerund 	wikipedia
+pri 	Present indicative
+pii 	Imperfect
+fti 	Future indicative 	
+fts 	Future subjunctive 	
+cni 	Conditional 	
+plu 	Pluperfect
+pmp 	Pluperfect
+prs 	Present subjunctive
+pis 	Imperfect subjunctive 	
+ifi 	Past definite
+aff 	Affirmative 	
+itg 	Interrogative 	
+neg 	Negative 	
+
+caus 	Causative 	
+
+px1sg 	First person singular possessive
+px2sg 	Second person singular possessive
+px3sg 	Third person singular possessive
+px1pl 	First person plural possessive
+px2pl 	Second person plural possessive
+px3pl 	Third person plural possessive
+px3sp 	Third person possessive singular/plural
+
+ant 	Anthroponym 	wikipedia
+top 	Toponym 	In some language pairs without the locative case this may be loc. Although this should be changed. wikipedia
+hyd 	Hydronym 	wikipedia
+cog 	Cognomen 	In normal use, surnames
+org 	Organisation 	
+
+p1 	First person 	
+p2 	Second person 	
+p3 	Third person 	
+impers 	Impersonal
+
+aa 	Animate 	
+an 	Animate / inanimate 	
+nn 	Inanimate 	
+
+sint 	Synthetic
+pst 	Positive 	
+comp 	Comparative
+sup 	Superlative
+attr 	Attributive
+pred 	Predicative
+
+tn 	Tónico
+detnt 	Neuter determiner
+predet 	Pre determiner
+atn 	Atónico
+qnt 	Quantifier
+ord 	Ordinal
+obj 	Object
+subj 	Subject
+pro 	Proclitic
+enc 	Enclitic
+acr 	Acronym
+rel 	Relative
+ind 	Indefinite
+itg 	Interrogative
+dem 	Demonstrative
+def 	Definite
+pos 	Possesive
+ref 	Reflexive
+prx 	Proximate
+dst 	Distal 
