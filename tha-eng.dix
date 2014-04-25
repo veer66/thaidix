@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
+  <alphabet/>
+  <sdefs>
+    <sdef n="adj" c="Adjective"/>
+    <sdef n="adv" c="Adverb"/>
+    <sdef n="cnjadv" c="Conjunctive adverb"/>
+    <sdef n="cnjcoo" c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub" c="Sub-ordinating conjunction"/>
+    <sdef n="det" c="Determiner"/>
+    <sdef n="guio" c=""/>
+    <sdef n="ij" c="Interjection"/>
+    <sdef n="m" c="Masculine"/>
+    <sdef n="n" c="Noun"/>
+    <sdef n="np" c="Proper noun"/>
+    <sdef n="num" c="Numeral"/>
+    <sdef n="pr" c="Preposition"/>
+    <sdef n="preadv" c="Pre-adverb"/>
+    <sdef n="prep" c=""/>
+    <sdef n="prn" c="Pronoun"/>
+    <sdef n="sent" c="Sentence-ending punctuation"/>
+    <sdef n="vaux" c="Auxilliary verb"/>
+    <sdef n="vblex" c="Standard verb"/>
+    <sdef n="vbmod" c="Modal verb"/>
+    <sdef n="vbser" c="Verb &quot;to be&quot;"/>
+  </sdefs>
   <section id="main" type="standard">
-
-    <!--  -->
     <e><p><l>กลับด้าน</l><r>back<b/>to<b/>front</r></p></e>
     <e><p><l>ทำสิ่งที่คมให้เรียบ<s n="vblex"/></l><r>round<g><b/>off<s n="vblex"/></g></r></p></e>
     <e><p><l>ทำให้มน<s n="vblex"/></l><r>round<g><b/>off<s n="vblex"/></g></r></p></e>
@@ -2369,7 +2391,7 @@
     <e><p><l>ความสนุกสุดเหวี่ยง<s n="n"/></l><r>zest<s n="n"/></r></p></e>
     <e><p><l>ความน่าสนใจ<s n="n"/></l><r>zest<s n="n"/></r></p></e>
     <e><p><l>เปลือกส้ม<s n="n"/></l><r>zest<s n="n"/></r></p></e>
-    <e><p><l>ซิป<s n=""/></l><r>zip<s n="n"/></r></p></e>
+    <e><p><l>ซิป<s n="n"/></l><r>zip<s n="n"/></r></p></e>
     <e><p><l>เซอร์โคเนียม<s n="n"/></l><r>zirconium<s n="n"/></r></p></e>
     <e><p><l>จักรราศี<s n="n"/></l><r>zodiac<s n="n"/></r></p></e>
 
@@ -3327,7 +3349,7 @@
     <e><p><l>ได้รับคะแนนเลือกตั้ง<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
     <e><p><l>หยั่งประชามติ<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
     <e><p><l>เล็มออก<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
-    <e><p>ดึงผู้ลงคะแนนไปยังที่ลงคะแนน<l><s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
+    <e><p><l>ดึงผู้ลงคะแนนไปยังที่ลงคะแนน<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
     <e><p><l>ตัดผม<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
     <e><p><l>รับบัตรลงคะแนนเสียง<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>	
     <e><p><l>ตัดขน<s n="vblex"/></l><r>poll<s n="vblex"/></r></p></e>		
@@ -3452,5 +3474,6 @@
     <e><p><l>เป็น<s n="vbser"/></l><r>is<s n="vbser"/></r></p></e>
     <e><p><l>คือ<s n="vbser"/></l><r>is<s n="vbser"/></r></p></e>
     <e><p><l>อยู่<s n="vbser"/></l><r>is<s n="vbser"/></r></p></e>
+
   </section>
 </dictionary>
